@@ -1,0 +1,1341 @@
+{
+ "fecha": "2026-09-18",
+ "diputados": [
+  {
+   "id": "14848610",
+   "apellido_nombre": "ACERBO ESTEBAN ALEJANDRO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Daireaux",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_14848610.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=14848610"
+  },
+  {
+   "id": "25838698",
+   "apellido_nombre": "ALONSO SOLEDAD ANTONIA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Campana",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_25838698.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=25838698"
+  },
+  {
+   "id": "35775683",
+   "apellido_nombre": "ALVADO MAITE MILAGROS",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Bahía Blanca",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_35775683.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=35775683"
+  },
+  {
+   "id": "27791483",
+   "apellido_nombre": "ARCHANCO JUAN ARIEL",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 8,
+   "distrito": "La Plata",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_27791483.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=27791483"
+  },
+  {
+   "id": "29708028",
+   "apellido_nombre": "BALOR ANA LUZ",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Tres De Febrero",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_29708028.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=29708028"
+  },
+  {
+   "id": "24436008",
+   "apellido_nombre": "BARREIRO ROMINA MELISA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 3,
+   "distrito": "Avellaneda",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_24436008.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=24436008"
+  },
+  {
+   "id": "28368254",
+   "apellido_nombre": "BASUALDO MARCELA MARÍA AMELIA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "San Miguel Del Monte",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_28368254.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=28368254"
+  },
+  {
+   "id": "20832318",
+   "apellido_nombre": "CASCALLARES MARIANO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Almirante Brown",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_20832318.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=20832318"
+  },
+  {
+   "id": "23297189",
+   "apellido_nombre": "DE JESUS JUAN PABLO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "La Costa",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_23297189.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=23297189"
+  },
+  {
+   "id": "22487660",
+   "apellido_nombre": "DI CESARE GERMAN",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Gral. Alvarado",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_22487660.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=22487660"
+  },
+  {
+   "id": "16863060",
+   "apellido_nombre": "DICHIARA ENRIQUE ALEJANDRO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Monte Hermoso",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_16863060.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=16863060"
+  },
+  {
+   "id": "12279120",
+   "apellido_nombre": "ESLAIMAN HECTOR RUBEN",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "San Martin",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_12279120.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=12279120"
+  },
+  {
+   "id": "33259096",
+   "apellido_nombre": "FLORES YANZ EVELYN MARLEN",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "San Nicolas",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_33259096.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=33259096"
+  },
+  {
+   "id": "16341962",
+   "apellido_nombre": "GALVÁN JOSÉ RENALDO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "La Matanza",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_16341962.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=16341962"
+  },
+  {
+   "id": "21714891",
+   "apellido_nombre": "GUERRERA ALEXIS",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Gral. Pinto",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_21714891.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=21714891"
+  },
+  {
+   "id": "17486135",
+   "apellido_nombre": "GUZZO VIVIANA RAQUEL",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "General Viamonte",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_17486135.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=17486135"
+  },
+  {
+   "id": "33506274",
+   "apellido_nombre": "IAÑEZ LUCÍA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 8,
+   "distrito": "La Plata",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_33506274.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=33506274"
+  },
+  {
+   "id": "27029140",
+   "apellido_nombre": "LANDIVAR MARÍA MERCEDES",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 7,
+   "distrito": "Olavarria",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_27029140.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=27029140"
+  },
+  {
+   "id": "36086732",
+   "apellido_nombre": "LIMONE MARÍA EVA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Lomas De Zamora",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_36086732.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=36086732"
+  },
+  {
+   "id": "20727392",
+   "apellido_nombre": "LISSALDE RICARDO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 7,
+   "distrito": "Saladillo",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_20727392.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=20727392"
+  },
+  {
+   "id": "24040283",
+   "apellido_nombre": "MALPELI JUAN MARTÍN",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 8,
+   "distrito": "La Plata",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_24040283.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=24040283"
+  },
+  {
+   "id": "30630103",
+   "apellido_nombre": "MENDOZA MAYRA SOLEDAD",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Quilmes",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_30630103.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=30630103"
+  },
+  {
+   "id": "31298104",
+   "apellido_nombre": "MORENO LEONARDO JOSÉ",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Escobar",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_31298104.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=31298104"
+  },
+  {
+   "id": "25731685",
+   "apellido_nombre": "NANNI DIEGO EDUARDO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "Exaltac. De La Cruz",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_25731685.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=25731685"
+  },
+  {
+   "id": "28366110",
+   "apellido_nombre": "NARDINI MARIA SILVINA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_28366110.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=28366110"
+  },
+  {
+   "id": "37570504",
+   "apellido_nombre": "OLIVETTO MICAELA EDITH",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Chacabuco",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_37570504.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=37570504"
+  },
+  {
+   "id": "22954696",
+   "apellido_nombre": "PADULO LUCIANA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_22954696.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=22954696"
+  },
+  {
+   "id": "24795966",
+   "apellido_nombre": "PUGLELLI CARLOS JAVIER",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "San Andres De Giles",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_24795966.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=24795966"
+  },
+  {
+   "id": "31758502",
+   "apellido_nombre": "RASQUETTI AYELÉN ITATÍ",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Cañuelas",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_31758502.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=31758502"
+  },
+  {
+   "id": "37789048",
+   "apellido_nombre": "RECALDE MARGARITA ALEJANDRA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Ituzaingó",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_37789048.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=37789048"
+  },
+  {
+   "id": "32111201",
+   "apellido_nombre": "RODRIGUEZ ALBERTI JORGE MARTÍN",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Hurlingam",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_32111201.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=32111201"
+  },
+  {
+   "id": "30547298",
+   "apellido_nombre": "ROMERO CINTIA VERONICA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "General Pueyrredon",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_30547298.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=30547298"
+  },
+  {
+   "id": "26842713",
+   "apellido_nombre": "ROSSI JOSE IGNACIO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2027",
+   "seccion": 5,
+   "distrito": "Chascomus",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_26842713.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=26842713"
+  },
+  {
+   "id": "37174977",
+   "apellido_nombre": "SAAVEDRA MARÍA NOELIA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Moreno",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_37174977.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=37174977"
+  },
+  {
+   "id": "32919718",
+   "apellido_nombre": "TIGNANELLI FACUNDO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "La Matanza",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_32919718.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=32919718"
+  },
+  {
+   "id": "30706169",
+   "apellido_nombre": "VANNELLI SOFÍA",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Vicente Lopez",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_30706169.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=30706169"
+  },
+  {
+   "id": "22623385",
+   "apellido_nombre": "VAZQUEZ ROBERTO RAMÓN",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "San Vicente",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_22623385.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=22623385"
+  },
+  {
+   "id": "17830218",
+   "apellido_nombre": "VIVONA LUIS OMAR",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Malvinas Argentinas",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_17830218.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=17830218"
+  },
+  {
+   "id": "30870973",
+   "apellido_nombre": "ZURRO AVELINO RICARDO",
+   "bloque": "Unión Por La Patria",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Pehuajó",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_30870973.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=30870973"
+  },
+  {
+   "id": "28075097",
+   "apellido_nombre": "ABONJO GASTÓN ANDRÉS",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "Mar Del Plata",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_28075097.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=28075097"
+  },
+  {
+   "id": "29684265",
+   "apellido_nombre": "ADORNI FRANCISCO JORGE",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 8,
+   "distrito": "La Plata",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_29684265.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=29684265"
+  },
+  {
+   "id": "10181599",
+   "apellido_nombre": "ALESSI BLANCA ELIDA",
+   "bloque": "Unión Y Libertad",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_10181599.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=10181599"
+  },
+  {
+   "id": "24916400",
+   "apellido_nombre": "BLANCO NATALIA MIRIAM",
+   "bloque": "Pro",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "Zarate",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_29916400.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=24916400"
+  },
+  {
+   "id": "23809928",
+   "apellido_nombre": "BONDARENKO MAXIMILIANO IVÁN",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Florencio Varela",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_23809928.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=23809928"
+  },
+  {
+   "id": "31559400",
+   "apellido_nombre": "BONTEMPO LETICIA INÉS",
+   "bloque": "Pro",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Almirante Brown",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_31559400.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=31559400"
+  },
+  {
+   "id": "32675184",
+   "apellido_nombre": "BRAGA ROMINA NATALÍ",
+   "bloque": "Coalicion Civica",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "Tandil",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_32675184.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=32675184"
+  },
+  {
+   "id": "28794581",
+   "apellido_nombre": "BUGALLO DI PRINZIO LUCIANO DAVID",
+   "bloque": "Coalicion Civica",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Gral. Arenales",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_28794581.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=28794581"
+  },
+  {
+   "id": "25623084",
+   "apellido_nombre": "BUSTOS MARÍA PAULA",
+   "bloque": "Pro",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "Pergamino",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_25623084.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=25623084"
+  },
+  {
+   "id": "42835075",
+   "apellido_nombre": "CALVELLA GERALDINE",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_42835075.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=42835075"
+  },
+  {
+   "id": "42322376",
+   "apellido_nombre": "CARRIZO JAZMÍN AILÉN",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_42322376.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=42322376"
+  },
+  {
+   "id": "18287453",
+   "apellido_nombre": "CASTILLO CHRISTIAN",
+   "bloque": "Pts - Fit",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Berisso",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_18287453.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=18287453"
+  },
+  {
+   "id": "25931543",
+   "apellido_nombre": "CIVALE MATÍAS RAÚL",
+   "bloque": "Ucr + Cambio Federal",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "Tandil",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_25931543.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=25931543"
+  },
+  {
+   "id": "24308358",
+   "apellido_nombre": "COITINHO MARIA FERNANDA",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 1,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_24308358.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=24308358"
+  },
+  {
+   "id": "41562156",
+   "apellido_nombre": "COLUGNATTI ORIANA",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Tres De Febrero",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_41562156.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=41562156"
+  },
+  {
+   "id": "28286548",
+   "apellido_nombre": "CORVINO ANALÍA ESTER",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "San Pedro",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_28286548.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=28286548"
+  },
+  {
+   "id": "16060626",
+   "apellido_nombre": "CUERVO GUSTAVO SERGIO",
+   "bloque": "Nuevos Aires",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Luján",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_16060626.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=16060626"
+  },
+  {
+   "id": "18575200",
+   "apellido_nombre": "DE LEO JOSÉ ANDRÉS",
+   "bloque": "Coalicion Civica",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Bahia Blanca",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_18575200.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=18575200"
+  },
+  {
+   "id": "29718373",
+   "apellido_nombre": "ENDERE MARTÍN JULIÁN",
+   "bloque": "Pro",
+   "mandato": "2023-2027",
+   "seccion": 7,
+   "distrito": "Olavarría",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_29718373.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=29718373"
+  },
+  {
+   "id": "33754769",
+   "apellido_nombre": "ESPER ZAMAR JUAN JOSÉ",
+   "bloque": "Derecha Popular",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "San Miguel",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_33754769.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=33754769"
+  },
+  {
+   "id": "26363429",
+   "apellido_nombre": "FERNÁNDEZ MARIA LAURA",
+   "bloque": "Unión Y Libertad",
+   "mandato": "2023-2027",
+   "seccion": 7,
+   "distrito": "Tigre",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_26363429.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=26363429"
+  },
+  {
+   "id": "28863199",
+   "apellido_nombre": "FORCHIERI AGUSTÍN",
+   "bloque": "Pro",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Pilar",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_28863199.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=28863199"
+  },
+  {
+   "id": "20038971",
+   "apellido_nombre": "GARCIARENA DIEGO RAÚL",
+   "bloque": "Ucr + Cambio Federal",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "Gral. Pueyrredón",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_20038971.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=20038971"
+  },
+  {
+   "id": "12057346",
+   "apellido_nombre": "GAY HECTOR NORBERTO",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Bahia Blanca",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_12057346.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=12057346"
+  },
+  {
+   "id": "31940316",
+   "apellido_nombre": "JALIL TOLEDO MARÍA SALOMÉ",
+   "bloque": "Unión Y Libertad",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_31940316.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=31940316"
+  },
+  {
+   "id": "16521529",
+   "apellido_nombre": "LIBERMAN OSCAR EDUARDO",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Bahia Blanca",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_16521529.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=16521529"
+  },
+  {
+   "id": "18007381",
+   "apellido_nombre": "LORDEN MARIA ALEJANDRA",
+   "bloque": "Ucr - Unión Cívica Radical",
+   "mandato": "2023-2027",
+   "seccion": 7,
+   "distrito": "Saladillo",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_18007381.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=18007381"
+  },
+  {
+   "id": "25264184",
+   "apellido_nombre": "LUAYZA TRONCOZO CARLOS FABIÁN",
+   "bloque": "Nuevos Aires",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_25264184.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=25264184"
+  },
+  {
+   "id": "28673211",
+   "apellido_nombre": "MATEUCCI IGNACIO FERNANDO",
+   "bloque": "Espacio Abierto - Hechos",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "San Nicolas",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_28673211.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=28673211"
+  },
+  {
+   "id": "31016436",
+   "apellido_nombre": "MINNAARD PRISCILA",
+   "bloque": "Ucr - Unión Cívica Radical",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Coronel Dorrego",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_31016436.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=31016436"
+  },
+  {
+   "id": "34876909",
+   "apellido_nombre": "MIRANDA VALENTIN",
+   "bloque": "Ucr - Unión Cívica Radical",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Trenque Lauquen",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_34876909.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=34876909"
+  },
+  {
+   "id": "32791335",
+   "apellido_nombre": "MORILLO PABLO EZEQUIEL",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "Capitan Sarmiento",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_32791335.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=32791335"
+  },
+  {
+   "id": "23362316",
+   "apellido_nombre": "ONTIVEROS ALBERTO LUIS",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "La Matanza",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_23362316.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=23362316"
+  },
+  {
+   "id": "25458643",
+   "apellido_nombre": "OSABA JUAN ESTEBAN",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 8,
+   "distrito": "La Plata",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_25458643.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=25458643"
+  },
+  {
+   "id": "28777093",
+   "apellido_nombre": "PANNELLI CARLA",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Bahia Blanca",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_28777093.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=28777093"
+  },
+  {
+   "id": "33205273",
+   "apellido_nombre": "PASSAGLIA MANUEL",
+   "bloque": "Espacio Abierto - Hechos",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_33205273.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=33205273"
+  },
+  {
+   "id": "38534477",
+   "apellido_nombre": "POMPONIO SOFÍA",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "Gral. Pueyrredón",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_38534477.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=38534477"
+  },
+  {
+   "id": "36215210",
+   "apellido_nombre": "QUINTERO CHASMAN JULIETA ELISABET",
+   "bloque": "Pro",
+   "mandato": "2025-2029",
+   "seccion": 8,
+   "distrito": "La Plata",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_36215210.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=36215210"
+  },
+  {
+   "id": "22849337",
+   "apellido_nombre": "RABINOVICH ALEJANDRO DANIEL",
+   "bloque": "Pro",
+   "mandato": "2025-2029",
+   "seccion": 2,
+   "distrito": "General Pueyrredon",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_22849337.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=22849337"
+  },
+  {
+   "id": "22023389",
+   "apellido_nombre": "RETAMOSO MARÍA FLORENCIA",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Almirante Brown",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_22023389.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=22023389"
+  },
+  {
+   "id": "32066154",
+   "apellido_nombre": "RICCHINI MARIA LAURA",
+   "bloque": "Pro",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Junin",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_32066154.PNG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=32066154"
+  },
+  {
+   "id": "29018651",
+   "apellido_nombre": "ROMANO VIVIANA YOLANDA",
+   "bloque": "Nuevos Aires",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Hurlingham",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_29018651.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=29018651"
+  },
+  {
+   "id": "40184643",
+   "apellido_nombre": "ROMO AGUSTÍN",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2023-2027",
+   "seccion": 7,
+   "distrito": "San Miguel",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_40184643.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=40184643"
+  },
+  {
+   "id": "25137830",
+   "apellido_nombre": "ROVELLO FERNANDO",
+   "bloque": "Pro",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Pehuajo",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_25137830.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=25137830"
+  },
+  {
+   "id": "25340368",
+   "apellido_nombre": "ROZAS MARTÍN ADOLFO",
+   "bloque": "Unión Y Libertad",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_25340368.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=25340368"
+  },
+  {
+   "id": "27235785",
+   "apellido_nombre": "SABAT SABRINA INÉS",
+   "bloque": "Unión Y Libertad",
+   "mandato": "2023-2027",
+   "seccion": 5,
+   "distrito": "",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_27235785.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=27235785"
+  },
+  {
+   "id": "36917312",
+   "apellido_nombre": "SALLABERRY ANA RITA",
+   "bloque": "Pro",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Lujan",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_36917312.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=36917312"
+  },
+  {
+   "id": "16535017",
+   "apellido_nombre": "SCHLOTTHAUER MONICA LETICIA",
+   "bloque": "Izquierda Socialista - Fitu",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "La Matanza",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_16535017.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=16535017"
+  },
+  {
+   "id": "38417753",
+   "apellido_nombre": "SOTELO LARCHER NAHUEL",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Quilmes",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_38417753.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=38417753"
+  },
+  {
+   "id": "29460688",
+   "apellido_nombre": "SOTOLANO MARÍA ANGEL",
+   "bloque": "Pro",
+   "mandato": "2025-2029",
+   "seccion": 3,
+   "distrito": "Quilmes",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_29460688.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=29460688"
+  },
+  {
+   "id": "20825889",
+   "apellido_nombre": "VACCAREZZA MARÍA SILVINA",
+   "bloque": "Ucr + Cambio Federal",
+   "mandato": "2023-2027",
+   "seccion": 4,
+   "distrito": "Alberti",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_20825889.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=20825889"
+  },
+  {
+   "id": "19007632",
+   "apellido_nombre": "VERA CHAVEZ TEODORO RAMÓN",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2023-2027",
+   "seccion": 1,
+   "distrito": "Moreno",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_19007632.JPG",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=19007632"
+  },
+  {
+   "id": "18128851",
+   "apellido_nombre": "VITALE MARIELA SILVINA",
+   "bloque": "La Libertad Avanza",
+   "mandato": "2025-2029",
+   "seccion": 6,
+   "distrito": "Bahia Blanca",
+   "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/f_18128851.jpg",
+   "url": "https://www.hcdiputados-ba.gov.ar/index.php?page=diputado&id=18128851"
+  }
+ ],
+ "senadores": [
+  {
+   "id": "2191",
+   "apellido_nombre": "Arata, Valeria",
+   "bloque": "Fuerza Patria",
+   "seccion": 4,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2191.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2191"
+  },
+  {
+   "id": "2399",
+   "apellido_nombre": "Arietto, Maria Florencia",
+   "bloque": "La Libertad Avanza",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2399.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2399"
+  },
+  {
+   "id": "2496",
+   "apellido_nombre": "Balaudo, Analia",
+   "bloque": "La Libertad Avanza",
+   "seccion": 4,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2496.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2496"
+  },
+  {
+   "id": "2493",
+   "apellido_nombre": "Bambaci, Maria Luz",
+   "bloque": "La Libertad Avanza",
+   "seccion": 1,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2493.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2493"
+  },
+  {
+   "id": "2470",
+   "apellido_nombre": "Bastida, Sabrina",
+   "bloque": "Fuerza Patria",
+   "seccion": 8,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2470.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2470"
+  },
+  {
+   "id": "1511",
+   "apellido_nombre": "Berni, Sergio Alejandro",
+   "bloque": "Fuerza Patria",
+   "seccion": 2,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/1511.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=1511"
+  },
+  {
+   "id": "2417",
+   "apellido_nombre": "Borgini, Pedro Francisco",
+   "bloque": "Fuerza Patria",
+   "seccion": 8,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2417.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2417"
+  },
+  {
+   "id": "2497",
+   "apellido_nombre": "Cabezas, Gonzalo",
+   "bloque": "La Libertad Avanza",
+   "seccion": 4,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2497.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2497"
+  },
+  {
+   "id": "2400",
+   "apellido_nombre": "Campbell, Alex",
+   "bloque": "Pro",
+   "seccion": 6,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2400.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2400"
+  },
+  {
+   "id": "2407",
+   "apellido_nombre": "Clark, Laura Magdalena",
+   "bloque": "Fuerza Patria",
+   "seccion": 2,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2407.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2407"
+  },
+  {
+   "id": "2502",
+   "apellido_nombre": "Coronel, Fernando Gabriel",
+   "bloque": "Fuerza Patria",
+   "seccion": 1,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2502.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2502"
+  },
+  {
+   "id": "2476",
+   "apellido_nombre": "Curestis, Carlos Nicolas",
+   "bloque": "La Libertad Avanza",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2476.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2476"
+  },
+  {
+   "id": "2410",
+   "apellido_nombre": "Curi, Amira",
+   "bloque": "Fuerza Patria",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2410.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2410"
+  },
+  {
+   "id": "2498",
+   "apellido_nombre": "De Urraza, Matias Miguel",
+   "bloque": "La Libertad Avanza",
+   "seccion": 5,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2498.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2498"
+  },
+  {
+   "id": "2508",
+   "apellido_nombre": "Diaz, Evelyn",
+   "bloque": "Fuerza Patria",
+   "seccion": 7,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2508.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2508"
+  },
+  {
+   "id": "2293",
+   "apellido_nombre": "Durán, Ayelén",
+   "bloque": "Fuerza Patria",
+   "seccion": 6,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2293.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2293"
+  },
+  {
+   "id": "2413",
+   "apellido_nombre": "Fagioli, Federico",
+   "bloque": "Fuerza Patria",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2413.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2413"
+  },
+  {
+   "id": "301",
+   "apellido_nombre": "Feliú, Marcelo Enrique",
+   "bloque": "Fuerza Patria",
+   "seccion": 6,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/301.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=301"
+  },
+  {
+   "id": "2265",
+   "apellido_nombre": "Galmarini, Malena",
+   "bloque": "Fuerza Patria",
+   "seccion": 1,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2265.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2265"
+  },
+  {
+   "id": "2268",
+   "apellido_nombre": "González Santalla, Emmanuel Severo",
+   "bloque": "Fuerza Patria",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2268.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2268"
+  },
+  {
+   "id": "2018",
+   "apellido_nombre": "Ishii, Mario Alberto",
+   "bloque": "Fuerza Patria",
+   "seccion": 1,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2018.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2018"
+  },
+  {
+   "id": "2408",
+   "apellido_nombre": "Kikuchi, Carlos Francisco",
+   "bloque": "Unión Y Libertad",
+   "seccion": 2,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2408.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2408"
+  },
+  {
+   "id": "2503",
+   "apellido_nombre": "Lago, German",
+   "bloque": "Fuerza Patria",
+   "seccion": 4,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2503.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2503"
+  },
+  {
+   "id": "2506",
+   "apellido_nombre": "Laurini, María Inés",
+   "bloque": "Fuerza Patria",
+   "seccion": 7,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2506.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2506"
+  },
+  {
+   "id": "2402",
+   "apellido_nombre": "Leguizamón Brown, Marcelo",
+   "bloque": "Hechos - Ucr Identidad",
+   "seccion": 8,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2402.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2402"
+  },
+  {
+   "id": "2541",
+   "apellido_nombre": "Lopez, Roxana",
+   "bloque": "Fuerza Patria",
+   "seccion": 1,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2541.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2541"
+  },
+  {
+   "id": "2019",
+   "apellido_nombre": "Macha, Monica Fernanda",
+   "bloque": "Fuerza Patria",
+   "seccion": 1,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2019.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2019"
+  },
+  {
+   "id": "2499",
+   "apellido_nombre": "Martinez, Maria Cecilia",
+   "bloque": "La Libertad Avanza",
+   "seccion": 5,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2499.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2499"
+  },
+  {
+   "id": "2412",
+   "apellido_nombre": "Martinez, Maria Rosa",
+   "bloque": "Fuerza Patria",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2412.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2412"
+  },
+  {
+   "id": "2500",
+   "apellido_nombre": "Montenegro, Guillermo Tristan",
+   "bloque": "Pro",
+   "seccion": 5,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2500.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2500"
+  },
+  {
+   "id": "2403",
+   "apellido_nombre": "Neumann, Nerina Daniela",
+   "bloque": "Ucr",
+   "seccion": 6,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2403.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2403"
+  },
+  {
+   "id": "2494",
+   "apellido_nombre": "Olivera, Luciano Emanuel",
+   "bloque": "La Libertad Avanza",
+   "seccion": 1,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2494.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2494"
+  },
+  {
+   "id": "2505",
+   "apellido_nombre": "Paredi, Jorge Alberto",
+   "bloque": "Fuerza Patria",
+   "seccion": 5,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2505.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2505"
+  },
+  {
+   "id": "2510",
+   "apellido_nombre": "Petrecca, Pablo Alexis",
+   "bloque": "Pro",
+   "seccion": 4,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2510.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2510"
+  },
+  {
+   "id": "2507",
+   "apellido_nombre": "Pisano, Marcos Emilio",
+   "bloque": "Fuerza Patria",
+   "seccion": 7,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2507.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2507"
+  },
+  {
+   "id": "2509",
+   "apellido_nombre": "Quintana , Natalia",
+   "bloque": "Hechos - Ucr Identidad",
+   "seccion": 4,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2509.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2509"
+  },
+  {
+   "id": "1965",
+   "apellido_nombre": "Raverta, Maria Fernanda",
+   "bloque": "Fuerza Patria",
+   "seccion": 5,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/1965.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=1965"
+  },
+  {
+   "id": "2404",
+   "apellido_nombre": "Rico Zini, Juan Manuel",
+   "bloque": "Pro",
+   "seccion": 2,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2404.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2404"
+  },
+  {
+   "id": "2415",
+   "apellido_nombre": "Riva, Betina Clara",
+   "bloque": "La Libertad Avanza",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2415.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2415"
+  },
+  {
+   "id": "2277",
+   "apellido_nombre": "Santarelli, Adrián Carlos",
+   "bloque": "Fuerza Patria",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2277.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2277"
+  },
+  {
+   "id": "2405",
+   "apellido_nombre": "Schiavone, Jorge",
+   "bloque": "Pro",
+   "seccion": 3,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2405.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2405"
+  },
+  {
+   "id": "2406",
+   "apellido_nombre": "Subiza, Maria Emilia",
+   "bloque": "Hechos - Ucr Identidad",
+   "seccion": 2,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2406.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2406"
+  },
+  {
+   "id": "2495",
+   "apellido_nombre": "Valenzuela, Diego",
+   "bloque": "La Libertad Avanza",
+   "seccion": 1,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2495.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2495"
+  },
+  {
+   "id": "2419",
+   "apellido_nombre": "Vargas, Sergio Raul",
+   "bloque": "Unión Y Libertad",
+   "seccion": 6,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2419.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2419"
+  },
+  {
+   "id": "2418",
+   "apellido_nombre": "Ventura, Silvana Paola",
+   "bloque": "Unión Y Libertad",
+   "seccion": 6,
+   "mandato": "2023-2027",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2418.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2418"
+  },
+  {
+   "id": "2504",
+   "apellido_nombre": "Videla , Diego Alberto",
+   "bloque": "Fuerza Patria",
+   "seccion": 4,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2504.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2504"
+  }
+ ]
+}

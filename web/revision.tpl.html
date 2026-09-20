@@ -1,0 +1,87 @@
+<title>Fotos de intendentes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@112,800&family=IBM+Plex+Mono:wght@500&family=Public+Sans:wght@400;600&display=swap">
+<style>
+:root{
+  --ground:#F4F6F5; --panel:#FFFFFF; --sunk:#EAEEEC; --ink:#16212B; --ink-2:#4A5763; --ink-3:#7A8791;
+  --rule:#D7DDDA; --pba:#0B7A83; --pba-soft:#D5ECEE;
+  --f-display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --ground:#0E1418; --panel:#141C21; --sunk:#1B252B; --ink:#E4EAEC; --ink-2:#A9B6BD; --ink-3:#74838B;
+  --rule:#26323A; --pba:#3FB6BF; --pba-soft:#12343A;
+}}
+:root[data-theme="dark"]{
+  --ground:#0E1418; --panel:#141C21; --sunk:#1B252B; --ink:#E4EAEC; --ink-2:#A9B6BD; --ink-3:#74838B;
+  --rule:#26323A; --pba:#3FB6BF; --pba-soft:#12343A;
+}
+*{box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font:14px/1.5 var(--f-body);margin:0;padding:0 20px 150px}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+.intro{max-width:70ch;padding-block:28px 8px}
+h1{font:800 26px/1.1 var(--f-display);font-stretch:112%;margin:0 0 8px;text-wrap:balance}
+.intro p{color:var(--ink-2);margin:0 0 6px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px;margin-top:18px}
+.m{background:var(--panel);border:1px solid var(--rule);border-radius:10px;padding:14px;display:flex;flex-direction:column;gap:10px}
+.m.ok{border-color:var(--pba);box-shadow:0 0 0 1px var(--pba)}
+.m h2{font:600 15px/1.25 var(--f-body);margin:0}
+.m header p{margin:2px 0 0;color:var(--ink-3);font-size:12px}
+.ops{display:flex;gap:8px}
+.op{position:relative;padding:0;border:2px solid transparent;border-radius:8px;background:var(--sunk);cursor:pointer;width:72px;height:72px;overflow:hidden}
+.op img{width:100%;height:100%;object-fit:cover;display:block}
+.op .n{position:absolute;left:4px;bottom:3px;font-size:11px;background:var(--panel);color:var(--ink);border-radius:3px;padding:0 4px}
+.op[aria-pressed="true"]{border-color:var(--pba)}
+.op[aria-pressed="true"]::after{content:"✓";position:absolute;top:3px;right:4px;background:var(--pba);color:var(--panel);border-radius:50%;width:18px;height:18px;font-size:12px;line-height:18px;text-align:center}
+.op:focus-visible{outline:2px solid var(--pba);outline-offset:2px}
+.src{font-size:12px;color:var(--ink-3);margin:0}
+.src a{color:var(--ink-2)}
+.bar{position:fixed;left:0;right:0;bottom:0;background:var(--panel);border-top:1px solid var(--rule);padding:12px 20px calc(12px + env(safe-area-inset-bottom,0px));display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.bar b{font:500 15px var(--f-mono)}
+.bar textarea{flex:1;min-width:220px;height:44px;resize:none;border:1px solid var(--rule);border-radius:6px;background:var(--ground);color:var(--ink);font:12px/1.4 var(--f-mono);padding:6px 8px}
+.bar button{border:0;background:var(--ink);color:var(--panel);border-radius:6px;padding:10px 14px;font:600 13px var(--f-body);cursor:pointer}
+</style>
+
+<section class="intro">
+  <h1>Fotos de intendentes para aprobar</h1>
+  <p>Estas imágenes aparecieron en el sitio oficial de cada municipio junto al apellido del intendente. Tocá la que sea la persona correcta. Si ninguna lo es, dejá la tarjeta sin marcar: no se carga nada.</p>
+  <p class="mono" style="color:var(--ink-3);font-size:12px"><!--N--> municipios con candidatas</p>
+</section>
+
+<main class="grid" id="grid">
+<!--FILAS-->
+</main>
+
+<div class="bar">
+  <span><b id="cuenta">0</b> aprobadas</span>
+  <textarea id="codigo" readonly aria-label="Código de aprobación"></textarea>
+  <button id="copiar" type="button">Copiar código</button>
+</div>
+
+<script>
+const sel = {};
+function pintar(){
+  const pares = Object.entries(sel).map(([k, n]) => `${k}=${n}`);
+  document.getElementById("codigo").value = pares.length ? "APROBADAS v1: " + pares.join(", ") : "";
+  document.getElementById("cuenta").textContent = pares.length;
+}
+document.getElementById("grid").addEventListener("click", e => {
+  const b = e.target.closest(".op"); if (!b) return;
+  const k = b.dataset.k, n = b.dataset.n, card = b.closest(".m");
+  const ya = sel[k] === n;
+  card.querySelectorAll(".op").forEach(x => x.setAttribute("aria-pressed", "false"));
+  if (ya) delete sel[k]; else { sel[k] = n; b.setAttribute("aria-pressed", "true"); }
+  card.classList.toggle("ok", !ya);
+  pintar();
+});
+document.getElementById("copiar").addEventListener("click", async () => {
+  const t = document.getElementById("codigo");
+  t.select();
+  let ok = false;
+  try { await navigator.clipboard.writeText(t.value); ok = true; } catch (_) { try { ok = document.execCommand("copy"); } catch (_) {} }
+  document.getElementById("copiar").textContent = ok ? "Copiado" : "Seleccionado: copialo con Ctrl+C";
+  setTimeout(() => document.getElementById("copiar").textContent = "Copiar código", 2500);
+});
+</script>

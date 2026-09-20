@@ -1,0 +1,493 @@
+<title>Mapa del Estado BA</title>
+<meta name="description" content="Mapa de los cargos, organismos y personas del Estado bonaerense y porteño.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@112,600;112,800&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+:root{
+  --ground:#F4F6F5; --panel:#FFFFFF; --sunk:#EAEEEC; --ink:#16212B; --ink-2:#4A5763; --ink-3:#7A8791;
+  --rule:#D7DDDA; --pba:#0B7A83; --pba-soft:#D5ECEE; --caba:#B7791F; --caba-soft:#F5E8D0;
+  --vac:#C2410C; --vac-soft:#FBE3D6; --link:#5F7280; --focus:#0B7A83;
+  --f-display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --ground:#0E1418; --panel:#141C21; --sunk:#1B252B; --ink:#E4EAEC; --ink-2:#A9B6BD; --ink-3:#74838B;
+  --rule:#26323A; --pba:#3FB6BF; --pba-soft:#12343A; --caba:#E0A84A; --caba-soft:#3A2D16;
+  --vac:#F08A5D; --vac-soft:#3D2016; --link:#51626D; --focus:#3FB6BF;
+}}
+:root[data-theme="dark"]{
+  --ground:#0E1418; --panel:#141C21; --sunk:#1B252B; --ink:#E4EAEC; --ink-2:#A9B6BD; --ink-3:#74838B;
+  --rule:#26323A; --pba:#3FB6BF; --pba-soft:#12343A; --caba:#E0A84A; --caba-soft:#3A2D16;
+  --vac:#F08A5D; --vac-soft:#3D2016; --link:#51626D; --focus:#3FB6BF;
+}
+html,body{height:100%}
+body{background:var(--ground);color:var(--ink);font:14px/1.5 var(--f-body);margin:0}
+*{box-sizing:border-box}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.mono{font-family:var(--f-mono);font-variant-numeric:tabular-nums}
+
+.app{height:100%;display:grid;grid-template-columns:320px minmax(0,1fr) 380px;grid-template-rows:auto minmax(0,1fr)}
+header.top{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;gap:12px 28px;padding:14px 20px;border-bottom:1px solid var(--rule);background:var(--panel)}
+.brand{display:flex;align-items:baseline;gap:10px}
+.brand h1{font:800 20px/1 var(--f-display);font-stretch:112%;letter-spacing:-.01em;margin:0;text-wrap:balance}
+.brand small{color:var(--ink-3);font-size:12px}
+.jur{display:flex;border:1px solid var(--rule);border-radius:6px;overflow:hidden}
+.jur button{background:none;border:0;padding:6px 12px;cursor:pointer;font-weight:600;font-size:13px;color:var(--ink-2)}
+.jur button+button{border-left:1px solid var(--rule)}
+.jur button[aria-pressed="true"]{background:var(--ink);color:var(--panel)}
+.stats{display:flex;flex-wrap:wrap;gap:4px 22px;margin-left:auto}
+.stat{display:flex;flex-direction:column}
+.stat b{font:500 17px/1.1 var(--f-mono);font-variant-numeric:tabular-nums}
+.stat span{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-3)}
+.stat.vac b{color:var(--vac)}
+
+aside.rail{border-right:1px solid var(--rule);display:flex;flex-direction:column;min-height:0;background:var(--panel)}
+.search{padding:14px 16px 10px}
+.search input{width:100%;padding:9px 12px;border:1px solid var(--rule);border-radius:6px;background:var(--ground);color:var(--ink);font:inherit}
+.tabs{display:flex;gap:2px;padding:0 12px;border-bottom:1px solid var(--rule)}
+.tabs button{background:none;border:0;border-bottom:2px solid transparent;padding:8px 8px;cursor:pointer;font-size:13px;font-weight:600;color:var(--ink-3)}
+.tabs button[aria-selected="true"]{color:var(--ink);border-color:var(--ink)}
+.list{overflow:auto;flex:1;padding:6px 0 20px}
+.note{padding:8px 16px 10px;color:var(--ink-3);font-size:12px;line-height:1.45}
+.row{display:block;width:100%;text-align:left;background:none;border:0;padding:8px 16px;cursor:pointer;border-bottom:1px solid var(--sunk)}
+.row:hover{background:var(--sunk)}
+.row .t{font-weight:600;font-size:13px;line-height:1.3}
+.row .s{color:var(--ink-2);font-size:12px;line-height:1.35;margin-top:2px}
+.row .m{display:flex;gap:8px;align-items:center;margin-top:4px;font-size:11px;color:var(--ink-3)}
+.bar{height:4px;background:var(--sunk);border-radius:2px;overflow:hidden;flex:1}
+.bar i{display:block;height:100%;background:var(--vac)}
+.seg{display:flex;gap:6px;padding:10px 16px 4px}
+.seg button{border:1px solid var(--rule);background:none;border-radius:999px;padding:3px 10px;font-size:12px;cursor:pointer;color:var(--ink-2)}
+.seg button[aria-pressed="true"]{border-color:var(--ink);color:var(--ink);font-weight:600}
+.grp{padding:14px 16px 4px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink-3);font-weight:600}
+
+main.stage{position:relative;min-height:0;overflow:hidden}
+.crumbs{position:absolute;top:12px;left:16px;right:16px;display:flex;flex-wrap:wrap;gap:2px 6px;font-size:12px;color:var(--ink-3);z-index:2;pointer-events:none}
+.crumbs button{pointer-events:auto;background:var(--ground);border:0;padding:2px 4px;border-radius:4px;cursor:pointer;color:var(--ink-2)}
+.crumbs button:hover{color:var(--ink);background:var(--sunk)}
+.crumbs .sep{opacity:.5}
+svg#g{width:100%;height:100%;display:block;cursor:grab}
+svg#g:active{cursor:grabbing}
+.legend{position:absolute;left:16px;bottom:14px;display:flex;flex-wrap:wrap;gap:6px 16px;font-size:11px;color:var(--ink-3);background:color-mix(in srgb,var(--ground) 85%,transparent);padding:6px 10px;border-radius:6px}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.dot{width:9px;height:9px;border-radius:50%;display:inline-block}
+.tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--panel);padding:6px 9px;border-radius:5px;font-size:12px;max-width:280px;line-height:1.35;z-index:5}
+.tip[hidden]{display:none}
+.tip b{display:block;font-weight:600}
+
+aside.card{border-left:1px solid var(--rule);background:var(--panel);overflow:auto;padding:20px 22px 32px;display:flex;flex-direction:column;gap:18px}
+.kind{display:flex;gap:8px;align-items:center;font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-3);font-weight:600}
+.chip{display:inline-flex;align-items:center;gap:4px;border-radius:4px;padding:1px 7px;font-size:11px;font-weight:600;letter-spacing:.02em;text-transform:none}
+.chip.pba{background:var(--pba-soft);color:var(--pba)}
+.chip.caba{background:var(--caba-soft);color:var(--caba)}
+.chip.vac{background:var(--vac-soft);color:var(--vac)}
+.card h2{font:800 22px/1.15 var(--f-display);font-stretch:112%;margin:0;text-wrap:balance;letter-spacing:-.01em}
+.who{display:flex;flex-direction:column;gap:10px}
+.person{display:grid;grid-template-columns:36px 1fr;gap:4px 12px;align-items:start}
+.av{width:36px;height:36px;border-radius:50%;background:var(--sunk);display:grid;place-items:center;font:600 13px var(--f-display);color:var(--ink-2);overflow:hidden;flex:none}
+.av img{width:100%;height:100%;object-fit:cover;display:block}
+.av.sm{width:28px;height:28px;font-size:11px}
+.av.lg{width:96px;height:96px;font-size:28px;border-radius:12px}
+.row.withav{display:grid;grid-template-columns:28px 1fr;gap:0 10px;align-items:start}
+.row.withav .av{margin-top:2px}
+.pcard{display:flex;gap:16px;align-items:flex-end}
+.pcard .src{margin-top:6px}
+.person .n{font-weight:600;line-height:1.3}
+.person .n button{background:none;border:0;padding:0;cursor:pointer;font-weight:600;text-align:left;text-decoration:underline;text-decoration-color:var(--rule);text-underline-offset:3px}
+.person .r{color:var(--ink-2);font-size:12.5px}
+.cite{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px;font-size:11.5px}
+.cite a,.cite span{font-family:var(--f-mono);color:var(--ink-2);background:var(--sunk);padding:1px 6px;border-radius:3px;text-decoration:none}
+.cite a:hover{color:var(--ink)}
+.vacbox{border:1px dashed var(--vac);color:var(--vac);border-radius:6px;padding:10px 12px;font-size:13px}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;border-block:1px solid var(--rule);padding-block:12px}
+.facts div{display:flex;flex-direction:column}
+.facts b{font:500 18px/1.1 var(--f-mono)}
+.facts span{font-size:11px;color:var(--ink-3)}
+.sub h3{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--ink-3);margin:0 0 6px;font-weight:600}
+.sub .row{padding:7px 0}
+.warn{font-size:12px;color:var(--ink-2);background:var(--sunk);border-radius:6px;padding:8px 10px}
+.src{font-size:11.5px;color:var(--ink-3)}
+.src a{color:inherit}
+
+@media (max-width:1150px){
+  .app{grid-template-columns:300px minmax(0,1fr);grid-template-rows:auto minmax(0,1fr) auto}
+  aside.card{grid-column:1/-1;border-left:0;border-top:1px solid var(--rule)}
+  html,body{height:auto}.app{height:auto;min-height:100%}
+  main.stage{height:640px}aside.rail{max-height:640px}
+}
+@media (max-width:720px){
+  .app{grid-template-columns:minmax(0,1fr)}
+  aside.rail{border-right:0;border-bottom:1px solid var(--rule);max-height:420px}
+  main.stage{height:460px}
+  .stats{margin-left:0}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<div class="app">
+  <header class="top">
+    <div class="brand"><h1>Mapa del Estado BA</h1><small id="asof"></small></div>
+    <div class="jur" role="group" aria-label="Jurisdicción">
+      <button id="j-ba" data-j="ba" aria-pressed="true">Todo</button>
+      <button id="j-pba" data-j="pba" aria-pressed="false">Provincia</button>
+      <button id="j-caba" data-j="caba" aria-pressed="false">Ciudad</button>
+    </div>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <aside class="rail">
+    <div class="search"><input id="q" type="search" placeholder="Buscar persona u organismo…" autocomplete="off" aria-label="Buscar"></div>
+    <div class="tabs" role="tablist">
+      <button role="tab" id="t-vac" data-tab="vac" aria-selected="true">Vacantes</button>
+      <button role="tab" id="t-rec" data-tab="rec" aria-selected="false">Designaciones</button>
+      <button role="tab" id="t-cru" data-tab="cru" aria-selected="false">Cruces</button>
+      <button role="tab" id="t-nov" data-tab="nov" aria-selected="false">Novedades</button>
+    </div>
+    <div class="list" id="list"></div>
+  </aside>
+
+  <main class="stage" id="stage">
+    <nav class="crumbs" id="crumbs" aria-label="Ruta"></nav>
+    <svg id="g" role="img" aria-label="Grafo de la estructura del Estado"></svg>
+    <div class="legend">
+      <span><i class="dot" style="background:var(--pba)"></i>Provincia</span>
+      <span><i class="dot" style="background:var(--caba)"></i>Ciudad</span>
+      <span><i class="dot" style="background:var(--vac)"></i>Vacante</span>
+      <span>Tamaño = unidades a cargo · clic para centrar</span>
+    </div>
+    <div class="tip" id="tip" hidden></div>
+  </main>
+
+  <aside class="card" id="card" aria-live="polite"></aside>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script>
+const G = /*__GRAFO__*/null;
+const FOTOS = /*__FOTOS__*/{};
+const CAMBIOS = /*__CAMBIOS__*/{corridas:[]};
+
+// ── Índices ────────────────────────────────────────────────────────────────
+const U = new Map(), KIDS = new Map(), P = new Map(), BY_U = new Map(), BY_P = new Map();
+U.set("ba", {id:"ba", nombre:"Buenos Aires", tipo:"raiz", padre:null, jur:null});
+for (const u of G.unidades) { if (!u.padre) u.padre = "ba"; U.set(u.id, u); }
+for (const u of U.values()) if (u.padre) { if (!KIDS.has(u.padre)) KIDS.set(u.padre, []); KIDS.get(u.padre).push(u.id); }
+for (const p of G.personas) P.set(p.id, p);
+for (const c of G.cargos) {
+  (BY_U.get(c.unidad) || BY_U.set(c.unidad, []).get(c.unidad)).push(c);
+  (BY_P.get(c.persona) || BY_P.set(c.persona, []).get(c.persona)).push(c);
+}
+// Tamaño de rama y vacantes de rama (post-orden iterativo).
+const DESC = new Map(), VAC = new Map(), DEPTH = new Map();
+(function(){
+  const order = [], stack = ["ba"]; DEPTH.set("ba", 0);
+  while (stack.length) { const id = stack.pop(); order.push(id);
+    for (const k of KIDS.get(id) || []) { DEPTH.set(k, DEPTH.get(id) + 1); stack.push(k); } }
+  for (let i = order.length - 1; i >= 0; i--) {
+    const id = order[i]; let d = 0, v = U.get(id).vacante ? 1 : 0;
+    for (const k of KIDS.get(id) || []) { d += 1 + DESC.get(k); v += VAC.get(k); }
+    DESC.set(id, d); VAC.set(id, v);
+  }
+  for (const [id, ks] of KIDS) ks.sort((a, b) => DESC.get(b) - DESC.get(a) || U.get(a).nombre.localeCompare(U.get(b).nombre));
+})();
+const AREA_ROOTS = new Set(["pba:gobernacion","pba:organismos-constitucionales","caba:jefatura","pba:municipios","pba:legislativo","caba:legislativo","pba:judicial","caba:judicial"]);
+function area(id){ let u = U.get(id); while (u && u.padre && !AREA_ROOTS.has(u.padre)) u = U.get(u.padre); return u; }
+function path(id){ const out = []; let u = U.get(id); while (u) { out.unshift(u); u = U.get(u.padre); } return out; }
+
+const TIPO = {raiz:"Buenos Aires", jurisdiccion:"Jurisdicción", poder:"Poder", gobernacion:"Cabeza del Ejecutivo", ministerio:"Ministerio",
+  secretaria:"Secretaría", subsecretaria:"Subsecretaría", direccion_provincial:"Dirección provincial", direccion_general:"Dirección general",
+  direccion:"Dirección", gerencia:"Gerencia", unidad:"Unidad", organismo:"Organismo", camara:"Cámara legislativa", bloque:"Bloque",
+  municipio:"Municipio", ejecutivo_municipal:"Ejecutivo municipal", concejo:"Concejo Deliberante", secretaria_municipal:"Secretaría municipal",
+  corte:"Máximo tribunal", tribunal:"Tribunal", camara_judicial:"Cámara de apelaciones", juzgado:"Juzgado", oficina_judicial:"Dependencia judicial",
+  departamento_judicial:"Departamento judicial", fuero:"Fuero", instancia:"Instancia", ministerio_publico:"Ministerio Público",
+  consejo_magistratura:"Consejo de la Magistratura", asiento:"Cargo en la Corte", periodo:"Mandato"};
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt = n => n.toLocaleString("es-AR");
+const fecha = s => s ? new Date(s + "T12:00").toLocaleDateString("es-AR", {day:"2-digit", month:"short", year:"numeric"}) : "";
+const jurChip = j => j ? `<span class="chip ${j}">${j === "pba" ? "Provincia" : "Ciudad"}</span>` : "";
+const inJur = id => state.jur === "ba" || (U.get(id).jur === state.jur);
+const avatar = (pid, nombre, cls = "") => {
+  const f = FOTOS[pid];
+  return `<div class="av ${cls}">${f ? `<img src="${f.src}" alt="${esc(nombre)}" loading="lazy">` : esc(iniciales(nombre))}</div>`;
+};
+const iniciales = n => n.split(/\s+/).filter(w => /^[A-ZÁÉÍÓÚÑ]/.test(w)).slice(0, 2).map(w => w[0]).join("");
+
+const state = {jur:"ba", focus:"ba", tab:"vac", recDias:90, sel:null};
+document.getElementById("asof").textContent =
+  `Proyecto independiente, no oficial · datos de fuentes públicas al ${fecha(G.fuentes.pba_ejecutivo.fecha)}`;
+
+// ── Encabezado ─────────────────────────────────────────────────────────────
+function renderStats(){
+  const us = [...U.values()].filter(u => u.jur && inJur(u.id));
+  const ids = new Set(us.map(u => u.id));
+  const cs = G.cargos.filter(c => ids.has(c.unidad));
+  const ps = new Set(cs.map(c => c.persona));
+  const vac = us.filter(u => u.vacante).length;
+  document.getElementById("stats").innerHTML = [
+    [fmt(us.length), "unidades"], [fmt(ps.size), "personas"], [Math.round(100 * [...ps].filter(p => FOTOS[p]).length / Math.max(1, ps.size)) + "%", "con foto"], [fmt(cs.length), "cargos"], [fmt(vac), "vacantes", "vac"]
+  ].map(([b, s, c]) => `<div class="stat ${c||""}"><b>${b}</b><span>${s}</span></div>`).join("");
+}
+
+// ── Grafo radial ───────────────────────────────────────────────────────────
+const svg = d3.select("#g"), gRoot = svg.append("g"), gLinks = gRoot.append("g"), gNodes = gRoot.append("g");
+const zoom = d3.zoom().scaleExtent([.3, 6]).on("zoom", e => gRoot.attr("transform", e.transform));
+svg.call(zoom).on("dblclick.zoom", null);
+const tip = document.getElementById("tip");
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+
+function subtree(id, maxDepth, cap){
+  const mk = (uid, d) => {
+    const node = {id: uid};
+    const ks = (KIDS.get(uid) || []).filter(inJur);
+    if (d < maxDepth && ks.length) {
+      node.children = ks.slice(0, cap).map(k => mk(k, d + 1));
+      if (ks.length > cap) node.children.push({id: null, mas: ks.length - cap, padre: uid});
+    }
+    return node;
+  };
+  return mk(id, 0);
+}
+function drawGraph(){
+  const box = document.getElementById("stage").getBoundingClientRect();
+  const w = box.width, h = box.height;
+  svg.attr("viewBox", [-w/2, -h/2, w, h]);
+  let depth = 3, data, root;
+  for (; depth >= 1; depth--) {
+    data = subtree(state.focus, depth, depth === 1 ? 160 : 60);
+    root = d3.hierarchy(data);
+    if (root.descendants().length <= 900) break;
+  }
+  const R = Math.max(120, Math.min(w, h) / 2 - 110);
+  d3.tree().size([2 * Math.PI, R]).separation((a, b) => (a.parent === b.parent ? 1 : 2) / a.depth)(root);
+  const colorOf = d => {
+    if (!d.data.id) return css("--ink-3");
+    const u = U.get(d.data.id);
+    if (u.vacante) return css("--vac");
+    return u.jur === "caba" ? css("--caba") : u.jur === "pba" ? css("--pba") : css("--ink");
+  };
+  gLinks.selectAll("path").data(root.links(), d => d.target.data.id + "|" + d.source.data.id)
+    .join("path").attr("fill", "none").attr("stroke", css("--link")).attr("stroke-opacity", .45).attr("stroke-width", 1)
+    .attr("d", d3.linkRadial().angle(d => d.x).radius(d => d.y));
+  const nodes = gNodes.selectAll("g.n").data(root.descendants(), d => d.data.id || ("mas" + d.data.padre))
+    .join(enter => { const g = enter.append("g").attr("class", "n"); g.append("circle"); g.append("text"); return g; })
+    .attr("transform", d => `rotate(${d.x * 180 / Math.PI - 90}) translate(${d.y},0)`)
+    .style("cursor", "pointer")
+    .on("click", (e, d) => { if (d.data.id) focusOn(d.data.id); else focusOn(d.data.padre); })
+    .on("mousemove", (e, d) => {
+      const r = document.getElementById("stage").getBoundingClientRect();
+      if (!d.data.id) { tip.innerHTML = `<b>+${d.data.mas} unidades más</b>clic para abrir`; }
+      else { const u = U.get(d.data.id), t = (BY_U.get(u.id) || [])[0];
+        tip.innerHTML = `<b>${esc(u.nombre)}</b>${u.vacante ? "Vacante" : t ? esc(P.get(t.persona).nombre) : esc(TIPO[u.tipo]||"")}` +
+          (DESC.get(u.id) ? ` · ${fmt(DESC.get(u.id))} a cargo` : ""); }
+      tip.hidden = false;
+      tip.style.left = Math.min(e.clientX - r.left + 14, r.width - 290) + "px"; tip.style.top = (e.clientY - r.top + 14) + "px";
+    })
+    .on("mouseleave", () => tip.hidden = true);
+  nodes.select("circle")
+    .attr("r", d => d.depth === 0 ? 11 : d.data.id ? Math.min(10, 2.6 + Math.sqrt(DESC.get(d.data.id)) * .55) : 3)
+    .attr("fill", d => (d.data.id && U.get(d.data.id).vacante) ? css("--panel") : colorOf(d))
+    .attr("stroke", colorOf).attr("stroke-width", d => (d.data.id && U.get(d.data.id).vacante) ? 1.8 : 0);
+  const showLabel = d => d.depth === 0 || (d.depth === 1 && root.children && root.children.length <= 36) || !d.data.id && d.depth === 1;
+  nodes.select("text")
+    .text(d => { if (!showLabel(d) || d.depth === 0) return ""; const n = d.data.id ? U.get(d.data.id).nombre : `+${d.data.mas} más`; return n.length > 34 ? n.slice(0, 33) + "…" : n; })
+    .attr("dy", "0.32em").attr("x", d => d.x < Math.PI ? 13 : -13)
+    .attr("text-anchor", d => d.x < Math.PI ? "start" : "end")
+    .attr("transform", d => d.x >= Math.PI ? "rotate(180)" : null)
+    .attr("fill", css("--ink-2")).attr("font-size", 11).attr("font-family", css("--f-body"))
+    .attr("paint-order", "stroke").attr("stroke", css("--ground")).attr("stroke-width", 3);
+  svg.transition().duration(matchMedia("(prefers-reduced-motion: reduce)").matches ? 0 : 400).call(zoom.transform, d3.zoomIdentity);
+  renderCrumbs();
+}
+function renderCrumbs(){
+  const el = document.getElementById("crumbs");
+  el.innerHTML = path(state.focus).map((u, i, a) =>
+    `<button data-u="${esc(u.id)}">${esc(u.id === "ba" ? "Buenos Aires" : u.nombre)}</button>${i < a.length - 1 ? '<span class="sep">›</span>' : ""}`).join("");
+}
+document.getElementById("crumbs").addEventListener("click", e => { const b = e.target.closest("button[data-u]"); if (b) focusOn(b.dataset.u); });
+
+// ── Ficha ──────────────────────────────────────────────────────────────────
+function citeHTML(c){
+  const bits = [];
+  if (c.norma) bits.push(c.norma_url ? `<a href="${esc(c.norma_url)}" target="_blank" rel="noopener">${esc(c.norma)}</a>` : `<span>${esc(c.norma)}</span>`);
+  if (c.desde) bits.push(`<span>desde ${esc(fecha(c.desde))}</span>`);
+  if (c.nota) bits.push(`<span>${esc(c.nota.replace(/^-\s*/, ""))}</span>`);
+  if (c.mandato) bits.push(`<span>mandato ${esc(c.mandato)}</span>`);
+  if (c.partido) bits.push(`<span>${esc(c.partido)}</span>`);
+  if (c.seccion) bits.push(`<span>${esc(c.seccion)}ª sección</span>`);
+  return bits.length ? `<div class="cite">${bits.join("")}</div>` : "";
+}
+function otrosCargos(pid, salvo){
+  return (BY_P.get(pid) || []).filter(c => c.unidad !== salvo);
+}
+function unitCard(id){
+  const u = U.get(id), cs = BY_U.get(id) || [], kids = (KIDS.get(id) || []).filter(inJur);
+  const ruta = path(id).slice(1, -1);
+  let who = "";
+  if (cs.length && u.tipo !== "bloque") {
+    who = `<div class="who">` + cs.slice(0, 6).map(c => {
+      const p = P.get(c.persona), otros = otrosCargos(c.persona, id);
+      return `<div class="person">${avatar(p.id, p.nombre)}<div>
+        <div class="n"><button data-p="${esc(p.id)}">${esc(p.nombre)}</button></div>
+        <div class="r">${esc(c.rol)}${otros.length ? ` · <span class="chip vac" title="Coincidencia por nombre">+${otros.length} cargo${otros.length>1?"s":""}</span>` : ""}</div>
+        ${citeHTML(c)}</div></div>`; }).join("") + `</div>`;
+  } else if (u.vacante) {
+    const judicial = /juzgado|tribunal|camara_judicial|corte|asiento/.test(u.tipo);
+    who = `<div class="vacbox"><b>${judicial ? "Sin juez/a titular." : "Cargo vacante."}</b> ${u.nota ? esc(u.nota) : judicial
+      ? "La guía judicial no registra magistrado/a a cargo; puede estar subrogado."
+      : "La fuente oficial no registra titular para esta unidad."}</div>`;
+  } else if (u.sin_dato) {
+    who = `<div class="warn"><b>Sin dato.</b> La fuente oficial no publica quién está a cargo. No significa que esté vacante.</div>`;
+  }
+  if (cs.length && u.vacante && u.tipo !== "bloque") who += `<div class="vacbox"><b>Sin juez/a titular.</b> ${esc(u.nota || "Solo figuran funcionarios; el juzgado puede estar subrogado.")}</div>`;
+  const cobertura = u.tipo === "corte" && u.bancas
+    ? `<div class="${u.cobertura < u.bancas ? "vacbox" : "warn"}">Integrado por <b>${u.cobertura} de ${u.bancas}</b> miembros que fija la ley.</div>`
+    : u.cobertura && u.bancas && u.cobertura < u.bancas
+    ? `<div class="warn">Cobertura parcial: ${u.cobertura} de ${u.bancas} bancas cargadas.</div>` : "";
+  const nota = u.nota && !u.vacante ? `<div class="warn">${esc(u.nota)}</div>` : "";
+  const miembros = u.tipo === "bloque" ? cs : [];
+  const lista = kids.length ? `<div class="sub"><h3>Dependen (${fmt(kids.length)})</h3>` + kids.slice(0, 80).map(k => {
+      const ku = U.get(k), kc = (BY_U.get(k) || [])[0];
+      return `<button class="row" data-u="${esc(k)}"><div class="t">${esc(ku.nombre)}</div>
+        <div class="s">${ku.vacante ? '<span class="chip vac">Vacante</span>' : kc && ku.tipo !== "bloque" ? esc(P.get(kc.persona).nombre) : esc(TIPO[ku.tipo] || "")}${DESC.get(k) ? ` · ${fmt(DESC.get(k))} unidad${DESC.get(k) > 1 ? "es" : ""}` : ""}</div></button>`; }).join("")
+      + (kids.length > 80 ? `<div class="note">…y ${fmt(kids.length - 80)} más. Usá la búsqueda.</div>` : "") + `</div>` : "";
+  const bancas = miembros.length ? `<div class="sub"><h3>Integrantes (${miembros.length})</h3>` + miembros.map(c =>
+      `<button class="row withav" data-p="${esc(c.persona)}">${avatar(c.persona, P.get(c.persona).nombre, "sm")}<div><div class="t">${esc(P.get(c.persona).nombre)}</div><div class="s">${esc(c.rol)}${c.seccion ? ` · ${c.seccion}ª sección` : ""}${c.mandato ? ` · ${esc(c.mandato)}` : ""}</div></div></button>`).join("") + `</div>` : "";
+  const judicialU = path(id).some(x => x.id === "pba:judicial" || x.id === "caba:judicial");
+  const fuente = cs[0]?.fuente || (judicialU ? (u.jur === "pba" ? "Guía Judicial SCBA" : "Guía Judicial CABA")
+    : u.jur === "pba" ? "Mapa del Estado PBA" : u.jur === "caba" ? "Organigrama GCBA" : "");
+  return `
+    <div class="kind">${esc(TIPO[u.tipo] || u.tipo)} ${jurChip(u.jur)} ${u.vacante ? '<span class="chip vac">Vacante</span>' : ""}</div>
+    <h2>${esc(u.nombre)}${u.sigla ? ` <span class="mono" style="font-size:14px;color:var(--ink-3)">${esc(u.sigla)}</span>` : ""}</h2>
+    ${ruta.length ? `<div class="src">${ruta.map(r => esc(r.nombre)).join(" › ")}</div>` : ""}
+    ${who}${cobertura}${nota}
+    ${DESC.get(id) ? `<div class="facts"><div><b>${fmt(DESC.get(id))}</b><span>unidades en la rama</span></div>
+      <div><b style="color:var(--vac)">${fmt(VAC.get(id))}</b><span>vacantes en la rama</span></div>
+      <div><b>${Math.round(100 * VAC.get(id) / (DESC.get(id) + 1))}%</b><span>tasa de vacancia</span></div></div>` : ""}
+    ${bancas}${lista}
+    ${u.equipo ? `<div class="src">Equipo publicado: ${u.equipo} personas (incluye auxiliares y relatores, que no se listan).</div>` : ""}
+    <div class="src">${fuente ? `Fuente: ${esc(fuente)}` : ""}${u.norma_creacion ? ` · creada por ${esc(u.norma_creacion)}` : ""}${u.web ? ` · <a href="${esc(u.web)}" target="_blank" rel="noopener">sitio</a>` : ""}</div>`;
+}
+function personCard(pid){
+  const p = P.get(pid), cs = BY_P.get(pid) || [];
+  const fuentes = new Set(cs.map(c => c.fuente));
+  const f = FOTOS[pid];
+  return `<div class="kind">Persona</div>
+    <div class="pcard">${avatar(pid, p.nombre, "lg")}<div><h2>${esc(p.nombre)}</h2>
+      ${f ? `<div class="src">Foto: <a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.fuente)}</a></div>` : `<div class="src">Sin foto de fuente verificable</div>`}</div></div>
+    ${cs.length > 1 ? `<div class="warn">${cs.length} cargos asociados a este nombre${fuentes.size > 1 ? " en fuentes distintas" : ""}. La unión es por coincidencia de nombre: verificá que se trate de la misma persona.</div>` : ""}
+    <div class="sub"><h3>Cargos</h3>` + cs.map(c => { const u = U.get(c.unidad);
+      return `<button class="row" data-u="${esc(u.id)}"><div class="t">${esc(c.rol === "Titular" ? u.nombre : c.rol + " · " + u.nombre)}</div>
+        <div class="s">${path(u.id).slice(1, -1).slice(-3).map(r => esc(r.nombre)).join(" › ")}</div>
+        <div class="m">${jurChip(u.jur)} ${esc(c.norma || "")} ${c.desde ? "· " + esc(fecha(c.desde)) : ""}</div></button>`; }).join("") + `</div>
+    <div class="src">Fuentes: ${[...fuentes].map(esc).join(", ")}</div>`;
+}
+const card = document.getElementById("card");
+function showUnit(id){ state.sel = {u:id}; card.innerHTML = unitCard(id); }
+function showPerson(pid){ state.sel = {p:pid}; card.innerHTML = personCard(pid); card.scrollTop = 0; }
+card.addEventListener("click", e => {
+  const b = e.target.closest("[data-u],[data-p]"); if (!b || e.target.closest("a")) return;
+  if (b.dataset.u) focusOn(b.dataset.u); else showPerson(b.dataset.p);
+});
+function focusOn(id){
+  // Una hoja se muestra dentro de su superior, para que el grafo no quede en un punto.
+  state.focus = (KIDS.get(id) || []).some(inJur) ? id : (U.get(id).padre || "ba");
+  drawGraph(); showUnit(id); card.scrollTop = 0;
+}
+
+// ── Listas laterales ───────────────────────────────────────────────────────
+const list = document.getElementById("list");
+function renderList(){
+  const q = document.getElementById("q").value.trim();
+  if (q.length >= 2) return renderSearch(q);
+  if (state.tab === "vac") return renderVacantes();
+  if (state.tab === "rec") return renderRecientes();
+  if (state.tab === "nov") return renderNovedades();
+  return renderCruces();
+}
+function renderVacantes(){
+  const areas = new Map();
+  for (const u of U.values()) if (u.vacante && inJur(u.id)) {
+    const a = area(u.id); if (!a) continue;
+    if (!areas.has(a.id)) areas.set(a.id, []); areas.get(a.id).push(u);
+  }
+  const rows = [...areas].map(([aid, vs]) => ({a: U.get(aid), vs, tot: DESC.get(aid) + 1}))
+    .sort((x, y) => y.vs.length - x.vs.length);
+  list.innerHTML = `<div class="note">Unidades sin titular según la fuente oficial, agrupadas por área. En el Poder Judicial, juzgados sin juez/a titular (muchos están subrogados). La barra muestra qué parte de cada área está vacante.</div>` +
+    rows.map(r => `<button class="row" data-u="${esc(r.a.id)}"><div class="t">${esc(r.a.nombre)}</div>
+      <div class="m">${jurChip(r.a.jur)}<span class="mono">${r.vs.length} / ${fmt(r.tot)}</span><span class="bar"><i style="width:${Math.min(100, 100 * r.vs.length / r.tot)}%"></i></span></div></button>`).join("");
+}
+function renderRecientes(){
+  const hoy = new Date(G.generado + "T12:00"), desde = new Date(hoy - state.recDias * 864e5);
+  const cs = G.cargos.filter(c => c.desde && new Date(c.desde) >= desde && new Date(c.desde) <= hoy && inJur(c.unidad))
+    .sort((a, b) => b.desde.localeCompare(a.desde));
+  list.innerHTML = `<div class="seg" role="group" aria-label="Período">${[30, 90, 365].map(d =>
+      `<button data-d="${d}" aria-pressed="${state.recDias === d}">${d === 365 ? "12 meses" : d + " días"}</button>`).join("")}</div>
+    <div class="note">${fmt(cs.length)} designaciones con fecha de inicio en el período. Solo la Provincia publica fecha y norma; la Ciudad no.</div>` +
+    cs.slice(0, 300).map(c => `<button class="row withav" data-u="${esc(c.unidad)}">${avatar(c.persona, P.get(c.persona).nombre, "sm")}<div><div class="t">${esc(P.get(c.persona).nombre)}</div>
+      <div class="s">${esc(U.get(c.unidad).nombre)}</div><div class="m mono">${esc(fecha(c.desde))} · ${esc(c.norma || "sin norma")}</div></div></button>`).join("");
+}
+function renderCruces(){
+  const ps = [...BY_P].filter(([pid, cs]) => new Set(cs.map(c => c.unidad)).size > 1 && cs.some(c => inJur(c.unidad)))
+    .map(([pid, cs]) => ({p: P.get(pid), cs, fuentes: new Set(cs.map(c => c.fuente)).size}))
+    .sort((a, b) => b.fuentes - a.fuentes || b.cs.length - a.cs.length);
+  list.innerHTML = `<div class="note">Personas con más de un cargo. Arriba, las que aparecen en fuentes distintas (p. ej. funcionario provincial y concejal electo). Se unen por nombre: pueden ser homónimos.</div>` +
+    ps.map(x => `<button class="row withav" data-p="${esc(x.p.id)}">${avatar(x.p.id, x.p.nombre, "sm")}<div><div class="t">${esc(x.p.nombre)}</div>
+      <div class="s">${x.cs.slice(0, 3).map(c => esc(c.rol === "Titular" ? U.get(c.unidad).nombre : c.rol)).join(" · ")}</div>
+      <div class="m"><span class="mono">${x.cs.length} cargos</span>${x.fuentes > 1 ? '<span class="chip vac">fuentes cruzadas</span>' : ""}</div></div></button>`).join("");
+}
+const ETIQUETA = {designacion:"Asume", baja:"Deja el cargo", alta_organismo:"Organismo nuevo",
+  baja_organismo:"Organismo dado de baja", vacante_abre:"Queda vacante", vacante_cubre:"Vacante cubierta"};
+function renderNovedades(){
+  const cs = (CAMBIOS.corridas || []);
+  if (!cs.length) {
+    list.innerHTML = `<div class="note">Todavía no hay novedades: se guardó la foto de referencia en la última actualización.
+      Corré <span class="mono">actualizar.sh</span> (el acceso directo “Actualizar Mapa del Estado BA” del escritorio) y lo que haya cambiado aparece acá.</div>`;
+    return;
+  }
+  list.innerHTML = `<div class="note">Qué cambió en cada actualización que corriste: designaciones, bajas, organismos nuevos y vacantes que se abren o se cubren.</div>` +
+    cs.map(c => `<div class="grp">${esc(fecha(c.fecha))} · ${fmt(c.eventos.length)} cambios</div>` +
+      c.eventos.filter(e => state.jur === "ba" || e.jur === state.jur).slice(0, 120).map(e =>
+        `<button class="row" data-u="${esc(e.unidad)}"><div class="t">${esc(e.texto)}</div>
+          <div class="m"><span class="chip ${e.tipo.startsWith("vacante_abre") || e.tipo === "baja" ? "vac" : e.jur || "pba"}">${esc(ETIQUETA[e.tipo] || e.tipo)}</span>
+          ${e.norma ? `<span class="mono">${esc(e.norma)}</span>` : ""}</div></button>`).join("")).join("");
+}
+const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const IDX_U = [...U.values()].filter(u => u.jur).map(u => [norm(u.nombre + " " + (u.sigla || "")), u]);
+const IDX_P = [...P.values()].map(p => [norm(p.nombre), p]);
+function renderSearch(q){
+  const t = norm(q).split(/\s+/).filter(Boolean), hit = s => t.every(w => s.includes(w));
+  const ps = IDX_P.filter(([s, p]) => hit(s) && (BY_P.get(p.id) || []).some(c => inJur(c.unidad))).slice(0, 25);
+  const us = IDX_U.filter(([s, u]) => hit(s) && inJur(u.id)).sort((a, b) => DESC.get(b[1].id) - DESC.get(a[1].id)).slice(0, 40);
+  list.innerHTML = (ps.length ? `<div class="grp">Personas</div>` + ps.map(([, p]) => { const c = BY_P.get(p.id)[0];
+      return `<button class="row withav" data-p="${esc(p.id)}">${avatar(p.id, p.nombre, "sm")}<div><div class="t">${esc(p.nombre)}</div><div class="s">${esc(c.rol === "Titular" ? U.get(c.unidad).nombre : c.rol + " · " + U.get(c.unidad).nombre)}</div></div></button>`; }).join("") : "")
+    + (us.length ? `<div class="grp">Organismos</div>` + us.map(([, u]) =>
+      `<button class="row" data-u="${esc(u.id)}"><div class="t">${esc(u.nombre)}</div><div class="m">${jurChip(u.jur)}${esc(TIPO[u.tipo] || "")}</div></button>`).join("") : "")
+    || `<div class="note">Sin resultados para “${esc(q)}”. Probá con el apellido solo o con la sigla del organismo.</div>`;
+}
+list.addEventListener("click", e => {
+  const d = e.target.closest("[data-d]"); if (d) { state.recDias = +d.dataset.d; return renderRecientes(); }
+  const b = e.target.closest("[data-u],[data-p]"); if (!b) return;
+  if (b.dataset.u) focusOn(b.dataset.u); else { showPerson(b.dataset.p); const c = BY_P.get(b.dataset.p)?.[0]; if (c) { state.focus = (KIDS.get(c.unidad)||[]).length ? c.unidad : U.get(c.unidad).padre; drawGraph(); } }
+});
+document.getElementById("q").addEventListener("input", renderList);
+document.querySelector(".tabs").addEventListener("click", e => {
+  const b = e.target.closest("[data-tab]"); if (!b) return;
+  state.tab = b.dataset.tab; document.getElementById("q").value = "";
+  document.querySelectorAll(".tabs button").forEach(x => x.setAttribute("aria-selected", x === b));
+  renderList();
+});
+document.querySelector(".jur").addEventListener("click", e => {
+  const b = e.target.closest("[data-j]"); if (!b) return;
+  state.jur = b.dataset.j;
+  document.querySelectorAll(".jur button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  renderStats(); renderList(); focusOn(state.jur);
+});
+let rz; addEventListener("resize", () => { clearTimeout(rz); rz = setTimeout(drawGraph, 150); });
+matchMedia("(prefers-color-scheme: dark)").addEventListener("change", drawGraph);
+new MutationObserver(drawGraph).observe(document.documentElement, {attributes:true, attributeFilter:["data-theme"]});
+
+renderStats(); renderList(); focusOn("ba");
+</script>

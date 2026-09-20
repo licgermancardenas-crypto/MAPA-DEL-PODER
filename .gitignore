@@ -1,0 +1,11 @@
+# Crudo que se rebaja solo y pesa (63 MB de PDFs del escrutinio)
+raw/concejales_2025/
+# Caché de imágenes ya procesadas (se reconstruye con 09_fotos.py)
+raw/fotos/
+# Foto de referencia para el diff: es una copia del grafo de la corrida anterior
+data/historial/ultimo.json
+__pycache__/
+*.pyc
+# Planilla de revisión y candidatas: incluyen fotos no aprobadas (se regeneran con 11 y 12)
+raw/candidatas_intendentes.json
+web/revision_intendentes.html

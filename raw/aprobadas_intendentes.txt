@@ -1,0 +1,1 @@
+APROBADAS v1: arrecifes=3, brandsen=1, carlos-tejedor=1, chivilcoy=2, ensenada=1, ezeiza=1, general-alvear=1, general-arenales=1, general-lavalle=1, guamini=1, loberia=1, lobos=1, marcos-paz=1, monte-hermoso=1, navarro=1, necochea=1, nueve-de-julio=1, pergamino=1, pinamar=1, punta-indio=1, rojas=1, salliquelo=1, tapalque=2, villa-gesell=1, zarate=1

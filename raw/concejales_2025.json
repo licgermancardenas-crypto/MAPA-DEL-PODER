@@ -1,0 +1,6571 @@
+{
+ "fecha": "2026-09-18",
+ "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/",
+ "distritos": [
+  {
+   "codigo": "001",
+   "distrito": "ADOLFO ALSINA",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "LOPEZ EDUARDO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "WISCHÑEVSKY LILIANA JUDIT",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "INCHAUSPE ANABELA ETELVINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "HOLZMANN ALEJANDRO EMMANUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BERSELLINI NORA ESTHER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ACTIS GORETTA GUSTAVO EMANUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025001.pdf"
+  },
+  {
+   "codigo": "002",
+   "distrito": "ALBERTI",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SCARCELLI BRUNO GUSTAVO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PEREZ LUISA DE LOS ANGELES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CALABRIA ALEJANDRO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "FIGGINI SANDRA ADRIANA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "GOMEZ ERNESTO MANUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MARELLI INES MARIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025002.pdf"
+  },
+  {
+   "codigo": "003",
+   "distrito": "ALMIRANTE BROWN",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "EICHEL PAULA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BATTAFARANO LEANDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ORTIZ MICAELA BELÉN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "BORSETTI MARTIN EZEQUIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CHARLES MANGEON NATALIA ANAHÍ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "PIANCIOLA SERGIO GUSTAVO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "FODOR CECILIA BRENDA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "MORELLI HUMBERTO MARTIN AMERICO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "VIEYRA NESTOR ARIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LOCHER MYRIAM EDITH",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "IBAÑEZ IVAN EDUARDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "COLMAN FLORENCIA AGUSTINA JACQUELINE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025003.pdf"
+  },
+  {
+   "codigo": "004",
+   "distrito": "AVELLANEDA",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "FERRARESI JORGE HORACIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "COLASO CLAUDIA CECILIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ALESSI JOSE GABRIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "BROVIDA NILDA INES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "PIROLO SANTIAGO ARIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "DORREGO ALBA GABRIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "VIDAL SEBASTIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "PERINI TAMARA LAURA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "FRATTINI CRISTIAN ALFREDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SAGOL VERONICA ALEJANDRA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "YACOB LUCAS ARIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VENTOSA PATRICIA LAURA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025004.pdf"
+  },
+  {
+   "codigo": "005",
+   "distrito": "AYACUCHO",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BENTABERRY MARCELO ALBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DIDIO ROXANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SANTILLI MARCO PABLO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "FORIO GIMENA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "CARLON GUILLERMO EMANUEL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "DARGUIBEL MARIA ISABEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ANGIOLINI LEANDRO JAVIER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025005.pdf"
+  },
+  {
+   "codigo": "006",
+   "distrito": "AZUL",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BARBALARGA NELIDA LAURA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LABIANCA ALEXIS AGUSTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ARBIZA GISELA JAQUELINE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "COLOME NATALIA VANINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "MARCHISIO LEOPOLDO RAUL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "HOURSOURIPE LUIS ALBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ELICABIDE AZUL AGUSTINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "FURIASSE JUAN IGNACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "PIANCIOLI MARCELINA MAGALI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025006.pdf"
+  },
+  {
+   "codigo": "007",
+   "distrito": "BAHIA BLANCA",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MOLINI FLORENCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LARI GUSTAVO ARIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "RODRIGUEZ MARQUEZ MARIA BELEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CARUCCI CLAUDIO ALBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "SALABERRY MARCELO MARTIN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "BORELLI ADRIANA CECILIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "GRIPPO FRANCA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "FERRANDEZ FELIPE HORACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CAPUTO GISELA MELISA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "COMPAGNONI FERNANDO MATIAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "VALENZUELA ARACELI NADJALI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 6,
+     "nombre": "CAGIAO LUCIANO HERNAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025007.pdf"
+  },
+  {
+   "codigo": "008",
+   "distrito": "BALCARCE",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DI GERONIMO MARIA SOL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MENONNE ERNESTO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PETRUCCELLI GABRIEL DARIO",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "SCIOLI GONZALO MARTIN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "AMADO CUNQUEIRO FARA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "PACIARONI FURNO LUCIO MATIAS",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "CAPECCIO MARTIN IGNACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MARCHEGIANI MARIA ALEJANDRA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "FOGLIA EDGAR MAURICIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025008.pdf"
+  },
+  {
+   "codigo": "009",
+   "distrito": "BARADERO",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "HOURIET LETICIA RAQUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "OLIVERI GUILLERMO RODOLFO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "VALLADARES SUAREZ CARLOS ISIDRO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "DAUBIAN MARCELO JOSE",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "NOVARECIO EVANGELINA LUJAN",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 1,
+     "nombre": "RAMOS JUAN MARIA",
+     "lista": "AGRUPACION POLITICA BARADERO 400 AÃ‘OS"
+    },
+    {
+     "orden": 2,
+     "nombre": "RAGGIO LORENA ISABEL",
+     "lista": "AGRUPACION POLITICA BARADERO 400 AÃ‘OS"
+    },
+    {
+     "orden": 3,
+     "nombre": "PUEBLA RAMON ARIEL",
+     "lista": "AGRUPACION POLITICA BARADERO 400 AÃ‘OS"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025009.pdf"
+  },
+  {
+   "codigo": "010",
+   "distrito": "ARRECIFES",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GABILONDO PATRICIO ALFREDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DI PALMA MARIA ANDREA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PERALTA GONZALO NICOLAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BENEDETTI MAURICIO ARIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VIDAL MARILE ANTONELLA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "REIGOSA SEBASTIAN ANTONIO",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "ETEROVICH MARIA MARCELA",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025010.pdf"
+  },
+  {
+   "codigo": "011",
+   "distrito": "BERAZATEGUI",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MUSSI JUAN JOSE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LACAVA MARIA LAURA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BENEDETTI MARCELO FABIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CANESTRO ANDREA ELIZABET",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CIABOCCO PABLO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "BAUCHE IRMA ROSA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "LOPEZ JUAN BAUTISTA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "GENES GRACIELA GRISELDA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MOLVER BENITO MARIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "AUSCARRIAGA LUCIA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GREGORINI JORGE RAFAEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "PATERNO DIANA ELIZABETH",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025011.pdf"
+  },
+  {
+   "codigo": "012",
+   "distrito": "BERISSO",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CAGLIARDI FABIAN GUSTAVO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GRASSO BEATRIZ ZULEMA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "RUIZ FEDERICO JULIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "OVEJERO PAOLA CAROLINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "DIPAOLO WALTER MATIAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "VILLA CHIODO ANTONELLA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "AGUIRRE ALEJANDRO DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "FERNANDEZ LAURA NOEMI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LUNA CARLOS DARIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "RIVERO DANIELA TERESA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025012.pdf"
+  },
+  {
+   "codigo": "013",
+   "distrito": "BOLIVAR",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CANEPARE FRANCO ELIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BONTEMPO KARINA NOEMI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MALUENDEZ JOSE MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PALOMINO MARIA EMILIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "PACHO CESAR",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SANTOS SANDRA BLANCA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MORAN NICOLAS",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "QUIBUS MARIA CRISTINA",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025013.pdf"
+  },
+  {
+   "codigo": "014",
+   "distrito": "BRAGADO",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ELIZALDE EMMA ESTER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "TAGHON LEANDRO OMAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "VIVES PILAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "SCIASCIO JULIO CESAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CASTILLO JORGE ALBERTO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "ALSINA PAOLA LORENA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RIBATTO MARTIN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BRUNO MARIA CARLA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "DRUNDAY JORGE ANDRES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025014.pdf"
+  },
+  {
+   "codigo": "015",
+   "distrito": "BRANDSEN",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PONCETTA GASTON ALEJANDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROSALES GABRIELA ALEJANDRA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GONZALEZ JOSE LUIS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CARRICABURU HUGO A.",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "ARRECHEA MARIA FLORENCIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "SOTELO MIGUEL ANGEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "FESCINA SILVIA LAURA BEATRIZ",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025015.pdf"
+  },
+  {
+   "codigo": "016",
+   "distrito": "CAMPANA",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SARNA ALEJO RAUL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "TORRES CARINA ERICA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MIDON LEONARDO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "GARELLO MARIA PAOLA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "FERNANDEZ GUSTAVO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "NOGUEIRA NERIO NELSON",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BARRIOS LAURA MARISA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "VALMALA DIEGO GABRIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "FLOR ANALIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "BARJA SOSA ALEJANDRO JESUS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025016.pdf"
+  },
+  {
+   "codigo": "017",
+   "distrito": "CAÑUELAS",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DOMINGUEZ PABLO DANIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RIOS VALERIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ALCOBA ENRIQUE GUSTAVO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "RASQUETTI CAROLINA YESICA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "ABDO FERNANDO LUIS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "GUARDIA FLAVIA EUGENIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BERNASCONI ORLANDO MARCELO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RUFFO ROXANA SANDRA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "DELGADO MATIAS NICOLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025017.pdf"
+  },
+  {
+   "codigo": "018",
+   "distrito": "CAPITAN SARMIENTO",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "OSTOICH SERGIO GERMAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VAZQUEZ ACATTO MARIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ALVAREZ RODRIGUEZ GONZALO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "SANTAMARIA ALFONSINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PEREZ JORGE LEONARDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "VARESSI ESTELA MARISA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025018.pdf"
+  },
+  {
+   "codigo": "019",
+   "distrito": "CARLOS CASARES",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "LAFFONT ANA EMELINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PERINASSO JOSE LUIS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "FONTANA CAROLINA ITATI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ORAZI EZEQUIEL GUSTAVO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "NESCHENKO VIVIANA LILIANA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "FERNANDEZ SILVIO RUBEN",
+     "lista": "UNIDOS POR CASARES"
+    },
+    {
+     "orden": 2,
+     "nombre": "FERRERO CLAUDIA VALENTINA",
+     "lista": "UNIDOS POR CASARES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025019.pdf"
+  },
+  {
+   "codigo": "020",
+   "distrito": "CARLOS TEJEDOR",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ZABALA FERNANDEZ CIPRIANO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VIGLIANCO VIRGINIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SALAZAR GERMAN EDUARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "POLARI MARCELA CLAUDIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GONDRA JUAN MARTIN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "BASSI JUAN PABLO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025020.pdf"
+  },
+  {
+   "codigo": "021",
+   "distrito": "CARMEN DE ARECO",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CAMALLO CARLOS A",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BOICHUK LAURA BEATRIZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ROSSI ROMANO JUAN SANTIAGO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "VALDES LUCIANA DANIELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BAINOTTI IRIARTE LAUTARO AUGUSTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BARON ANDREA MABEL",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025021.pdf"
+  },
+  {
+   "codigo": "022",
+   "distrito": "PATAGONES",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BALCARCE FRANCO NICOLAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PRESA SAMANTHA DANIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "DALMAU SANTIAGO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "SGARAVATO ROCIO DAIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "TRIPODI MARCO ANTONIO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "CECCHINI LORENA EDITH",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PRINCIPE LUCIANO ALBINO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CASTRONOVO JORGELINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025022.pdf"
+  },
+  {
+   "codigo": "023",
+   "distrito": "CASTELLI",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MACIAS MARIA EUGENIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DIAZ FABIO ADRIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "VANDEVALLE IVANA GRISELDA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "TUCCHI EZEQUIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "AVERSA MARIA JULIETA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025023.pdf"
+  },
+  {
+   "codigo": "024",
+   "distrito": "COLON",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DESIMONE MAXIMILIANO NAHUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SARMORIA BRENDA MELINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LUJAN NICOLAS RUBEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ARANCIBIA MARTINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CANEPA MATIAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MONTAGNA MARCELO JULIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DEMARIA LETIZIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025024.pdf"
+  },
+  {
+   "codigo": "025",
+   "distrito": "CORONEL DORREGO",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ALONSO MANUELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "AMUCHASTEGUI LUIS ALFREDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BARANDIARAN AMESTOY SORAYA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "FUERTES JUAN PABLO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "DEL VALLE TOMAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CABARCOS ANDREA ROSANA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025025.pdf"
+  },
+  {
+   "codigo": "026",
+   "distrito": "CORONEL PRINGLES",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "RIVAROLA ESTEVES JOSE MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CARNEVALI MARIA SILVANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MENSI ALDO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "HERR EDUARDO OMAR",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GONZALEZ LORENA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MADERO GUILLERMO JULIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "STRAZZERE MARTIN MARIANELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025026.pdf"
+  },
+  {
+   "codigo": "027",
+   "distrito": "CORONEL ROSALES",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PEREYRA JUAN JOSE JULIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GIORNO VIRGINIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GABBARINI CARLOS ESTEBAN",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VOGEL ANDREA FABIANA",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "LENCINA EZEQUIEL ESTEBAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "QUIROGA ENCARNACION DEL VALLE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MAIDANA SANTIAGO NICOLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CIAVATTA GABRIELA CECILIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "ISON PONCE NAHUEL NICOLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025027.pdf"
+  },
+  {
+   "codigo": "028",
+   "distrito": "CORONEL SUAREZ",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SALVI RICARDO",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "COLMAN MARCELA FABIANA",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "ROLLHEISER WALTER MARTIN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GASPE ROMINA MABEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "RUDY CARLOS ORESTES",
+     "lista": "MOVIMIENTO PARA LA VICTORIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GRAFF MAGDALENA",
+     "lista": "MOVIMIENTO PARA LA VICTORIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LOOS RODRIGO",
+     "lista": "MOVIMIENTO PARA LA VICTORIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "SUAREZ MONICA ARACELI",
+     "lista": "MOVIMIENTO PARA LA VICTORIA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025028.pdf"
+  },
+  {
+   "codigo": "029",
+   "distrito": "CHACABUCO",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GELOSO MARIA KARINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CARNAGHI SANTIAGO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PONCE CARLA LUCRECIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "SASSONI MATIAS LUJAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CHIELLI ROSANA MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "HERRERA LISANDRO CRISTOBAL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "LALLA ANABELLA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "RECONDO MARIA EMILIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "NANNI FERNANDO DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025029.pdf"
+  },
+  {
+   "codigo": "030",
+   "distrito": "CHASCOMUS",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ALFONSIN LUCIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LUDUEÑA MARIA EUGENIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CASALINS SANTIAGO",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "IRIART MARIA EUGENIA",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "DOS SANTOS SANTIAGO RAUL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "ARDOHAIN CINTIA RENEE",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "TOLEDO BARZOLA OSCAR FREDDY",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MANZONI GABRIELA CECILIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025030.pdf"
+  },
+  {
+   "codigo": "031",
+   "distrito": "CHIVILCOY",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ALONSO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DEIURE GABRIEL ESTEBAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BLOTTA MARIA EUGENIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CASELLES EZEQUIEL PEDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "DABI NESTOR RUBEN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "ARONNA IVANA PAOLA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "FELICE JUAN IGNACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RAMOS NICIEZA NOELIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GALLAND MARIA DEL ROSARIO",
+     "lista": "FUERZA CHIVILCOYANA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025031.pdf"
+  },
+  {
+   "codigo": "032",
+   "distrito": "DAIREAUX",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "COITO JUAN MANUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROMANO MARIA PAOLA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "VIDELA JOSÉ AUGUSTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CEREIJO IGNACIO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "MOGNI FEDERICO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "IRRAZABAL MARIA VICTORIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025032.pdf"
+  },
+  {
+   "codigo": "033",
+   "distrito": "DOLORES",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ELIZALDE MARCOS LUIS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MONTOYA RIVAS YESICA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "DIAZ JUAN PABLO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CELASCO VERONICA ELIZABETH",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ETCHEVARREN LUIS MARIA CAMILO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "CLAVERO LAURA INES",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "LASSERRE IGNACIO GUILLERMO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025033.pdf"
+  },
+  {
+   "codigo": "034",
+   "distrito": "ENSENADA",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SECCO MARIO CARLOS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "OROPEZA MARIA TERESA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PRESTE ADOLFO GERARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "GRILLI ORNELA AGUSTINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "DA CRUZ JONATHAN ANDRES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "GIUDICE ANDREA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "IVAÑEZ SERGIO PABLO MARCELO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "UCCELLO CANDELA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PESADO SERGIO ALBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025034.pdf"
+  },
+  {
+   "codigo": "035",
+   "distrito": "ESCOBAR",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CEJAS LAURA INES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ORDOÑEZ JUAN MANUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GORROSITO GABRIELA ROSANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "MUCILLI ANDRES LUCIANO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "GUAZZARONI MARIA LAURA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "BUFELLI ROBERTO SEBASTIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "FERNANDEZ ROCIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GIANFRANCESCO EDUARDO LUIS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MÜLLER ADELA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PEREZ DAMIAN MARTIN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CAMAÑO MARIA LUZ LESLIE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "VILA CRISTIAN DARIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025035.pdf"
+  },
+  {
+   "codigo": "036",
+   "distrito": "ESTEBAN ECHEVERRIA",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MAGUI GRAY",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BARRIOS ALEJANDRO MARIANO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MARANGIELLO ADRIANA VERONICA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "DIAZ FLORENTINO REYES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "LANDOLFI ASTRID LORENA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "SOUSA HELGUERA GONZALO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "CASAS SILVIA BEATRIZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "URCHIPIA MIGUEL ANGEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MAZZEO MARCELO JORGE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BAIO MELINA FLORENCIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ORTEGA JORGE DAVID",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "MARIN KARINA ALEJANDRA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025036.pdf"
+  },
+  {
+   "codigo": "037",
+   "distrito": "EXALTACION DE LA CRUZ",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "NANNI MARIELA ALEJANDRA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PEREYRA EDUARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "KLUG LUCIA LORENA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "GONZALEZ RICARDO SALVADOR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BUCAREY FUENTEALBA ELIAS FABIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SANCHEZ SILVIA AMALIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SARAVI EXEQUIEL ALBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025037.pdf"
+  },
+  {
+   "codigo": "038",
+   "distrito": "FLORENCIO VARELA",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "WATSON ANDRES GUILLERMO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DOMINGORENA BEATRIZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "REARTE GUSTAVO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "PERRONE NIDIA ORNELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "VICENTE MARCELO FABIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "BAEZ AMANCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "BASUALDO MARCELO ALEJANDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "PIÑEIRO NOELIA FERNANDA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 9,
+     "nombre": "ROMERO JORGE ARIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CASTELLO MARTIN JAVIER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GALLO CAROLINA ELIZABETH",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SERRA JAVIER EMILIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025038.pdf"
+  },
+  {
+   "codigo": "039",
+   "distrito": "GENERAL ALVARADO",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MUROWATZ HORACIO RICARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MOSQUERA MARIA EVA LURDES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LOPEZ ADRIAN NATANAEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BARRIOS GERMAN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "MORENO ADRIANA L.",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "MARTINEZ DE VEDIA NICOLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LARES OLGA SOLVINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MASSON QUIROGA SERGIO JAVIER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025039.pdf"
+  },
+  {
+   "codigo": "040",
+   "distrito": "GENERAL ALVEAR",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ELHELOU DELIA CARIME",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VILCHES JOSE MARIANO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CHOJO MARIANELA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "GALLO VILLAVERDE PEDRO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "VALERGA JOSE MARTINIANO",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "LAZCANO PAOLA ANDREA",
+     "lista": "ALIANZA NUEVOS AIRES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025040.pdf"
+  },
+  {
+   "codigo": "041",
+   "distrito": "GENERAL ARENALES",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MEDINA JOSE MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CARRASCO AMIRA BELEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GILARDONI MARIA ELISA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROMERO JOAQUIN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "GALDEANO PABLO SANTIAGO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SEGURA FABIANA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025041.pdf"
+  },
+  {
+   "codigo": "042",
+   "distrito": "GENERAL BELGRANO",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "VALCARLOS NESTOR ARIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GAMBOA CRISTINA ELISABET",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "REY JOEL ADRIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BERGARECHE RIVERO MARIA NATALIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "LOPEZ SCOTT RICARDO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "MORETTI CRISTIAN DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025042.pdf"
+  },
+  {
+   "codigo": "043",
+   "distrito": "GENERAL GUIDO",
+   "bancas": 3,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SERESINI VALENTINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LEGUIZAMON LUIS GONZALO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GUTIERREZ SILVIA RAQUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025043.pdf"
+  },
+  {
+   "codigo": "044",
+   "distrito": "GENERAL LA MADRID",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "NUÑEZ DARDO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MARTINEZ MARIANA BEATRIZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "HORN DANIEL ALEJANDRO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "GODOY MARIA MARTA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "SABADINI ELIANA VANINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ZULIANI GERMAN ANDRES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025044.pdf"
+  },
+  {
+   "codigo": "045",
+   "distrito": "GENERAL LAS HERAS",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CAMBRA ELIAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LATORRE GRETEL LUCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CALO JUAN CARLOS",
+     "lista": "ALIANZA ES CON VOS ES CON NOSOTROS"
+    },
+    {
+     "orden": 2,
+     "nombre": "OLIVIERI JULIANA",
+     "lista": "ALIANZA ES CON VOS ES CON NOSOTROS"
+    },
+    {
+     "orden": 1,
+     "nombre": "BISSONI ALFREDO SEBASTIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GRENADA ESTELA ROSALIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025045.pdf"
+  },
+  {
+   "codigo": "046",
+   "distrito": "GENERAL LAVALLE",
+   "bancas": 3,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PELUZO FEDERICO SANTIAGO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "GARAY NORMA NOEMI",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "GUEVARA SOTELO EMMANUEL ALEJANDRO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025046.pdf"
+  },
+  {
+   "codigo": "047",
+   "distrito": "GENERAL MADARIAGA",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DAIUB TAMARA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ESCOBAR SANTIAGO MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "LATURRAGA XIMENA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "SCIGLIANO FRANCO EDUARDO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "NIKODEM FLORENCIA GUILLERMINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "RIVERO GONZALO EZEQUIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025047.pdf"
+  },
+  {
+   "codigo": "048",
+   "distrito": "GENERAL PAZ",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SAAVEDRA GISELE ANAHI",
+     "lista": "DEFENSA COMUNAL DE GENERAL PAZ"
+    },
+    {
+     "orden": 1,
+     "nombre": "ROBERTO URBAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ALVAREZ ANA CLARA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BALCEDO RICARDO OSCAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "TELECHEA EDUARDO GABRIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "COSTANTINO DAIANA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025048.pdf"
+  },
+  {
+   "codigo": "049",
+   "distrito": "GENERAL PINTO",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DI NUCCI BRUNO DANTE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SUAREZ VANESSA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MORENO MARTIN HORACIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "GARIBOLDI MARIA CELIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "SANCHEZ JORGE",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "OLMEDO NATALI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025049.pdf"
+  },
+  {
+   "codigo": "050",
+   "distrito": "GENERAL PUEYRREDON",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CUESTA MARIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "OBEID PABLO DAVID",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "FLORES SOLANGE BELEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "AZCOITIA MARIA GABRIELA",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "MARTINEZ BORDAISCO ARIEL GERARDO",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "MURO FERNANDO GABRIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RANELLUCCI MARIA FLORENCIA MATILDE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "DEMAIO ROLANDO FABIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ALVAREZ RIOS NOELIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CARDOSO NORBERTO MARCELO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PULTI GUSTAVO ARNALDO",
+     "lista": "ACCION MARPLATENSE"
+    },
+    {
+     "orden": 2,
+     "nombre": "CENTURION MELISA NOEMI VIRGINIA",
+     "lista": "ACCION MARPLATENSE"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025050.pdf"
+  },
+  {
+   "codigo": "051",
+   "distrito": "GENERAL RODRIGUEZ",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "FIGUEIRAS SILVIA NOEMI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "TUMMINO GUSTAVO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PEÑA HERNANDEZ PATRICIA C",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "RIOS MAURICIO DANIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "GALVAN MARIANA DEL CARMEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "TEDESCO JUAN EDUARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "KUBAR DARIO MIGUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROJAS SANDRA NOEMI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ROSSI AGUSTIN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "YUNI DANIELA VANESA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025051.pdf"
+  },
+  {
+   "codigo": "052",
+   "distrito": "GENERAL SAN MARTIN",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "VILAPLANA MARCOS DARIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DITALE CECILIA ROMINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CERIANI ANDRES MARIANO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "GARCIA MARIA CRISTINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "DI BENEDICTIS MANUEL ANDRES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "RODRIGUEZ XANA JIMENA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "LENCINAS OMAR ANDRES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MOLLO RUBEN DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CATELLANI OLGA ESTER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MICUCCI CRISTHYAN GASTON",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CARMONA CAMILA BELEN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "GIACCIO HERNAN EDGARDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025052.pdf"
+  },
+  {
+   "codigo": "053",
+   "distrito": "SAN MIGUEL",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "JUAN JOSE CASTRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ORTIZ MARIA CELESTE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GONZALEZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ACEVEDO TERESA ADELAIDA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PUIGGARI AGUSTIN TOMAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ARRUA MARIA BELEN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PANTULIANO PATRICIO ANDRES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CALVENTE HECTOR",
+     "lista": "PRIMERO SAN MIGUEL"
+    },
+    {
+     "orden": 2,
+     "nombre": "BUITRAGO CATALINA MARIA",
+     "lista": "PRIMERO SAN MIGUEL"
+    },
+    {
+     "orden": 3,
+     "nombre": "SALVAGGIO JOSE ANDRES",
+     "lista": "PRIMERO SAN MIGUEL"
+    },
+    {
+     "orden": 4,
+     "nombre": "DI CONZA MARIA DE LOS ANGELES",
+     "lista": "PRIMERO SAN MIGUEL"
+    },
+    {
+     "orden": 5,
+     "nombre": "SEGOVIA JULIAN DARIO",
+     "lista": "PRIMERO SAN MIGUEL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025053.pdf"
+  },
+  {
+   "codigo": "054",
+   "distrito": "GENERAL VIAMONTE",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GOROSTIAGUE MARIA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DEFENDENTE JUAN IGNACIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MIRANDA CELESTE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "QUINTANA GASPAR",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "CAVAGNA SARA LUJAN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "TEILLERI GUILLERMO FERNANDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025054.pdf"
+  },
+  {
+   "codigo": "055",
+   "distrito": "GENERAL VILLEGAS",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "POLARI GERMAN EZEQUIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MACKAY SOFIA MACARENA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "LEPORATI EUGENIO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "ULLUA GISBERT LUCILA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "JULIAN LUJAN CESAR FACUNDO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "CARAMES GUERRERO MARIA JOSEFINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "COSTAMAGNA DANTE JOSE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ECHAVE VERONICA MARIA JOSE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025055.pdf"
+  },
+  {
+   "codigo": "056",
+   "distrito": "ADOLFO GONZALES CHAVES",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ZOPPO SANDRA ELIZABETH",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GARIBOTTI JOSE EDUARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ATELA GUILLERMINA",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "FERRARO GIANFRANCO",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "GARCIA MARTINEZ GUILLERMINA",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "DIEZ ETHEL DEL LUJAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025056.pdf"
+  },
+  {
+   "codigo": "057",
+   "distrito": "GUAMINI",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SARASIBAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SCHMIDT KAREN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SCHENCK HUBERTO AGUSTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BARREÑA HUGO ALBERTO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "MORAN SCHELL DEBORA DANIELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ALMEIDA LISANDRO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025057.pdf"
+  },
+  {
+   "codigo": "058",
+   "distrito": "HIPOLITO YRIGOYEN",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GARCIA SILVINA ANAHI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LEDESMA LUCAS ALEJANDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LAHOURCADE JENNIFER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "TURRA MARTA JULIA VIRGINIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PELERANO CLAUDIO ARIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025058.pdf"
+  },
+  {
+   "codigo": "059",
+   "distrito": "BENITO JUAREZ",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MARINI CESAR FABIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LABAYEN MILAGROS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CHAYER TOMAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ALMIRON MARIANA GISELE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "AREVALO MAURO ALEJANDRO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "RODRIGUEZ FERNANDO JOSE",
+     "lista": "JUAREZ RENACE DE BENITO JUAREZ"
+    },
+    {
+     "orden": 2,
+     "nombre": "GASPANI AMANDA",
+     "lista": "JUAREZ RENACE DE BENITO JUAREZ"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025059.pdf"
+  },
+  {
+   "codigo": "060",
+   "distrito": "JUNIN",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GASTON FERNANDO \"TURI\", BURGOS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BOZZANO MARIA CLARA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BOJKO FLAVIO ESTEBAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "TEJO LAURA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "de MIGUEL, AGUSTINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "LLOVET MANUEL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "LAROCCA TAMBURRI, AGOSTINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "CRISTINA DIEGO PABLO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CAYZAC GESTEIRA, ROCIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "JULIA LEONEL ALEJANDRO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025060.pdf"
+  },
+  {
+   "codigo": "061",
+   "distrito": "LA MATANZA",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "FERNANDO ESPINOZA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "FRANCESE SILVIA LEONOR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LANDIN SERGIO RAUL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VARGAS MATYI BRENDA MAGALI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CORBALAN JONATHAN NAHUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "DEMITRI SABRINA RAQUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "CAMPANA DANIEL A",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "ALUZ ZULMA GRACIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GIANNI LEILA DANIELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CHAILE GABRIEL HORACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ALONSO JIMENA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "FINOCCHIARO HERNAN OSCAR",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025061.pdf"
+  },
+  {
+   "codigo": "062",
+   "distrito": "LANUS",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DECUZZI LEANDRO JULIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CERVERA NOVO MAILEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "RUSSO NICOLAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "BARBERIO MARCELA ALIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "GARCIA SERGIO MARIANO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "SANDOVAL MARIA BELEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "DE GENNARO VICTOR NORBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "CHAZARRETA SUSANA GRACIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MORONI IGNACIO TOMAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "WERENICZ PATRICIA EVELINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SALA DAMIAN ARIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "SERAPIO CLAUDIA RAQUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025062.pdf"
+  },
+  {
+   "codigo": "063",
+   "distrito": "LA PLATA",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "RESA SERGIO DANIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SANTANA ROMINA DEL CARMEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GRANILLO FERNANDEZ JUAN MANUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "BOLIS JOSEFINA MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "RECAVARREN RAUL OMAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "MALUENDEZ SOL MARIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "POGGIO PABLO DARIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ALLAN JUAN PABLO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MORALES SABRINA LUZ",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ALVAREZ GASTON MANUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "PEDERNERA NADIA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "ZANETTO IVAN GABRIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025063.pdf"
+  },
+  {
+   "codigo": "064",
+   "distrito": "LAPRIDA",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "OMAR SILVIO ALBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GARCIA JAQUELINA IVANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BERTOLOTTO MATIAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PIROZZOLO MARIANA PAULA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "ARISTEGUI SEBASTIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ECHEVERRIA JORGELINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025064.pdf"
+  },
+  {
+   "codigo": "065",
+   "distrito": "LAS FLORES",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "FERNANDO MUÑIZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PERTUSI ARIANA ELISA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CAPUTO ROMAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GOMEZ GUILLERMINA",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "LEMMA BERNARDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CARAMINOLA LAURA NOEMI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BENAVIDEZ CRISTIAN ARIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025065.pdf"
+  },
+  {
+   "codigo": "066",
+   "distrito": "LEANDRO N. ALEM",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CALVI CARINA RAQUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SCHOLZ DIAZ ERNESTO DIEGO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GONZALEZ HENIN AGUSTINA PAULA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ZAVALA MARCELO FABIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ARAMBURU MARIELA ALEJANDRA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROMERO RAMON RAFAEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025066.pdf"
+  },
+  {
+   "codigo": "067",
+   "distrito": "LINCOLN",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BERNARDO BACCELLO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GATTI PATRICIA RAQUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "RILLO FABIO ANDRES",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "DEANE PASSONI FRANCINE",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "RESSIA ANGEL EMILIANO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PEREZ LOYZA PAOLA ANDREA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PAGANI ALEJANDRO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "FERNANDEZ JORGE ABEL",
+     "lista": "LINCOLN ES FUTURO"
+    },
+    {
+     "orden": 2,
+     "nombre": "TORRIELLI NADIA CATALINA",
+     "lista": "LINCOLN ES FUTURO"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025067.pdf"
+  },
+  {
+   "codigo": "068",
+   "distrito": "LOBERIA",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GIMENEZ AGUSTIN ARIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MACIAS CARMIÑA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "REGGIANI MARIA GABRIELA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "MARIOLI FEDERICO ROBERTO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "GODOY MARIA EMILIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "FERNANDEZ BALLESTER CARLOS RAÚL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025068.pdf"
+  },
+  {
+   "codigo": "069",
+   "distrito": "LOBOS",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CARRIQUIRY MARTIN ARIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VIRGILIO ALBA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "THEA MATIAS ISIDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GALLO JULIO JAVIER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RONCOLI MARIA BELEN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MANCA GASTON EZEQUIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ZABALO CARLOS DANIEL",
+     "lista": "UNION VECINAL CONSERVADORA DE LOBOS"
+    },
+    {
+     "orden": 2,
+     "nombre": "EGLI LAURA",
+     "lista": "UNION VECINAL CONSERVADORA DE LOBOS"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025069.pdf"
+  },
+  {
+   "codigo": "070",
+   "distrito": "LOMAS DE ZAMORA",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SOL TISCHIK",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MODARELLI LUCAS EXEQUIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CHAVEZ MARIA GRACIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VIÑALES JUAN MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CLEMENTE ROXANA VERONICA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "DEGLAUE OSVALDO PEDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "MONTENEGRO PAULA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "TOMAS GABRIEL RICARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "UZQUIZA MARTIN NORBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GOMEZ CECILIA CELESTE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BARRERA ROBERTO CARLOS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "BARBOZA MARIA ELIZABETH",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025070.pdf"
+  },
+  {
+   "codigo": "071",
+   "distrito": "LUJAN",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "VANIN LUIS FEDERICO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GROSSI GARCIA YESICA CINTIA ROMINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MARTUCCI JOAQUIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "REY MARIA EVA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "STRAMBI ESTEBAN ALBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "RASENTTE SANDRA VIVIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PRICE FLORENCIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "HASEN ALEXIS EMANUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ETLIS NOELIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "BRATICEVIC CULACCIATI MATIAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025071.pdf"
+  },
+  {
+   "codigo": "072",
+   "distrito": "MAGDALENA",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CASTELLI JORGE MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GURINA MIRNA ELIZABET",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ARAMBURU GONZALO SEBASTIAN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "GARCIA MARIA EUGENIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "ZANELLI CARINA BEATRIZ",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "IHIDOY JUAN MANUEL",
+     "lista": "ESPACIO DE PENSAMIENTO Y ACCION DE MAGDALENA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025072.pdf"
+  },
+  {
+   "codigo": "073",
+   "distrito": "MAIPU",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CASAMAYOR MARIA SOFIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ERCORECA BALBINO DANIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LEDESMA VANINA LAURA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GOLE MARINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "CAPITANI LUCAS MARTIN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "SALOMON FABIO CESAR",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025073.pdf"
+  },
+  {
+   "codigo": "074",
+   "distrito": "MAR CHIQUITA",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PREFUMO ALBANO PABLO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CALVO VANINA FLAVIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GARCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "LATERZA FLORENCIA BEATRIZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "LAGOS MATIAS NICOLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MENDEZ JORGELINA HAYDEE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "UNTACLE SANDRO ULISES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025074.pdf"
+  },
+  {
+   "codigo": "075",
+   "distrito": "MARCOS PAZ",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MC LOUGHLIN VERONICA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GRANARA GONZALO GASTON",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ALVAREZ DANIELA LUCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CISNEROS PEDRO PABLO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "IRRAZABAL YANINA PAOLA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "BOTTO DANIEL OSCAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "VALENZUELA CELESTE BEATRIZ",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SOUZA CASADINHO ERNESTO JAVIER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "RODONI MARIA JOSE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025075.pdf"
+  },
+  {
+   "codigo": "076",
+   "distrito": "MERCEDES",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ALTUBE SANTIAGO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CODEGA MARIA EUGENIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PICCONE RAMIRO DANIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VIÑALES SABRINA ELIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MUNARRIZ MARCELA ALEJANDRA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VERGARA MARCOS JAVIER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BESSEGA CAROLINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ZUBELDIA BERNARDO MANUEL",
+     "lista": "VECINOS POR MERCEDES"
+    },
+    {
+     "orden": 2,
+     "nombre": "VAUTRETTO ROMANELA AYELEN",
+     "lista": "VECINOS POR MERCEDES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025076.pdf"
+  },
+  {
+   "codigo": "077",
+   "distrito": "MERLO",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SCARCELLA LUCAS MATIAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ZAHANA SILVANA VERONICA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CANOSA MAURICIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "FERNANDEZ GALEANO MARÍA GABRIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "FARINA CARLOS EMILIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "QUIROGA NOELIA BELEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "JACINA JULIO CESAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "TRONCOSO JULIETA ALEJANDRA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "VARELA EDUARDO MARCELO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "HUGUETTI LAURA RAQUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BORRA DAMIAN PATRICIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "RUIZ ROSANA MARIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025077.pdf"
+  },
+  {
+   "codigo": "078",
+   "distrito": "MONTE",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BUÑES GUILLERMO JULIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GALLARDO GIAGNACOVO LAURA VICTORIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LEIVA DIEGO RAMON",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "\"JUAMPI VILLANI\"",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "GOÑI ROCIO VANESA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "FERRANDI SANDRA ARACELI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LEROSE CLAUDIO FABIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025078.pdf"
+  },
+  {
+   "codigo": "079",
+   "distrito": "MORENO",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DIAZ MARCELA ALEJANDRA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CONCA ALBERTO ESTEBAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GALLARDO MARISOL ANABELLA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "FRAGA GASTON",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CORONEL GISELE ANAHI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "FRAIZ ALBERTO ARGENTINO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "AGUILERA HORTENCIA NOEMI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "ARTURI JULIO ARIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MAITA ROCIO NICOLE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "AGUILAR CRISTIAN ISMAEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MOUDELLE MARTINEZ BRENDA JAZMIN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "SOLIS SERGIO ARIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025079.pdf"
+  },
+  {
+   "codigo": "080",
+   "distrito": "MORON",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GHI JOSE MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MORO VANINA GISELLE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SPINA MARIANO PABLO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "BOTTI SIBILA BEATRIZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "MARTINEZ ALFONSO LUIS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "STEINBERG RODRIGUEZ MARIA SOL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "RAMPONELLI MIGUEL AGUSTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MORALES CRISTIAN GASTON",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ZAPPULLA ANALIA VERONICA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MIÑO PABLO EZEQUIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "MOBILIA RODRIGUEZ MARIA GABRIELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "FARO CLAUDIO HERNAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025080.pdf"
+  },
+  {
+   "codigo": "081",
+   "distrito": "NAVARRO",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "RE ROMINA MABEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CORREA SERGIO GABRIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CASTELLARI RAMIRO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "BRUNO MARIA FLORENCIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "RODRIGUEZ HORACIO LEANDRO",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "BENITEZ LEONARDO DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025081.pdf"
+  },
+  {
+   "codigo": "082",
+   "distrito": "NECOCHEA",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "RIVERO MARCELO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BLANCO SILVIA ROSANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CEREZUELA JUAN ANGEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VALLOTA MARIA EUGENIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CABALLERO HECTOR EDUARDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "KARAGIANNIS ALEJANDRA ELENA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "DE LA HERA JUAN PABLO",
+     "lista": "AGRUPACION COMUNAL TRANSFORMADORA (A.C.T.)"
+    },
+    {
+     "orden": 2,
+     "nombre": "PUSTILNICK BETTIANA ROMINA",
+     "lista": "AGRUPACION COMUNAL TRANSFORMADORA (A.C.T.)"
+    },
+    {
+     "orden": 1,
+     "nombre": "SIERRA MATIAS EZEQUIEL",
+     "lista": "NUEVA NECOCHEA (A.V.N.N.)"
+    },
+    {
+     "orden": 2,
+     "nombre": "HEGUI MARIA JOSE",
+     "lista": "NUEVA NECOCHEA (A.V.N.N.)"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025082.pdf"
+  },
+  {
+   "codigo": "083",
+   "distrito": "NUEVE DE JULIO",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MALE DEFUNCHIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BIANCHI HECTOR RUBEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GRIZUTTI NANCY BEATRIZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BONFIGLIO PABLO SEBASTIAN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "PALACIOS IGNACIO ABEL",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "REGALIA MARCELA DEL CARMEN",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "CARTA HECTOR GUILLERMO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PALADINO VANESA SILVANA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GIACOMINO PABLO ALBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025083.pdf"
+  },
+  {
+   "codigo": "084",
+   "distrito": "OLAVARRIA",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "YUNGER SARRASQUETA LEONARDO ALBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PALACIOS LUCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MORENO LIZARDIA JUAN IGNACIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CAZOT TELMA MABEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "SARACHU GASTON",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "ALVAREZ NATALIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ZAMPINI NICOLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DUMERAUF MARIA EUGENIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "QUINTEROS VIDELA MARCELINO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ISLAS LUCIANA VANESA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025084.pdf"
+  },
+  {
+   "codigo": "085",
+   "distrito": "PEHUAJO",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ZURRO PABLO JAVIER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LE MOGLIE ANDREA VIVIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "FORMICONI GASTON ALFREDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VIERA DANIELA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "VICENTE GUSTAVO J",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ZARATIEGUI FABIO WALTER HORACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "AI EVANGELINA BEATRIZ",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ARAUJO MIGUEL ANGEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025085.pdf"
+  },
+  {
+   "codigo": "086",
+   "distrito": "PELLEGRINI",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BUYATTI BRUNO ENRIQUE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CASCALLAR CERRATO CARLA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "TINTERA SILVIA LETICIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "GRAZIANO LEANDRO MARTIN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "GARMENDIA MARTIN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025086.pdf"
+  },
+  {
+   "codigo": "087",
+   "distrito": "PERGAMINO",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MASAGUE OSCAR ALEJANDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GARCIA SANTANDER MACARENA ETHEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "OSTERTAG IGNACIO PABLO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "QUEVEDO BRISA STEPHANIE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MONTENEGRO EZEQUIEL DARIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LANTELLA CARLA LUCIANA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GATTELET GABRIEL HORACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CIUFFO GUSTAVO ARIEL",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "BERGROTH MARIA INES",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 3,
+     "nombre": "CIGNOLI DONATO",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025087.pdf"
+  },
+  {
+   "codigo": "088",
+   "distrito": "PILA",
+   "bancas": 3,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MARTINEZ MIRANDA MANUELA AGUSTINA ESTHER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ARBIO ELISANDRO DANIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MENCONI LUISINA DE LOS MILAGROS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025088.pdf"
+  },
+  {
+   "codigo": "089",
+   "distrito": "DEL PILAR",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PERALTA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MORALES JUAN MANUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CASTILLO NORMA NELIDA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ESPINDOLA DAMIAN OSCAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "PORTOS LUCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "CASTRO JOAQUIN EDUARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "BURRONE IARA LEILA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "TROVATELLI JUAN PABLO MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GENNA GRAU ANDRES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MARCHESAN SOLANA VICTORIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "NEUSPILLER SEBASTIAN NICOLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "RATTI REPETTO MARIA MARTA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025089.pdf"
+  },
+  {
+   "codigo": "090",
+   "distrito": "PARTIDO DE PINAMAR",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ESTANGA GREGORIO CLAUDIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GEMIGNANI ROMINA PAULA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ERRASQUIN HORACIO HECTOR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "RAPALLINO MARTIN ALBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MONTALDO CONSUELO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ARATA JOSE LUIS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "APOLONIO MARIA ALEJANDRA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025090.pdf"
+  },
+  {
+   "codigo": "091",
+   "distrito": "PUAN",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "VISSANI FRANCO RODRIGO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "EBINAL SERGIO FRANCISCO",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "TIECHER SILVINA ADRIANA",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ALBORNOZ SERGIO HORACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PONTET MICAELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ZACCONI JOSE OMAR",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025091.pdf"
+  },
+  {
+   "codigo": "092",
+   "distrito": "QUILMES",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CECI SOLER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GARCIA CESAR SEBASTIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BAEZ BREZOVEC FLORENCIA ALDANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "MELLINO NICOLAS ANDRES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "CAMPORA CLAUDIA VANINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "ARCE RAMON ELADIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "LATORRE DE CARO BERENICE IVANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "GOMEZ PEDRO JOSE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ROLON OSVALDO DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROBLES MORGUEN SABRINA GISELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GORIA LEANDRO ANDRES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "LUSQUIÑOS ALEXIA KEILA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025092.pdf"
+  },
+  {
+   "codigo": "093",
+   "distrito": "RAMALLO",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SERRA DIEGO JOSÉ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROSSI ROMINA ALEJANDRA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LESCANO GABRIEL ADRIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CABALLERO NORTE TERESA ROMELIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "GIAMMARIA CECILIA",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "BELLOCCHIO AGUSTIN",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 3,
+     "nombre": "CUTTIANI MARIA DEL PILAR",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 1,
+     "nombre": "IRIBARRIA GERMAN HORACIO",
+     "lista": "24 DE OCTUBRE DE RAMALLO"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025093.pdf"
+  },
+  {
+   "codigo": "094",
+   "distrito": "RAUCH",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BARRENA JORGE OSCAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BERLARI AGUSTINA MILAGROS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CROCCI PABLO MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ARGÜELLO DANIEL DARIO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "LABORDE MARIA DE LOS ANGELES",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "ARBEL JUAN MANUEL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025094.pdf"
+  },
+  {
+   "codigo": "095",
+   "distrito": "RIVADAVIA",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ORGA MARIA GABRIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GALARZA FACUNDO NICOLAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BARRENECHE MARIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "TAGLIABUE JUAN CRUZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "URRUTIA RAUL ALFREDO",
+     "lista": "RIVADAVIA PRIMERO"
+    },
+    {
+     "orden": 2,
+     "nombre": "BRAVO PALOMA",
+     "lista": "RIVADAVIA PRIMERO"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025095.pdf"
+  },
+  {
+   "codigo": "096",
+   "distrito": "ROJAS",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BORZI LUCIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LUHMANN STELLA MARIS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "TIMERMAN ALEJANDRO NORBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PALMIERI CIVITELLA ADOLFO JAVIER",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "GONZALEZ MARIA DEL SOL",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 3,
+     "nombre": "CHRISTINS ANDRES ALFREDO",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 4,
+     "nombre": "DI SANTO PATRICIA",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025096.pdf"
+  },
+  {
+   "codigo": "097",
+   "distrito": "ROQUE PEREZ",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "LOPEZ LORENA ETEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PICCINNI MARTIN ALEJANDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "SILVEYRA LAUREANO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "RUIZ CAROLINA CECILIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "CRAVERO JUAN MARIA",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "VERTUA MARICEL CARINA",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025097.pdf"
+  },
+  {
+   "codigo": "098",
+   "distrito": "SAAVEDRA",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CATALANO NICOLAS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GUARDESE ANDREA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BROS FLORENCIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "DE FULOP CHRISTIAN SEBASTIAN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "ZENTNER RAUL ANIBAL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "COMBES PATRICIA ARACELI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "HERRADOR LUIS MARCELO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025098.pdf"
+  },
+  {
+   "codigo": "099",
+   "distrito": "SALADILLO",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "CROGNALE FELIX",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CICARE GABRIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GONZALEZ FERNANDO DANIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "WUIOVICH VLADIMIR ANDRES",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "CIEZA EVA BRENDA ABIGAIL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "MACAGNO MARCOS RAUL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "BRUNO LEONARDO NICOLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RENZI MARIA CLAUDIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025099.pdf"
+  },
+  {
+   "codigo": "100",
+   "distrito": "SALLIQUELO",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GAYOSO LUIS FERNANDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "HERNANDEZ ROBERTA AGUSTINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MARINONI CARLOS MARIANO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "LAVELLA GABRIEL IGNACIO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "BENITO LETICIA MARIANA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025100.pdf"
+  },
+  {
+   "codigo": "101",
+   "distrito": "SALTO",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PATRIARCA ANA MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CILIA GUILLERMO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PLASTINA MARIA CECILIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "MALANDRA HUGO EDGARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "FIMIA ROSANA KARINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "FIORINCINO COUTTULENC BERNABE MATIAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PEREZ ANALIA NOEMI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PEREZ GONZALEZ AMADOR FRANCISCO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025101.pdf"
+  },
+  {
+   "codigo": "102",
+   "distrito": "SAN ANDRES DE GILES",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "GUIDA SALVADOR ADRIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GALESIO MARIA EUGENIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BADARACO JUAN CRUZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CONSTANTINO ROCIO NOEMI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BIANCHI JORGE AUGUSTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CONDESSE MARIA MERCEDES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "JAUREGUI DIEGO RUBEN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025102.pdf"
+  },
+  {
+   "codigo": "103",
+   "distrito": "SAN ANTONIO DE ARECO",
+   "bancas": 7,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "RAMALLO RAMIRO FERNANDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SORCHILLI MARIA VIVIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "DOMINGUEZ JUAN MANUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ORTELLI NAZAR MARINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CABALLERO LUCIANO FABIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PEREYRA MARCELO JOSE",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "ALONSO MARIA VIRGINIA",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025103.pdf"
+  },
+  {
+   "codigo": "104",
+   "distrito": "SAN CAYETANO",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PEON CARLOS GERMAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROMERO VALERIA CAROLINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "SANTOS ALEJANDRA ROSANA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "DEVINCENTI JOSÉ GUILLERMO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "BELLA MELINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025104.pdf"
+  },
+  {
+   "codigo": "105",
+   "distrito": "SAN FERNANDO",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ANDREOTTI MARIA EVA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "POSTORIVO NICOLAS SEBASTIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "RUBINICH MARIA FLOR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "BARRASA JORGE ALEJANDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "TRIADOR LAURA TERESA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "ECHEVERRIA ASTORGANO LUCAS JOSE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "FLORES GIMENA FATIMA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BUJ KEVIN GONZALO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "VILLA CARINA NELIDA INES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SEMENZATO VIGAS IGNACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025105.pdf"
+  },
+  {
+   "codigo": "106",
+   "distrito": "SAN ISIDRO",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MECA FEDERICO URIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "FRANCO VIRGINIA INES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MONTIVERO DIEGO MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ALVAREZ NUÑEZ JORGE \"EL PANA\"",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "FOSSATI ADRIANA SILVINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "COLOMBO ROQUÉ FEDERICO ANTONIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "DURAND APARICIO MARIA DE LOS ANGELES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "OCAMPO JUAN BAUTISTA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 6,
+     "nombre": "LOPEZ DANIELA FERNANDA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 7,
+     "nombre": "ANTONIASSI RICARDO OSCAR",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "BROESE BARBARA SOLEDAD",
+     "lista": "ACCION VECINAL SAN ISIDRO ES DISTINTO"
+    },
+    {
+     "orden": 2,
+     "nombre": "PEREZ WALTER FERNANDO",
+     "lista": "ACCION VECINAL SAN ISIDRO ES DISTINTO"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025106.pdf"
+  },
+  {
+   "codigo": "107",
+   "distrito": "SAN NICOLAS",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "COMERIO CECILIA LORENA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PETRONI DANILO RICARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MANCINI MARIA ISABEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CHOUHY FEDERICO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ASEFF MARIANA ANDREA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "LOPEZ MARIA CELESTE",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "MONTENEGRO WALTER OSCAR",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 3,
+     "nombre": "CANDIA PAULA BEATRIZ",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 4,
+     "nombre": "MALDONADO CARLOS JAVIER",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    },
+    {
+     "orden": 5,
+     "nombre": "SPILERE NATALIA LUJAN EMILIA",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025107.pdf"
+  },
+  {
+   "codigo": "108",
+   "distrito": "SAN PEDRO",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BRAVO VALENTIN SILVESTRE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CUSCUELA CANDELARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BARAYBAR MARTIN EDUARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MOSQUERA NORBERTO ESTEBAN DAMIAN",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "SANTOS BELEN",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "REY SERGIO ARIEL \"ARIEL REY\"",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PANATTERI MELINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GONZALEZ JOAQUIN FACUNDO ARGENTINO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "REYNOSO MARIANA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025108.pdf"
+  },
+  {
+   "codigo": "109",
+   "distrito": "SAN VICENTE",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "LASSALLE PAULA DANIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SORIA SAUL MANUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CORTI CARLA CRISTINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VAZQUEZ CARLOS LUIS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "LEMBO IRAZABAL MARIA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "RAMOS ESTEBAN FABIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "CROCCE MARIA VANESA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CONTRERAS IGNACIO GABRIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "FALLER AQUINO VALERIA YAMILE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025109.pdf"
+  },
+  {
+   "codigo": "110",
+   "distrito": "SUIPACHA",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ROSALES DELFINO JULIÁN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MARTINEZ GRACIELA VIVIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "FANUCCHI CARLOS DANIEL",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SETULA MARIA FERNANDA",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MENAY JAVIER FACUNDO",
+     "lista": "ALIANZA POTENCIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PAGANO CLAUDIA ALEJANDRA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025110.pdf"
+  },
+  {
+   "codigo": "111",
+   "distrito": "TANDIL",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "IPARRAGUIRRE ROGELIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "POGORZELSKI MARILEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "VALLE MARCELO OSCAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CENA STELLA MARIS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "SALCEDA JUAN ANTONIO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "SANTAMARINA GONZALO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CISNEROS NADIA PIERINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CORBETTA JUAN MARTINIANO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ARDURA CLARA MANUELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "NICOLINI MARCOS LEANDRO",
+     "lista": "ESP. ABIERTO PARA EL DES. Y LA INT. SOCIAL"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025111.pdf"
+  },
+  {
+   "codigo": "112",
+   "distrito": "TAPALQUE",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "LUPORI GERMAN ATILIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROCCO ROSA ELIDA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CUCUNI EMILIO JOSE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ECHEGARAY PEDRO BRUNO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "SFOGGIA AMADO LUIS ALBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025112.pdf"
+  },
+  {
+   "codigo": "113",
+   "distrito": "TIGRE",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ROVIRA SEBASTIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "GARCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SAMYN DUCO LUIS EMILIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "LOMES MARIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "REBOREDO RODRIGUEZ JUAN MANUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "HERNANDORENA CAROLINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "RAFAR DENIS LEOPOLDO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "PADUA ANALIA VIVIANA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "BAUMGARTEN CLAUDIO FABIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PEREYRA XIMENA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "FURNARI JUAN MARIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "PONDE JOSEFINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025113.pdf"
+  },
+  {
+   "codigo": "114",
+   "distrito": "TORNQUIST",
+   "bancas": 6,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PELIZZA CLAUDIO OSCAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROMERO MARIA ROSA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CABRAL SEBASTIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "SARIC BLAS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SIGISMONDI LAURA ALICIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "NUÑEZ MARIANO PABLO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025114.pdf"
+  },
+  {
+   "codigo": "115",
+   "distrito": "TRENQUE LAUQUEN",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BADINO LETICIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LARROSA PABLO CRISTIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ROSSI BARBARA GUILLERMINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "PROVENZANO JOSE MARIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "BATHIS MARIA SUSANA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "AGUIRRE PABLO NICOLAS",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "GOMEZ LEANDRO JAVIER",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "JORDAN MARIEL SUSANA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "URTIZBEREA CARLOS ALFREDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025115.pdf"
+  },
+  {
+   "codigo": "116",
+   "distrito": "TORDILLO",
+   "bancas": 3,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ALBERGHINI JORGE ADRIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SALINAS DIANA INES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MONJE DAIANA MAGALI",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025116.pdf"
+  },
+  {
+   "codigo": "117",
+   "distrito": "TRES ARROYOS",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SAAVEDRA MARIA OLGA",
+     "lista": "MOVIMIENTO VECINAL"
+    },
+    {
+     "orden": 2,
+     "nombre": "ROCHÉ LUIS PATRICIO",
+     "lista": "MOVIMIENTO VECINAL"
+    },
+    {
+     "orden": 1,
+     "nombre": "RODRIGUEZ BLANCO MARTIN EZEQUIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ZURITA PATRICIA ESTHER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ELGART FACUNDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "GARCIA MARIA NOELIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "AVILA CARLOS PAULINO",
+     "lista": "ALIANZA NUEVOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "SCHENA IGNACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PIACQUADIO VANESA IVONNE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025117.pdf"
+  },
+  {
+   "codigo": "118",
+   "distrito": "TRES DE FEBRERO",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DEBANDI JUAN AGUSTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BONDARUK JIMENA SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LOCOCO FACUNDO NAZARENO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CONTRERAS MERDECES",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "ZORIO CARLOS DARIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "RAMOS FERNANDO MARTIN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "COLACI MARIA JULIETA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SARKIRIAN SERGIO MARCOS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VIDAL MARIA CANDELA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "RAMPINI CARLOS ADRIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 6,
+     "nombre": "CATAPANO SHEILA AYELEN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 7,
+     "nombre": "PALMIERI LEOPOLDO SEBASTIAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025118.pdf"
+  },
+  {
+   "codigo": "119",
+   "distrito": "PARTIDO DE LA COSTA",
+   "bancas": 9,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "DEMARIA GABRIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LATORRE FERNANDO DAMIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GONZALEZ ARIANA NAHIR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "FIERRO RODRIGO LAUTARO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "LOPEZ DE GAETANO DANIEL \"DANI LOPEZ\"",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "COPPOLA YAMILA PAOLA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "GONZALEZ MARCELA FABIANA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "JUNCO ISIDRO FRANCISCO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "VILLALBA TEODORA ELIZABETH",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025119.pdf"
+  },
+  {
+   "codigo": "120",
+   "distrito": "PARTIDO DE MONTE HERMOSO",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ABRAHAM JOSE ALBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SUELDO NOELIA ELISABETH",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MARTINEZ MARCELO JULIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "MANZO SILVIA BEATRIZ",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DUPUY VICTORIO DARIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025120.pdf"
+  },
+  {
+   "codigo": "121",
+   "distrito": "VEINTICINCO DE MAYO",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SQUILLACI MERCEDES LAURA FÁTIMA",
+     "lista": "ACCION CIUDADANA 25 DE MAYO"
+    },
+    {
+     "orden": 2,
+     "nombre": "RECALT FRANCISCO",
+     "lista": "ACCION CIUDADANA 25 DE MAYO"
+    },
+    {
+     "orden": 3,
+     "nombre": "FUMARCO MARIANA",
+     "lista": "ACCION CIUDADANA 25 DE MAYO"
+    },
+    {
+     "orden": 1,
+     "nombre": "HERRAIZ FERNANDO MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PANACCIO ANA PAULA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MENDEZ JAVIER ENRIQUE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "CORTES VERONICA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CARONELLO DINO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025121.pdf"
+  },
+  {
+   "codigo": "122",
+   "distrito": "VICENTE LOPEZ",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "LUCAS BOYANOVSKY",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CORTIELLAS CORDOBA MARCELA KARINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "PACE VICENTE ROBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "NOCITO ALMARAZ GARROTE SOLEDAD",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "VILLA NATALIA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ALBOR VAZQUEZ IGNACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "NIETO ALEJANDRA NORMA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "FERRARI JOSE EZEQUIEL DAVID",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 5,
+     "nombre": "PESA MARIA EUGENIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 6,
+     "nombre": "FURGIUELE ALBERTO EUGENIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 7,
+     "nombre": "ORUE SUSANA MABEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 8,
+     "nombre": "PERSUH ANDRES",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025122.pdf"
+  },
+  {
+   "codigo": "123",
+   "distrito": "PARTIDO DE VILLA GESELL",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ARGUIÑARENA MARTIN ESTEBAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "LUQUET ROSANA DEL CARMEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GALIANO PEDRO OMAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "DOMINGUEZ SERGIO ADRIAN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "CORDOBA MARILINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "ARMANDO CLARISA EDITH",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RODRIGUEZ RODRIGUEZ DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "AYALA NOELIA GISELE",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025123.pdf"
+  },
+  {
+   "codigo": "124",
+   "distrito": "VILLARINO",
+   "bancas": 8,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MARLIA EDUARDO FABIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ALDUNATE CAROLINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "CHIARELLOTTO MAURO DAMIAN",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "BARRIOS RODOLFO ALBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "RUEDA MARCELA VALERIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 1,
+     "nombre": "HERNANDEZ BELÉN",
+     "lista": "ACCION POR VILLARINO"
+    },
+    {
+     "orden": 2,
+     "nombre": "STOCHETTI HERNAN CEFERINO",
+     "lista": "ACCION POR VILLARINO"
+    },
+    {
+     "orden": 3,
+     "nombre": "SCHIAVONI DIEZ MARIA CLARA",
+     "lista": "ACCION POR VILLARINO"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025124.pdf"
+  },
+  {
+   "codigo": "125",
+   "distrito": "ZARATE",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "MATILLA LEANDRO ADOLFO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ALMIRON ANA MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BORRELLI GUIDO ANDRÉS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "MOREIRA MARIA GABRIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "DOMINGUEZ CARLOS ALBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "AYALA NATALIA DESIREE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "RODRIGUEZ SCHATZ STEFANIA ELIZABETH",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CRACCO FABIAN EMILIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "FIRMANI VERONICA MAGDALENA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "OLIVERA IGNACIO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025125.pdf"
+  },
+  {
+   "codigo": "126",
+   "distrito": "TRES LOMAS",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ALVAREZ ROBERTO OSCAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "TORRES MARTA LIDIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MARINO HECTOR OSCAR",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ORLANDO JORGELINA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "GODIN MARCOS PATRICIO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025126.pdf"
+  },
+  {
+   "codigo": "127",
+   "distrito": "FLORENTINO AMEGHINO",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "BAS HUGO R",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "MEDIALDEA ROSARIO LUJAN I",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ITURRERIA MARIA IGNACIA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "RODRIGUEZ GERARDO ALFREDO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 3,
+     "nombre": "ALFAGEME SORIA CARINA YANEL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025127.pdf"
+  },
+  {
+   "codigo": "128",
+   "distrito": "PRESIDENTE PERON",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ACUÑA WALTER ENRIQUE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BIANCO FLAVIA ARACELLI",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MUHAMED LEONARDO ADOLFO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "FERNANDEZ MARIA LUISA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "TOFANELLI MANUEL ALEJANDRO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "TORRES EVELYN MILAGROS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "NICASTRO LASCANO RUBEN HERNAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "FERNANDEZ EUGENIO ESTEBAN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PAZ NATALIA SOLEDAD",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "DIAZ EZEQUIEL EDUARDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025128.pdf"
+  },
+  {
+   "codigo": "129",
+   "distrito": "JOSE C. PAZ",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "LIGO JUAN MANUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BARRIOS RUTH GISELE",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "GRECO PABLO GONZALO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CABAÑA CLAUDIA VERONICA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "PINO DIEGO HERNAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "RAMIREZ FLAVIA LORENA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "GONZALEZ DAMIAN ALFREDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "VIERA NATALIA VERONICA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "AMOROSO MOLINARI MARIA CLARA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ABADIE OSCAR PEDRO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LOREIRO ROSANA BEATRIZ",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ROMANO SERGIO ORLANDO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025129.pdf"
+  },
+  {
+   "codigo": "130",
+   "distrito": "MALVINAS ARGENTINAS",
+   "bancas": 12,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "FLORES NICOLAS DAMIAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "NAVARRO MEZA, MARIA BELEN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "ARCE SERGIO DANIEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "CARRIZO ANALIA ESTER",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "MENDOZA LUCAS ANTONIO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "OBREGON KARINA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "CHACON ADRIAN MARIANO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 8,
+     "nombre": "CIACERA VALERIA FABIANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 9,
+     "nombre": "ABDALA CRISTIAN MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "AIELLO ANA LAURA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ALANIZ DIEGO EMMANUEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "SCHACHTL BERNARDITA SOL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025130.pdf"
+  },
+  {
+   "codigo": "131",
+   "distrito": "PUNTA INDIO",
+   "bancas": 5,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "PERLINI EMILIANO MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "CALDERON BRASSO BRENDA TAMARA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "DEBON CRISTIAN MAXIMILIANO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "PERUGORRIA LAURA FABIANA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "CANO SANDRA MABEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025131.pdf"
+  },
+  {
+   "codigo": "132",
+   "distrito": "EZEIZA",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "EZEQUIEL DIAZ",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "YULAKIAN MARIA SORAYA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "BOCCACCIO GUSTAVO JUAN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "ANAUATI CAMILA ESTEFANIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "ROCCO ALEJANDRO GUSTAVO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "CALDERON ROSA MARIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 7,
+     "nombre": "DELECRAZ GABRIEL OSVALDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "LOPEZ PABLO DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ARHIA MARIANA CLAUDIA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MICHELENA JOSE LUIS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025132.pdf"
+  },
+  {
+   "codigo": "133",
+   "distrito": "ITUZAINGO",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "ALVAREZ LUNA JUAN MANUEL",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "SUSPERREGUY VALERIA ILEANA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "CRUDO LUCIANO JULIÁN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VIOLA FLORENCIA ESTEFANÍA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "ACUÑA CARLOS ROBERTO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 6,
+     "nombre": "GOMEZ MARIA FERNANDA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "EQUIZA HUGO FERMIN",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "DE LA IGLESIA AGUSTINA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "LANARO WALTER DANIEL",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 4,
+     "nombre": "LARA MARIA LAURA LORENA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025133.pdf"
+  },
+  {
+   "codigo": "134",
+   "distrito": "HURLINGHAM",
+   "bancas": 10,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "LAMPREABE FLORENCIA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "BELLO NESTOR ABELARDO",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 3,
+     "nombre": "MARECO BOVEDA AILEN CLAUDIA DANIELA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 4,
+     "nombre": "VILELA NICOLÁS",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 5,
+     "nombre": "LUCERO VERONICA MACARENA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "ZABALETA JUAN HORACIO",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 2,
+     "nombre": "NAVILL MICAELA ALEJANDRA",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    },
+    {
+     "orden": 1,
+     "nombre": "DE FRANCESCO RAFAEL LUIS",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 2,
+     "nombre": "ELISEI ALICIA DORA",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    },
+    {
+     "orden": 3,
+     "nombre": "VOLPE GILBERTO HUMBERTO",
+     "lista": "ALIANZA LA LIBERTAD AVANZA"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025134.pdf"
+  },
+  {
+   "codigo": "135",
+   "distrito": "LEZAMA",
+   "bancas": 3,
+   "electos": [
+    {
+     "orden": 1,
+     "nombre": "SILVA LORENA",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 2,
+     "nombre": "PISANI JUAN MARTIN",
+     "lista": "ALIANZA FUERZA PATRIA"
+    },
+    {
+     "orden": 1,
+     "nombre": "HERROZ ZIRZA RAQUEL",
+     "lista": "ALIANZA SOMOS BUENOS AIRES"
+    }
+   ],
+   "fuente": "https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/concejales/2025135.pdf"
+  }
+ ]
+}

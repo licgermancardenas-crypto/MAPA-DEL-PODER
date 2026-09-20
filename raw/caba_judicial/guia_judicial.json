@@ -1,0 +1,2190 @@
+{
+ "fecha": "2026-09-18",
+ "fuente": "https://guiajudicial.jusbaires.gob.ar",
+ "organismos": [
+  {
+   "id": "/juzgado/1/sala-i",
+   "nombre": "Sala I",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Cámara de Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MÁNTARAS, Pablo",
+     "nota": "Presidente Sala I",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "BALBIN, Carlos Francisco",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "SCHAFRIK DE NUÑEZ, Fabiana Haydeé",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SABA, Paula",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/10/juzgado-cayt-n-6",
+   "nombre": "Juzgado CAyT N° 6",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "LÓPEZ VERGARA, Patricia",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "PAYO, Agustina",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BARREIRO, Laura",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/11/juzgado-cayt-n-7",
+   "nombre": "Juzgado CAyT N° 7",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Juez/a",
+     "nombre": null,
+     "titular": true,
+     "nota": "Vacante · subroga María Alejandra Villasur García"
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "VILLEGAS, Martín Ricardo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BORTAYRO, Ernesto Fidel",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/12/juzgado-cayt-n-8",
+   "nombre": "Juzgado CAyT N° 8",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "OTHEGUY, Osvaldo Oscar",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SÁNCHEZ, Fabio Félix",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "FIGUEIRA MARKULIN, Leandro Manuel",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/13/juzgado-cayt-n-9",
+   "nombre": "Juzgado CAyT N° 9",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "DANAS, Andrea",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "LALO COHENCA, Adolfo Leandro",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "IZURIETA Y SEA DE MESTAS NÚÑEZ, María José",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/14/juzgado-cayt-n-10",
+   "nombre": "Juzgado CAyT N° 10",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "AMMIRATO, Aurelio",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "TEMPONI, Pablo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "FRANCESCHI, Verónica",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/15/juzgado-cayt-n-11",
+   "nombre": "Juzgado CAyT N° 11",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MARCONI, Gonzalo Ignacio",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BIANCHI, Arturo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BERARDINELLI, Ignacio",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/16/juzgado-cayt-n-12",
+   "nombre": "Juzgado CAyT N° 12",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "PETRELLA, Alejandra",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "PÉREZ BALDA, Facundo Martín (Interino)",
+     "nota": "del 1/9/26 al 2/2/27 inclusive",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BOMAGGIO, Sebastián",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/17/juzgado-cayt-n-13",
+   "nombre": "Juzgado CAyT N° 13",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "SCHEIBLER, Guillermo Martín",
+     "nota": "En uso de licencia · subroga Darío Edgardo Reynoso",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "PASQUALINI, Ana Elisa",
+     "nota": "En uso de licencia · subroga Valeria Astrid Delfin",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BRUNO, Milagros",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/18/juzgado-cayt-n-14",
+   "nombre": "Juzgado CAyT N° 14",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "TANNO, Natalia",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ORTIZ LOIZAGA, María Agustina",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "TARAMELLI, Eleonora",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/19/juzgado-cayt-n-15",
+   "nombre": "Juzgado CAyT N° 15",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "TRIONFETTI, Víctor R.",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SOMOZA, Hernán Pablo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ROTELLE, Juan Cruz",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/2/sala-ii",
+   "nombre": "Sala II",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Cámara de Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "JUAN LIMA, Fernando E.",
+     "nota": "Presidente Sala II",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "LÓPEZ ALFONSÍN, Marcelo Alberto",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "DÍAZ, Mariana",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BEGEGA CIAMPICHINI, Teo",
+     "nota": "Interino",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/20/juzgado-cayt-n-16",
+   "nombre": "Juzgado CAyT N° 16",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "FURCHI, Martín",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BORMIOLI, Matías",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "URTUBEY, Santiago",
+     "nota": "En uso de licencia desde el 1/3/25 · subroga Elisa Rosenbaum",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/21/juzgado-cayt-n-17",
+   "nombre": "Juzgado CAyT N° 17",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "SEGÓN, Marcelo",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SCASSO, Juan Esteban",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "TORRES, Leandro Martín",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/22/juzgado-cayt-n-18",
+   "nombre": "Juzgado CAyT N° 18",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "VILLASUR GARCÍA, María Alejandra",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BIANCHI, María Eugenia",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "LÓPEZ MALDONADO, Mónica",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/23/juzgado-cayt-n-19",
+   "nombre": "Juzgado CAyT N° 19",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CORVALÁN, Juan Gustavo",
+     "nota": "En uso de licencia · subroga Martín (En uso de Licencia) Subroga: Dr. MARCONI, Gonzalo Ignacio Converset",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "LENZI, María Gisela",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "DANELINCK, Agustín Iván (Interino)",
+     "nota": "En uso de licencia · subroga Claudia Mariana Domesi",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/24/juzgado-cayt-n-20",
+   "nombre": "Juzgado CAyT N° 20",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MÓLICA LOURIDO, Cecilia",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SALMÚN FEIJÓO, Samantha",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BERGARA, María Victoria",
+     "nota": "Interina",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/25/juzgado-cayt-n-21",
+   "nombre": "Juzgado CAyT N° 21",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "LARREA, María Soledad",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "NOVILLO, Juan Manuel",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "NOGUERA, María",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/26/juzgado-cayt-n-22",
+   "nombre": "Juzgado CAyT N° 22",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CILURZO, María Rosa",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "AMESTOY, Gustavo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "LUCENA, María Luján",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/27/juzgado-cayt-n-23",
+   "nombre": "Juzgado CAyT N° 23",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "FERRER, Francisco Javier",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BENITEZ, Julieta Vanina",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "MOREL, Gabriela",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/28/juzgado-cayt-n-24",
+   "nombre": "Juzgado CAyT N° 24",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "REYNOSO, Darío",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "DI BONA, Javier",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "MAGDALENO, Stella Maris",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/29/presidencia-penal-penal-juvenil-contravencional-y-de-faltas",
+   "nombre": "Presidencia - Penal, Penal Juvenil, Contravencional y de Faltas",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Presidente",
+     "nombre": "BUJÁN, Javier Alejandro",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Vicepresidente 1º",
+     "nombre": "VIÑA, Gonzalo Ezequiel Demián",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Vicepresidenta 2º",
+     "nombre": "MAHIQUES, Ignacio",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/3/sala-iii",
+   "nombre": "Sala III",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Cámara de Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CORTI, Horacio",
+     "nota": "Presidente Sala III",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "SEIJAS, Gabriela",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "ZULETA, Hugo Ricardo",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "TAGLIAFERRI, María de los Angeles",
+     "nota": "Interina",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/30/sala-i-penal-penal-juvenil-contravencional-y-de-faltas",
+   "nombre": "Sala I - Penal, Penal Juvenil, Contravencional y de Faltas",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MARUM, Elizabeth Adriana",
+     "nota": "Presidenta",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "VAZQUEZ, Marcelo Pablo",
+     "nota": "Vicepresidente",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "ROLERO SANTURIAN, Carlos Fel",
+     "nota": "Vocal",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "IANERI, María del Rosario",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/31/sala-ii-penal-penal-juvenil-contravencional-y-de-faltas",
+   "nombre": "Sala II - Penal, Penal Juvenil, Contravencional y de Faltas",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CAVALIERE, Carla",
+     "nota": "Presidenta Sala II",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "DELGADO, Sergio",
+     "nota": "Vicepresidente Sala II",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "BOSCH, Fernando",
+     "nota": "Vocal",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CALAROTE, Marina",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/32/sala-iii-penal-penal-juvenil-contravencional-y-de-faltas",
+   "nombre": "Sala III - Penal, Penal Juvenil, Contravencional y de Faltas",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "FRANZA, Jorge",
+     "nota": "Presidente Sala III",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MAHIQUES, Ignacio",
+     "nota": "Vicepresidente Sala III",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "LARROCA, Patricia Ana",
+     "nota": "Vocal",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "DOCE, María Teresa",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/33/secretara-general-de-la-cmara-penal-penal-juvenil-contravencional-y-de-faltas",
+   "nombre": "SECRETARÍA GENERAL DE LA CÁMARA - Penal, Penal Juvenil, Contravencional y de Faltas",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Secretario General Dr. GONZÁLEZ HARDOY, Gustavo Andrés",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/34/secretara-judicial-de-gestin-asociada-en-materia-de-seguimiento-y-ejecucin-de-sanciones",
+   "nombre": "SECRETARÍA JUDICIAL DE GESTIÓN ASOCIADA EN MATERIA DE SEGUIMIENTO Y EJECUCIÓN DE SANCIONES",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Titular Secretaría",
+     "nombre": "Secretaria Letrada de Cámara Dra. ROMBOLÁ, Clara",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "------------",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/35/juzgado-n-1",
+   "nombre": "Juzgado N° 1",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "ARIZA CLERICI, Rodolfo Adán",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "Dr. CALVIÑO, Guillermo Walter",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "GIOVAGNOLI, María Luz",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/36/juzgado-n-2",
+   "nombre": "Juzgado N° 2",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "BÉGUELIN, José",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "FARIÑA, Daniel Alejandro",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "MÁRQUEZ, Maximiliano",
+     "nota": "En uso de licencia · subroga Lola De Tezanos Pinto",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/37/juzgado-n-3",
+   "nombre": "Juzgado N° 3",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MAIORANO, María Mercedes",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ELIZALDE, María Macarena",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CULTRARO, Juan Bautista",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/38/juzgado-n-4",
+   "nombre": "Juzgado N° 4",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "LÓPEZ DI MURO, Rocío Mercedes",
+     "nota": "En uso de licencia · subroga María Julia Correa",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "PELLICORI, Alejandro Martín",
+     "nota": "En uso de licencia · subroga Gabriela Lorena Cambria",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "MAC KENZIE, María Elena",
+     "nota": "En uso de licencia · subroga Leonardo Javier Caponnetto",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/39/juzgado-n-5",
+   "nombre": "Juzgado N° 5",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "BOTANA, María Fernanda",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CHIAPPE, Juan Pablo",
+     "nota": "en uso de lcencia · subroga Agustín Rodolfo Cotone Alegre",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BESSI, Matías Marcos",
+     "nota": "Interino",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/4/sala-iv",
+   "nombre": "Sala IV",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Cámara de Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MACCHIAVELLI AGRELO María de las Nieves",
+     "nota": "Presidenta Sala IV",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "FASTMAN, Lisandro Ezequiel",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "PERUGINI, Laura Alejandra",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BONO, Pablo Javier",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/40/juzgado-n-6",
+   "nombre": "Juzgado N° 6",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "RÚA, Gonzalo Segundo",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "LOPEZ, María Victoria",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BRUBALLA, Sandra",
+     "nota": "en uso de licencia · subroga Daniela Belén Romero",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/41/juzgado-n-7",
+   "nombre": "Juzgado N° 7",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MOBILLO, Bettina Andrea",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ZAMPERETTI, Alejandro Santiago",
+     "nota": "Interino",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "GONZÁLEZ FERNÁNDEZ, Rocío",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/42/juzgado-n-8",
+   "nombre": "Juzgado N° 8",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MOLINA, Natalia",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BARABANI, Santiago Rubén",
+     "nota": "Interino",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "GHIBAUDO, Damián",
+     "nota": "Interino",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/43/juzgado-n-9-jueza-coordinadora-zona-judicial-este-b",
+   "nombre": "Juzgado N° 9 - Jueza Coordinadora Zona Judicial Este \"B\"",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MARTÍNEZ VEGA, María Laura // Jueza Coordinadora Zona Judicial Este \"B\"",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CHRISTEN, Adolfo Javier",
+     "nota": "en uso de licencia · subroga Ana Clara (Interina) (en uso de licencia) - Dra. MORGENFELD, Florencia Sol Tipitto",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CERISOLA, Agostina Daniela",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/44/juzgado-n-10",
+   "nombre": "Juzgado N° 10",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CASAS, Pablo Cruz",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "QUIROGA, Jazmín Belén",
+     "nota": "Interina",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/45/juzgado-n-11",
+   "nombre": "Juzgado N° 11",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "REBEQUI, Julio Marcelo",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "DÍAZ, María Belén",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "PICHERSKY, Ana Gabriela",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/46/juzgado-n-12",
+   "nombre": "Juzgado N° 12",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "NEUMANN, Juan Manuel",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ROM, María Soledad",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "VADALA, Diego Martín",
+     "nota": "En uso de licencia · subroga Daniela Belén Romero",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/47/juzgado-n-13-con-competencia-en-materia-de-ejecucion-penal--zona-judicial-este",
+   "nombre": "Juzgado N° 13 - con competencia en materia de Ejecución Penal Zona Judicial Este",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "TULA DEL MORAL, María Lorena",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "GÓMEZ RÍOS, Constanza Yael",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BAQUERIZAS, Francisca",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/48/juzgado-n-14",
+   "nombre": "Juzgado N° 14",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MANDOLESI, María Antonela",
+     "nota": "En uso de licencia · subroga Laura Beatriz De Marinis",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SILVA, Carolina Soledad",
+     "nota": "Interina",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "LENZIN, Ludmila (Interina)",
+     "nota": "En uso de licencia · subroga María Agustina Iriarte López",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/49/juzgado-n-15",
+   "nombre": "Juzgado N° 15",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "ANDRADE, Karina Giselle",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "POMPA, Pablo Matías",
+     "nota": "en uso de licencia · subroga Sabrina Andrea Giannoti",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ROMBOLÁ, Clara Belén",
+     "nota": "en uso de licencia · subroga Candela Lopez Manetto",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/5/juzgado-cayt-n-1",
+   "nombre": "Juzgado CAyT N° 1",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "TESONE, Romina",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "APOSTOLIDIS, Federico Matías",
+     "nota": "Interino",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CALDANO, Leandro Javier",
+     "nota": "Interino",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/50/juzgado-n-16",
+   "nombre": "Juzgado N° 16",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "QUAINE, Ezequiel Martín",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SIGUEIRO, Federico Antonio",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "D´ALESSIO, María Julia",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/51/juzgado-n-17",
+   "nombre": "Juzgado N° 17",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "OHMAN, Natalia",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "PEÑALOZA, Juan Pablo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BERTOTTI BALEIRON, María Clara (Interina)",
+     "nota": "En uso de licencia · subroga Alejandro (Interino) (En uso de licencia) - Dra. PETRILLO, Natalia Soledad Piagentini",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/52/juzgado-n-18-con-competencia-en-materia-de-ejecucion-penal--zona-judicial-sur",
+   "nombre": "Juzgado N° 18 - con competencia en materia de Ejecución Penal Zona Judicial Sur",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "BALDOMAR, Ricardo Félix",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "MICHELTORENA, Dolores",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "AMADO, Dolores",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/53/juzgado-n-19",
+   "nombre": "Juzgado N° 19",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "RIGGI, Agustín Eduardo",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "PERALTA, Ariel Oscar",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "MENÉNDEZ, Sabrina",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/54/juzgado-n-20-con-competencia-en-materia-de-ejecucion-penal--zona-judicial-norte",
+   "nombre": "Juzgado N° 20 - con competencia en materia de Ejecución Penal Zona Judicial Norte",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "BRANDONI NONELL, Christian Federico",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "FILIPPI, Francisco José",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "MARTÍNEZ, María Cecilia",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/55/juzgado-n-21",
+   "nombre": "Juzgado N° 21",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "NUÑEZ GELVEZ, Paula Virginia // Jueza Coordinadora Zona Judicial Oeste \"D\"",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SÁNCHEZ, Mariano Alejandro",
+     "nota": "En uso de licencia · subroga Agustín Guglielmone",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BELLUSCIO, Juan Manuel (Interino)",
+     "nota": "En uso de licencIa · subroga Manuel Gallo",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/56/juzgado-n-22",
+   "nombre": "Juzgado N° 22",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "ZANGARO, Gabriela",
+     "nota": "En uso de licencia · subroga Agustín Eduardo Riggi",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "GRAZIANO, Gonzalo",
+     "nota": "Interino",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ARANO, Agustina Sol",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/57/juzgado-n-23",
+   "nombre": "Juzgado N° 23",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CIRCO, Norberto",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "LOMBARDO, Javier Salvador",
+     "nota": "En uso de licencia · subroga Violeta Sapognikoff",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "OLIVEIRA, Joaquín Santiago",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/58/juzgado-n-24",
+   "nombre": "Juzgado N° 24",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "DOTI, María Alejandra",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "DUTTO, Giorgina Pamela",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "AMALFI, Mariana Lucía",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/59/juzgado-n-25---juez-coordinador-zona-judicial-sur-c",
+   "nombre": "Juzgado N° 25 // Juez Coordinador Zona Judicial Sur \"C\"",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "VILLANUEVA, Alejandro Gabriel // Juez Coordinador Zona Judicial Sur \"C\"",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ASTIZ, Noelia Inés",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "GARRIDO, Paula",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/6/juzgado-cayt-n-2",
+   "nombre": "Juzgado CAyT N° 2",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "GALLARDO, Roberto Andrés",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "NUÑEZ, Juan Manuel",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "Secretario/a: Subroga: Dr. NUÑEZ, Juan Manuel",
+     "nota": "del 1/8/26 al 30/9/26 inclusive",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/60/juzgado-n-26-juez-coordinador-zona-judicial-norte-a",
+   "nombre": "Juzgado N° 26 - Juez Coordinador Zona Judicial Norte \"A\"",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "REPETTO, Nicolás Agustín // Juez Coordinador Zona Judicial Norte \"A\"",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CAMBLONG, Nicolás Alfonso",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BONILLA, Berenice",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/61/juzgado-n-27",
+   "nombre": "Juzgado N° 27",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "DE PAOLI, María Carolina",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CHAVES, Susana Noelia",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "SUNDBLAD, Gloria María",
+     "nota": "En uso de licencia · subroga María Daniela Franchino",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/62/juzgado-n-28",
+   "nombre": "Juzgado N° 28",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CORREA, María Julia",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "DAFFIS NIKLISON, Jaime",
+     "nota": "Interino",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "LOTITO, Marianela Ginette",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/63/juzgado-n-29",
+   "nombre": "Juzgado N° 29",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MARTÍNEZ, María Araceli",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ÁVALOS, María Del Pilar",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "GERPE, Marcelo Roberto",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/64/juzgado-n-30-con-competencia-en-materia-de-ejecucion-penal--zona-judicial-oeste",
+   "nombre": "Juzgado N° 30 - con competencia en materia de Ejecución Penal Zona Judicial Oeste",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CAVALLARI, Juan José",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "VILLAHOZ, Gonzalo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "REY, Alejandra",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/65/juzgado-n-31",
+   "nombre": "Juzgado N° 31",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "PARADA, Susana",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ZARZA, Paola Roxana",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "REY, Nahuel Matías",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/66/presidencia-y-vicepresidencias",
+   "nombre": "Presidencia y Vicepresidencias",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Cámara de Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "FASTMAN, Lisandro Ezequiel",
+     "nota": "Presidente",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "SCHAFRIK DE NUÑEZ, Fabiana Haydeé",
+     "nota": "Vice Presidente primera",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "LÓPEZ ALFONSÍN, Marcelo Alberto",
+     "nota": "Vice Presidente segundo",
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/67/oficina-de-gestion-judicial-en-las-relaciones-de-consumo",
+   "nombre": "Oficina de Gestión Judicial en las Relaciones de Consumo",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Cámara de Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Secretario",
+     "nombre": "BEVERINA, Pablo José",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretaría de Cámara",
+     "nombre": "seccamaraconsumo@jusbaires.gob.ar",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Sorteos",
+     "nombre": "secgralrelconsumo@jusbaires.gob.ar",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/68/registro-de-contravenciones-penal-penal-juvenil-contravencional-y-de-faltas",
+   "nombre": "Registro de Contravenciones - Penal, Penal Juvenil, Contravencional y de Faltas",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CARLAVAN, Juan Augusto",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/69/secretaria-general",
+   "nombre": "Secretaría General",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Cámara de Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "DEBRABANDERE, Carlos Martín",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/7/juzgado-cayt-n-3",
+   "nombre": "Juzgado CAyT N° 3",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Albornoz, Juan José",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "TESOURO, María Laura",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "MORTIER, Natalia Victoria",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/70/juzgado-catyrc-n-25",
+   "nombre": "Juzgado CATyRC N° 25",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "TAMBUSSI, Carlos Eduardo",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/71/direccin-de-diligenciamientos",
+   "nombre": "DIRECCIÓN DE DILIGENCIAMIENTOS",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Secretario Letrado de Cámara Sr. ARCE, Agustín Nicolás",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/72/sala-iv-penal-penal-juvenil-contravencional-y-de-faltas",
+   "nombre": "Sala IV - Penal, Penal Juvenil, Contravencional y de Faltas",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "ESCRICH, Luisa María",
+     "nota": "Presidenta Sala IV",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "VIÑA, Gonzalo Ezequiel Demián",
+     "nota": "Vicepresidente Sala IV",
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "BUJÁN, Javier Alejandro",
+     "nota": "Vocal",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "BALDOMAR, Santiago",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/73/juzgado-penal-juvenil-contravencional-y-de-faltas-n-1-ex-secretaria-penal-juvenil-juzgado-3-jueza-coordinadora-en-materia-penal-juvenil",
+   "nombre": "Juzgado Penal Juvenil, Contravencional y de Faltas N° 1 (Ex Secretaría Penal Juvenil Juzgado 3) Jueza coordinadora en materia Penal Juvenil",
+   "fuero": "Penal Juvenil, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "BARIDÓN GÓMEZ, Alicia - Jueza coordinadora en materia Penal Juvenil",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretaria",
+     "nombre": "MECCA, Melany Soledad",
+     "nota": "En uso de licencia · subroga Verónica Soledad Velasco",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario",
+     "nombre": "REBOT, Nicolás Etienne",
+     "nota": "En uso de licencia · subroga Martín Sergio Aostri",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/74/juzgado-penal-juvenil-contravencional-y-de-faltas-n-3-ex-secretaria-penal-juvenil-juzgado-11",
+   "nombre": "Juzgado Penal Juvenil, Contravencional y de Faltas N° 3 (ex Secretaría Penal Juvenil Juzgado 11)",
+   "fuero": "Penal Juvenil, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "De MARINIS, Laura Beatriz",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretaria",
+     "nombre": "CAMBRIA, Gabriela",
+     "nota": "en uso de Licencia · subroga Paula Andrea Kerman",
+     "titular": false
+    },
+    {
+     "cargo": "Secretaria",
+     "nombre": "RIZZO, Ornella Victoria",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/75/tribunal-electoral",
+   "nombre": "Tribunal Electoral",
+   "fuero": "Electoral",
+   "instancia": "Cámara de Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Presidente",
+     "nombre": "REQUEJO, Roberto Carlos",
+     "nota": "Juez Electoral",
+     "titular": true
+    },
+    {
+     "cargo": "Vocal",
+     "nombre": "TESONE, Romina",
+     "nota": "Jueza Titular del Juzgado N° 1 CATyRC",
+     "titular": false
+    },
+    {
+     "cargo": "Vocal",
+     "nombre": "ARIZA CLERICI, Rodolfo",
+     "nota": "Juez Titular del Juzgado N° 1 PPJCyF",
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "CATALÍN, Claudia Susana",
+     "nota": "Secretaria Electoral del Tribunal Electoral",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/76/juzgado-penal-juvenil-contravencional-y-de-faltas-n-2-ex-secretaria-penal-juvenil-juzgado-7",
+   "nombre": "Juzgado Penal Juvenil, Contravencional y de Faltas N° 2 (ex Secretaría Penal Juvenil Juzgado 7)",
+   "fuero": "Penal Juvenil, Contravencional y de Faltas",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "MORAMARCO TERRAROSSA, Bárbara",
+     "nota": "En uso de licencia · subroga José Béguelin",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario",
+     "nombre": "ATUCHA, Francisco",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario",
+     "nombre": "GENTILE, Juan Martín",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/77/juzgado-catyrc-n-27-presidencia-colegio-de-jueceszas",
+   "nombre": "Juzgado CATyRC N° 27 - Presidencia Colegio de Jueces/zas",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CÁNEPA, Guillermo Patricio - Presidente Colegio de Jueces/zas de Primera Instancia en las Relaciones de Consumo",
+     "nota": "1/3/26 al 28/2/27",
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/78/juzgado-catyrc-n-26",
+   "nombre": "Juzgado CATyRC N° 26",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "OLANO MELO, Mario Damián",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "SECRETARÍA UNICA - OFICINA DE GESTION JUDICIAL DE RELACIONES DE CONSUMO",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/79/oficina-de-sorteos-de-primera-instancia",
+   "nombre": "OFICINA DE SORTEOS DE PRIMERA INSTANCIA",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Prosecretario Letrado de Cámara Dr. ROLLER, Mauricio",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/8/juzgado-cayt-n-4",
+   "nombre": "Juzgado CAyT N° 4",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "LIBERATORI, Elena",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Secretaría AD HOC p/ exptes. colectivos en materia de derechos económicos, sociales y culturales: Dra. LADO, Marta Susana",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "VILLARINO, Noelia",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "RODRÍGUEZ GAUNA, Germán",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/80/secretara-jurisdiccional-especializada-en-lo-penal-juvenil",
+   "nombre": "SECRETARÍA JURISDICCIONAL ESPECIALIZADA EN LO PENAL JUVENIL",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Secretario Letrado de Cámara Dr. CAYUELA, José",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/81/secretara-de-infancias-y-adolescencias",
+   "nombre": "SECRETARÍA DE INFANCIAS Y ADOLESCENCIAS",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Secretaria Letrada de Cámara Dra. FURIO, Romina",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/82/secretara-especializada-en-materia-ambiental-y-derecho-animal",
+   "nombre": "SECRETARÍA ESPECIALIZADA EN MATERIA AMBIENTAL Y DERECHO ANIMAL",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Secretaria Letrada de Cámara Dra. BERTOTTI BALEIRON, María Clara",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/83/mesa-de-entradas-salidas-y-archivo-para-la-justicia-de-primera-instancia",
+   "nombre": "MESA DE ENTRADAS, SALIDAS Y ARCHIVO PARA LA JUSTICIA DE PRIMERA INSTANCIA",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Secretaria Letrada de Cámara Dra. VALENTINI, Viviana",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/84/ofcina-de-geoposicionamiento-extra-jurisdiccional",
+   "nombre": "OFCINA DE GEOPOSICIONAMIENTO EXTRA-JURISDICCIONAL",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Prosecretaria Letrada de Cámara Dra. TRENTIN, Julieta A.",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/85/patronato-de-liberados",
+   "nombre": "PATRONATO DE LIBERADOS",
+   "fuero": "Penal, Contravencional y de Faltas",
+   "instancia": "Cámara de Casación y Apelaciones",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "Secretaria Letrada de Cámara Dra. LEONETTI, Gabriela Alejandra",
+     "nota": null,
+     "titular": true
+    }
+   ]
+  },
+  {
+   "id": "/juzgado/9/juzgado-cayt-n-5",
+   "nombre": "Juzgado CAyT N° 5",
+   "fuero": "Contencioso Administrativo, Tributario y de Relaciones de Consumo",
+   "instancia": "Primera Instancia",
+   "integrantes": [
+    {
+     "cargo": "Magistrado/a",
+     "nombre": "CONVERSET, Martín",
+     "nota": "en uso de licencia · subroga Natalia Tanno",
+     "titular": true
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "ALVAREZ FERNANDEZ, Constanza Florentina",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretario/a",
+     "nombre": "FIOCCA SOLIMEI, Analía",
+     "nota": "En uso de licencia · subroga Julia Edith Kaminsky",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "/organismo/1/consejo-de-la-magistratura-de-la-ciudad-de-buenos-aires",
+   "nombre": "Consejo de la Magistratura de la Ciudad de Buenos Aires",
+   "fuero": "Poder Judicial",
+   "instancia": "Consejo de la Magistratura de la Ciudad de Buenos Aires",
+   "integrantes": []
+  },
+  {
+   "id": "/organismo/11/ministerio-publico-fiscal",
+   "nombre": "Ministerio Público Fiscal",
+   "fuero": "Poder Judicial",
+   "instancia": null,
+   "integrantes": []
+  },
+  {
+   "id": "/organismo/2/0800-jusbaires-linea-gratuita-de-informacion-y-orientacion-del-poder-judicial-de-la-caba",
+   "nombre": "0800 - JUSBAIRES - Línea gratuita de Información y Orientación del Poder Judicial de la CABA",
+   "fuero": "Poder Judicial",
+   "instancia": "Consejo de la Magistratura de la Ciudad de Buenos Aires",
+   "integrantes": []
+  },
+  {
+   "id": "/organismo/4/direccion-del-centro-de-mediacion-y-metodos-alternativos-de-abordaje-y-solucion-de-conflictos",
+   "nombre": "Dirección del Centro de Mediación y Métodos Alternativos de Abordaje y Solución de Conflictos",
+   "fuero": "Poder Judicial",
+   "instancia": "Consejo de la Magistratura de la Ciudad de Buenos Aires",
+   "integrantes": []
+  },
+  {
+   "id": "/organismo/5/direccion-de-medicina-forense",
+   "nombre": "Dirección de Medicina Forense",
+   "fuero": "Poder Judicial",
+   "instancia": "Consejo de la Magistratura de la Ciudad de Buenos Aires",
+   "integrantes": []
+  },
+  {
+   "id": "/organismo/6/patronato-de-liberados",
+   "nombre": "Patronato de Liberados",
+   "fuero": "Poder Judicial",
+   "instancia": "Consejo de la Magistratura de la Ciudad de Buenos Aires",
+   "integrantes": []
+  },
+  {
+   "id": "/organismo/7/observatorio-de-genero-en-la-justicia",
+   "nombre": "Observatorio de Género en la Justicia",
+   "fuero": "Poder Judicial",
+   "instancia": "Consejo de la Magistratura de la Ciudad de Buenos Aires",
+   "integrantes": []
+  },
+  {
+   "id": "/organismo/8/tribunal-superior-de-justicia-de-la-ciudad-autonoma-de-buenos-aires",
+   "nombre": "Tribunal Superior de Justicia de la Ciudad Autónoma de Buenos Aires",
+   "fuero": "Poder Judicial",
+   "instancia": "Tribunal Superior de Justicia de la Ciudad Autónoma de Buenos Aires",
+   "integrantes": [
+    {
+     "cargo": "Juez/a del TSJ",
+     "nombre": "Alicia E. C. Ruiz",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Juez/a del TSJ",
+     "nombre": "Ines M Weinberg",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Juez/a del TSJ",
+     "nombre": "Luis F. Lozano",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Juez/a del TSJ",
+     "nombre": "Marcela De Langhe",
+     "nota": null,
+     "titular": true
+    },
+    {
+     "cargo": "Juez/a del TSJ",
+     "nombre": "Santiago Otamendi",
+     "nota": null,
+     "titular": true
+    }
+   ],
+   "fuente_integrantes": "https://www.tsjbaires.gov.ar/"
+  }
+ ]
+}

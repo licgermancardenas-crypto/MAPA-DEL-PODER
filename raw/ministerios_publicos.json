@@ -1,0 +1,74 @@
+{
+ "fecha": "2026-09-18",
+ "organos": [
+  {
+   "jur": "pba",
+   "id": "mp",
+   "nombre": "Ministerio Público (Procuración General)",
+   "url": "https://www.mpba.gov.ar/organigrama",
+   "titular": {
+    "cargo": "Procurador General",
+    "nombre": "Julio Marcelo Conte-Grand"
+   },
+   "areas": [
+    {
+     "nombre": "Secretaría general",
+     "cargo": "Secretario",
+     "nombre_titular": "Carlos Enrique Pettoruti"
+    },
+    {
+     "nombre": "Secretaría de control disciplinario y enjuiciamiento",
+     "cargo": "Secretario",
+     "nombre_titular": "Miguel de Lezica"
+    },
+    {
+     "nombre": "Secretaría de administración",
+     "cargo": "Secretario",
+     "nombre_titular": "Javier Miguel Bernasconi"
+    },
+    {
+     "nombre": "Secretaría de política criminal, coordinación fiscal e instrucción penal",
+     "cargo": "Secretario",
+     "nombre_titular": "Francisco Pont Vergés"
+    },
+    {
+     "nombre": "Secretaría de la defensa pública, asesoría tutelar y área social",
+     "cargo": "Secretaria",
+     "nombre_titular": "Susana Deferrari"
+    },
+    {
+     "nombre": "Secretaría de desarrollo y seguimiento del proyecto institucional",
+     "cargo": "Secretario",
+     "nombre_titular": "Mateo Laborde"
+    }
+   ]
+  },
+  {
+   "jur": "caba",
+   "id": "mpf",
+   "nombre": "Ministerio Público Fiscal",
+   "url": "https://mpfciudad.gob.ar/institucional/autoridades",
+   "titular": {
+    "cargo": "Fiscal General A/C",
+    "nombre": "Javier Martín Lopez Zavaleta"
+   }
+  },
+  {
+   "jur": "caba",
+   "id": "mpt",
+   "nombre": "Ministerio Público Tutelar",
+   "url": "https://mptutelar.gob.ar/",
+   "titular": {
+    "cargo": "Asesor/a General Tutelar",
+    "nombre": "Yael Bendel"
+   }
+  },
+  {
+   "jur": "caba",
+   "id": "mpd",
+   "nombre": "Ministerio Público de la Defensa",
+   "url": "https://www.mpdefensa.gob.ar/",
+   "titular": null
+  }
+ ]
+}
