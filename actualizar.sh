@@ -26,3 +26,31 @@ paso "Armando la página"                      04_armar_web.py
 
 echo "✔ Listo en $(( ($(date +%s) - inicio) / 60 )) min · web/index.html"
 command -v xdg-open >/dev/null && xdg-open web/index.html >/dev/null 2>&1 &
+
+# ── Publicar en GitHub: solo si vos decís que sí ─────────────────────────────
+# Sin terminal interactiva (o con --sin-publicar) no pregunta ni publica nada.
+if [ "${1:-}" != "--sin-publicar" ] && [ -t 0 ] && git rev-parse --git-dir >/dev/null 2>&1; then
+  cambios=$(git status --porcelain | wc -l)
+  if [ "$cambios" -gt 0 ]; then
+    echo
+    echo "Hay $cambios archivos con cambios para publicar:"
+    git status --short | head -10
+    [ "$cambios" -gt 10 ] && echo "  …y $((cambios - 10)) más"
+    echo
+    echo "Publicar los sube a GitHub y los deja visibles para cualquiera en"
+    echo "  https://licgermancardenas-crypto.github.io/MAPA-DEL-PODER/"
+    read -rp "¿Publicar? [s/N] " r
+    if [ "$r" = "s" ] || [ "$r" = "S" ]; then
+      git add -A
+      git commit -q -m "Actualización de datos $(date +%d/%m/%Y)"
+      if git push -q origin HEAD; then
+        echo "✔ Publicado. GitHub Pages lo republica en un minuto."
+      else
+        echo "⚠ No se pudo publicar (¿sin internet o sin permisos?). El commit quedó hecho:"
+        echo "  para reintentar, corré: git push origin HEAD"
+      fi
+    else
+      echo "No se publicó. Los cambios quedan solo en tu máquina."
+    fi
+  fi
+fi

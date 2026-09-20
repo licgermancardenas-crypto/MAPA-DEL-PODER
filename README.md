@@ -11,9 +11,13 @@ rebaja todas las fuentes, rearma el grafo, calcula qué cambió desde la vez ant
 Tarda unos 10 minutos y no usa Claude ni ningún servicio pago. Si una fuente está caída, avisa y
 conserva lo último descargado de esa fuente.
 
+Al terminar pregunta si querés publicar los cambios en GitHub (y por lo tanto en la web).
+La respuesta por defecto es **no**: sin confirmación explícita, todo queda solo en tu máquina.
+
 ```bash
-./actualizar.sh                # actualizar datos
-./actualizar.sh --con-fotos    # además rebusca fotos (más lento)
+./actualizar.sh                  # actualizar datos
+./actualizar.sh --con-fotos      # además rebusca fotos (más lento)
+./actualizar.sh --sin-publicar   # nunca pregunta por publicar
 ```
 
 Los cambios de cada corrida quedan en `data/historial/cambios.json` y se ven en la pestaña
