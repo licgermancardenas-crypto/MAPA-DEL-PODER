@@ -1,0 +1,313 @@
+{
+ "fecha": "2026-09-21",
+ "pba": {
+  "url": "https://www.cmagistratura.gba.gob.ar/institucional",
+  "integrantes": [
+   {
+    "nombre": "Daniel Fernando SORIA",
+    "rol": "Presidente",
+    "estamento": "MINISTRO DE LA SUPREMA CORTE",
+    "region": null
+   },
+   {
+    "nombre": "Facundo Miguel TIGNANELLI",
+    "rol": "Vicepresidente",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Camilo Eduardo PETITTI",
+    "rol": "Consejero Titular",
+    "estamento": "PODER JUDICIAL",
+    "region": null
+   },
+   {
+    "nombre": "Pablo Gabriel QUARANTA",
+    "rol": "Consejero Titular",
+    "estamento": "PODER JUDICIAL",
+    "region": null
+   },
+   {
+    "nombre": "Claudio Jesús SANTAGATI",
+    "rol": "Consejero Titular",
+    "estamento": "PODER JUDICIAL",
+    "region": null
+   },
+   {
+    "nombre": "Rodrigo Hernán CATALDO",
+    "rol": "Consejero Suplente",
+    "estamento": "PODER JUDICIAL",
+    "region": null
+   },
+   {
+    "nombre": "Patricia Fabiana OCHOA",
+    "rol": "Consejera Suplente",
+    "estamento": "PODER JUDICIAL",
+    "region": null
+   },
+   {
+    "nombre": "Mirtha Inés FRANCESE",
+    "rol": "Consejera Suplente",
+    "estamento": "PODER JUDICIAL",
+    "region": null
+   },
+   {
+    "nombre": "Germán DI CÉSARE",
+    "rol": "Consejero Titular",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Martín Julián ENDERE",
+    "rol": "Consejero Titular",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "María Luz BAMBACI",
+    "rol": "Consejera Titular",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Sergio Alejandro BERNI",
+    "rol": "Consejero Titular",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Mariano CASCALLARES",
+    "rol": "Consejero Titular",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Diego Raúl GARCIARENA",
+    "rol": "Consejero Suplente",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Avelino Ricardo ZURRO",
+    "rol": "Consejero Suplente",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Ricardo LISSALDE",
+    "rol": "Consejero Suplente",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Fernando Gabriel CORONEL",
+    "rol": "Consejero Suplente",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Sofía VANNELLI",
+    "rol": "Consejera Suplente",
+    "estamento": "PODER LEGISLATIVO",
+    "region": null
+   },
+   {
+    "nombre": "Juan Martín MENA",
+    "rol": "Consejero Titular",
+    "estamento": "PODER EJECUTIVO",
+    "region": null
+   },
+   {
+    "nombre": "Carlos Lisandro PELLEGRINI",
+    "rol": "Consejero Titular",
+    "estamento": "PODER EJECUTIVO",
+    "region": null
+   },
+   {
+    "nombre": "Santiago Carlos PÉREZ TERUEL",
+    "rol": "Consejero Titular",
+    "estamento": "PODER EJECUTIVO",
+    "region": null
+   },
+   {
+    "nombre": "Santiago Eduardo RÉVORA",
+    "rol": "Consejero Titular",
+    "estamento": "PODER EJECUTIVO",
+    "region": null
+   },
+   {
+    "nombre": "Inti Nahuel PÉREZ AZNAR",
+    "rol": "Consejero Suplente",
+    "estamento": "PODER EJECUTIVO",
+    "region": null
+   },
+   {
+    "nombre": "Gabriela DEMARÍA",
+    "rol": "Consejera Suplente",
+    "estamento": "PODER EJECUTIVO",
+    "region": null
+   },
+   {
+    "nombre": "Gustavo Ariel GAMINO",
+    "rol": "Consejero Suplente",
+    "estamento": "PODER EJECUTIVO",
+    "region": null
+   },
+   {
+    "nombre": "Ana Laura RAMOS",
+    "rol": "Consejera Suplente",
+    "estamento": "PODER EJECUTIVO",
+    "region": null
+   },
+   {
+    "nombre": "Marina MONGIARDINO",
+    "rol": "Consejera Titular",
+    "estamento": "COLEGIO DE ABOGADOS",
+    "region": "Conurbano"
+   },
+   {
+    "nombre": "Adriana Cecilia COLIQUEO",
+    "rol": "Consejera Titular",
+    "estamento": "COLEGIO DE ABOGADOS",
+    "region": "Conurbano"
+   },
+   {
+    "nombre": "Luciano CAPELLI",
+    "rol": "Consejero Titular",
+    "estamento": "COLEGIO DE ABOGADOS",
+    "region": "Interior"
+   },
+   {
+    "nombre": "Leandro Augusto GABÁS",
+    "rol": "Consejero Titular",
+    "estamento": "COLEGIO DE ABOGADOS",
+    "region": "Interior"
+   },
+   {
+    "nombre": "Martín RIVAS",
+    "rol": "Consejero Suplente",
+    "estamento": "COLEGIO DE ABOGADOS",
+    "region": "Conurbano"
+   },
+   {
+    "nombre": "Eduardo Gabriel SREIDER",
+    "rol": "Consejero Suplente",
+    "estamento": "COLEGIO DE ABOGADOS",
+    "region": "Conurbano"
+   },
+   {
+    "nombre": "María Rosa FERNÁNDEZ OTHACÉHÉ",
+    "rol": "Consejera Suplente",
+    "estamento": "COLEGIO DE ABOGADOS",
+    "region": "Interior"
+   },
+   {
+    "nombre": "Horacio Oscar DELUCA",
+    "rol": "Consejero Suplente",
+    "estamento": "COLEGIO DE ABOGADOS",
+    "region": "Interior"
+   }
+  ],
+  "estructura": [
+   {
+    "cargo": "Secretario General",
+    "nombre": "Osvaldo F. MARCOZZI"
+   },
+   {
+    "cargo": "Directora Escuela Judicial",
+    "nombre": "Lucia COPPA"
+   },
+   {
+    "cargo": "Asesor y Consultor Técnico Jurídico",
+    "nombre": "Gustavo A. MAMMONI"
+   },
+   {
+    "cargo": "Subsecretaria Administrativa",
+    "nombre": "Graciela J. GONZÁLEZ"
+   },
+   {
+    "cargo": "Prosecretaria",
+    "nombre": "Romina MARTÍNEZ"
+   },
+   {
+    "cargo": "Subsecretaria General",
+    "nombre": "Agustina V. ZUMÁRRAGA"
+   },
+   {
+    "cargo": "Director de Comunicación",
+    "nombre": "César A. CALDAROLA"
+   },
+   {
+    "cargo": "Jefe Área Informática",
+    "nombre": "Iván D. TRIES"
+   },
+   {
+    "cargo": "Jefa Área Contable",
+    "nombre": "María Fernanda BERARDI"
+   },
+   {
+    "cargo": "Jefa Área de Gestión Administrativa y RRHH",
+    "nombre": "María Elisa SÁNCHEZ"
+   },
+   {
+    "cargo": "Secretario Escuela Judicial",
+    "nombre": "Mariano MARTÍNEZ CONTE"
+   }
+  ]
+ },
+ "caba": {
+  "url": "https://consejo.jusbaires.gob.ar/institucional/autoridades",
+  "integrantes": [
+   {
+    "nombre": "Karina Leguizamón",
+    "rol": "Presidenta",
+    "mail": "uc-leguizamon@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Horacio Corti",
+    "rol": "Vicepresidente 1°",
+    "mail": "uc-corti@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Diego García de García Vilas",
+    "rol": "Vicepresidente 2°",
+    "mail": "uc-garciadegarciavilas@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Luis Duacastella Arbizu",
+    "rol": "Consejero",
+    "mail": "uc-duacastellaarbizu@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Rocío López Di Muro",
+    "rol": "Consejera",
+    "mail": "uc-lopezdimuro@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Marcelo Meis",
+    "rol": "Consejero",
+    "mail": "uc-meis@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Jorge Rizzo",
+    "rol": "Consejero",
+    "mail": "uc-rizzo@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Lorena Clienti",
+    "rol": "Consejera",
+    "mail": "uc-clienti@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Guillermo Scheibler",
+    "rol": "Consejero",
+    "mail": "uc-scheibler@jusbaires.gob.ar"
+   },
+   {
+    "nombre": "Genoveva Ferrero",
+    "rol": "Secretaria de Administración General y Presupuesto",
+    "mail": "gferrero@jusbaires.gob.ar"
+   }
+  ]
+ }
+}

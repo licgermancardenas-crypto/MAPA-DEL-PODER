@@ -203,7 +203,8 @@ const TIPO = {raiz:"Buenos Aires", jurisdiccion:"Jurisdicción", poder:"Poder", 
   municipio:"Municipio", ejecutivo_municipal:"Ejecutivo municipal", concejo:"Concejo Deliberante", secretaria_municipal:"Secretaría municipal",
   corte:"Máximo tribunal", tribunal:"Tribunal", camara_judicial:"Cámara de apelaciones", juzgado:"Juzgado", oficina_judicial:"Dependencia judicial",
   departamento_judicial:"Departamento judicial", fuero:"Fuero", instancia:"Instancia", ministerio_publico:"Ministerio Público",
-  consejo_magistratura:"Consejo de la Magistratura", asiento:"Cargo en la Corte", periodo:"Mandato"};
+  consejo_magistratura:"Consejo de la Magistratura", asiento:"Cargo en la Corte", periodo:"Mandato",
+  estamento:"Estamento del Consejo"};
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const fmt = n => n.toLocaleString("es-AR");
 const fecha = s => s ? new Date(s + "T12:00").toLocaleDateString("es-AR", {day:"2-digit", month:"short", year:"numeric"}) : "";

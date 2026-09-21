@@ -337,7 +337,7 @@ for o in mp["organos"]:
 # CABA ──
 cj = json.loads((RAIZ / "raw/caba_judicial/guia_judicial.json").read_text())
 unidad("caba:judicial", "Poder Judicial", "poder", "caba")
-consejo = unidad("caba:j:consejo", "Consejo de la Magistratura", "consejo_magistratura", "caba:judicial", sin_dato=True)
+consejo = unidad("caba:j:consejo", "Consejo de la Magistratura", "consejo_magistratura", "caba:judicial")
 for o in cj["organismos"]:
     n, inst = o["nombre"], o["instancia"] or ""
     if n.startswith("Tribunal Superior de Justicia"):
@@ -361,13 +361,33 @@ for o in cj["organismos"]:
     cargar_integrantes(uid, o["integrantes"], fuente,
                        jurisdiccional=unidades[uid]["tipo"] in ("juzgado", "camara_judicial", "corte"))
 
+# ── Consejos de la Magistratura ────────────────────────────────────────────
+cm = json.loads((RAIZ / "raw/consejos_magistratura.json").read_text())
+# PBA: el Consejo integra los cuatro estamentos que fija la Constitución provincial.
+cm_pba = unidad("pba:j:consejo", "Consejo de la Magistratura", "consejo_magistratura", "pba:judicial",
+                web=cm["pba"]["url"])
+ESTAMENTOS = {"PODER JUDICIAL": "Representantes del Poder Judicial",
+              "PODER LEGISLATIVO": "Representantes del Poder Legislativo",
+              "PODER EJECUTIVO": "Representantes del Poder Ejecutivo",
+              "COLEGIO DE ABOGADOS": "Representantes del Colegio de Abogados"}
+for x in cm["pba"]["integrantes"]:
+    est = ESTAMENTOS.get(x["estamento"] or "")
+    padre = unidad(f"{cm_pba}:{slug(est)}", est, "estamento", cm_pba) if est else cm_pba
+    rol = x["rol"] + (f" por el {x['region']}" if x["region"] else "")
+    cargo(x["nombre"], padre, rol, "Consejo de la Magistratura PBA")
+for x in cm["pba"]["estructura"]:
+    uid = unidad(f"{cm_pba}:{slug(x['cargo'])}", x["cargo"], "unidad", cm_pba)
+    cargo(x["nombre"], uid, x["cargo"], "Consejo de la Magistratura PBA")
+for x in cm["caba"]["integrantes"]:
+    cargo(x["nombre"], "caba:j:consejo", x["rol"], "Consejo de la Magistratura CABA", mail=x.get("mail"))
+
 # ── Salida ─────────────────────────────────────────────────────────────────
 con_titular = {c["unidad"] for c in cargos}
 # Vacante: unidad de gestión sin titular. Los agrupadores (poderes, cámaras,
 # bloques, concejos, fueros) no tienen titular propio y no cuentan; tampoco lo
 # que marcamos "sin dato" (la fuente no lo publica, no significa que esté vacío).
 AGRUPA = {"jurisdiccion", "poder", "camara", "bloque", "municipio", "concejo", "departamento_judicial",
-          "fuero", "instancia", "periodo"}
+          "fuero", "instancia", "periodo", "estamento", "consejo_magistratura"}
 for u in unidades.values():
     u["vacante"] = bool(u.pop("vacante_forzada", False)) or (
         u["tipo"] not in AGRUPA and u["id"] not in con_titular and not u.get("sin_dato"))
@@ -381,6 +401,7 @@ grafo = {
         "pba_judicial": {"url": pj["fuente"], "fecha": pj["fecha"]},
         "caba_judicial": {"url": cj["fuente"], "fecha": cj["fecha"]},
         "concejales_2025": {"url": c25["fuente"], "fecha": c25["fecha"]},
+        "consejos_magistratura": {"url": cm["pba"]["url"], "fecha": cm["fecha"]},
     },
     "unidades": list(unidades.values()),
     "personas": list(personas.values()),
