@@ -1,5 +1,5 @@
 {
- "fecha": "2026-09-18",
+ "fecha": "2026-10-10",
  "diputados": [
   {
    "id": "14848610",
@@ -55,7 +55,7 @@
    "id": "24436008",
    "apellido_nombre": "BARREIRO ROMINA MELISA",
    "bloque": "Unión Por La Patria",
-   "mandato": "2023-2027",
+   "mandato": "2025-2029",
    "seccion": 3,
    "distrito": "Avellaneda",
    "foto": "https://www.hcdiputados-ba.gov.ar/img/diputados/F_24436008.JPG",
@@ -394,7 +394,7 @@
   {
    "id": "28075097",
    "apellido_nombre": "ABONJO GASTÓN ANDRÉS",
-   "bloque": "La Libertad Avanza",
+   "bloque": "Derecha Popular",
    "mandato": "2023-2027",
    "seccion": 5,
    "distrito": "Mar Del Plata",
@@ -1086,6 +1086,15 @@
    "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=301"
   },
   {
+   "id": "2550",
+   "apellido_nombre": "Fiego, María Luján",
+   "bloque": "La Libertad Avanza",
+   "seccion": 5,
+   "mandato": "2025-2029",
+   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2550.jpg?v=2",
+   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2550"
+  },
+  {
    "id": "2265",
    "apellido_nombre": "Galmarini, Malena",
    "bloque": "Fuerza Patria",
@@ -1183,15 +1192,6 @@
    "mandato": "2023-2027",
    "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2412.jpg?v=2",
    "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2412"
-  },
-  {
-   "id": "2500",
-   "apellido_nombre": "Montenegro, Guillermo Tristan",
-   "bloque": "Pro",
-   "seccion": 5,
-   "mandato": "2025-2029",
-   "foto": "https://www.senado-ba.gov.ar/imagenes/Senadores/2500.jpg?v=2",
-   "url": "https://www.senado-ba.gov.ar/Senador.aspx?idP=2500"
   },
   {
    "id": "2403",

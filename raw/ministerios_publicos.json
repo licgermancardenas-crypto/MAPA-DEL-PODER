@@ -1,5 +1,5 @@
 {
- "fecha": "2026-09-18",
+ "fecha": "2026-10-10",
  "organos": [
   {
    "jur": "pba",
@@ -48,10 +48,7 @@
    "id": "mpf",
    "nombre": "Ministerio Público Fiscal",
    "url": "https://mpfciudad.gob.ar/institucional/autoridades",
-   "titular": {
-    "cargo": "Fiscal General A/C",
-    "nombre": "Javier Martín Lopez Zavaleta"
-   }
+   "titular": null
   },
   {
    "jur": "caba",

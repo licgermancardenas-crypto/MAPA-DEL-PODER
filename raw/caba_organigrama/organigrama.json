@@ -1,5 +1,5 @@
 {
- "fecha": "2026-09-18",
+ "fecha": "2026-10-10",
  "fuente": "https://buenosaires.gob.ar/organigrama",
  "areas": {
   "consejo-de-los-derechos-de-ninas-ninos-y-adolescentes-cdnnya": [
@@ -524,7 +524,7 @@
     "titulares": [
      {
       "cargo": "Autoridad",
-      "nombre": "Sebastián Hugo Malleville"
+      "nombre": "Rodrigo Arballo"
      }
     ]
    },
@@ -1121,7 +1121,7 @@
     "titulares": [
      {
       "cargo": "Autoridad",
-      "nombre": "Andrés Ángel Perrone"
+      "nombre": "Adrián Ángel Perrone"
      }
     ]
    },
@@ -1351,7 +1351,7 @@
     "nombre": "Dirección General Desarrollo Turístico (DGDTU)",
     "responde_a": "ministerio-de-desarrollo-economico-mdecgc",
     "rango": 3,
-    "url": null,
+    "url": "https://buenosaires.gob.ar/perfil_institucional/direccion-general-desarrollo-turistico-dgdtu",
     "titulares": [
      {
       "cargo": "Autoridad",
@@ -1387,22 +1387,6 @@
    },
    {
     "id": "ministerio-de-desarrollo-economico-mdecgc/22",
-    "nombre": "Directorio Consultivo (ENTUR)",
-    "responde_a": "ministerio-de-desarrollo-economico-mdecgc",
-    "rango": null,
-    "url": null,
-    "titulares": []
-   },
-   {
-    "id": "ministerio-de-desarrollo-economico-mdecgc/23",
-    "nombre": "Consejo Asesor (ENTUR)",
-    "responde_a": "ministerio-de-desarrollo-economico-mdecgc",
-    "rango": null,
-    "url": null,
-    "titulares": []
-   },
-   {
-    "id": "ministerio-de-desarrollo-economico-mdecgc/24",
     "nombre": "Unidad de Auditoría Interna ENTUR (UAIENTUR)",
     "responde_a": "ministerio-de-desarrollo-economico-mdecgc",
     "rango": null,
@@ -1413,6 +1397,22 @@
       "nombre": "Damián Alberto Buonocore"
      }
     ]
+   },
+   {
+    "id": "ministerio-de-desarrollo-economico-mdecgc/23",
+    "nombre": "Directorio Consultivo (ENTUR)",
+    "responde_a": "ministerio-de-desarrollo-economico-mdecgc",
+    "rango": null,
+    "url": null,
+    "titulares": []
+   },
+   {
+    "id": "ministerio-de-desarrollo-economico-mdecgc/24",
+    "nombre": "Consejo Asesor (ENTUR)",
+    "responde_a": "ministerio-de-desarrollo-economico-mdecgc",
+    "rango": null,
+    "url": null,
+    "titulares": []
    }
   ],
   "ministerio-de-desarrollo-humano-y-habitat-mdhyhgc": [
@@ -2912,12 +2912,7 @@
     "responde_a": "ministerio-de-justicia-mjgc",
     "rango": 1,
     "url": "https://buenosaires.gob.ar/perfil_institucional/secretaria-de-justicia",
-    "titulares": [
-     {
-      "cargo": "Autoridad",
-      "nombre": "Francisco Javier Quintana"
-     }
-    ]
+    "titulares": []
    },
    {
     "id": "ministerio-de-justicia-mjgc/3",
@@ -4026,7 +4021,12 @@
     "responde_a": "ministerio-de-salud-msgc/8",
     "rango": 3,
     "url": "https://buenosaires.gob.ar/perfil_institucional/direccion-general-de-salud-mental",
-    "titulares": []
+    "titulares": [
+     {
+      "cargo": "Autoridad",
+      "nombre": "Sergio José Luis Giordano"
+     }
+    ]
    },
    {
     "id": "ministerio-de-salud-msgc/11",
@@ -5236,7 +5236,7 @@
     "titulares": [
      {
       "cargo": "Autoridad superior",
-      "nombre": "Ezequiel Sabor"
+      "nombre": "Francisco Javier Quintana"
      }
     ]
    },
@@ -6367,7 +6367,7 @@
     "titulares": [
      {
       "cargo": "Autoridad",
-      "nombre": "Agustina Ciarletta Harguindeguy"
+      "nombre": "María De Los Angeles Reig"
      }
     ]
    },
@@ -6429,12 +6429,7 @@
     "responde_a": "vicejefatura-de-gobierno-avjg/11",
     "rango": 3,
     "url": "https://buenosaires.gob.ar/perfil_institucional/direccion-general-de-transformacion-cultural",
-    "titulares": [
-     {
-      "cargo": "Autoridad",
-      "nombre": "María Pía Tobías"
-     }
-    ]
+    "titulares": []
    },
    {
     "id": "vicejefatura-de-gobierno-avjg/17",
@@ -6455,7 +6450,12 @@
     "responde_a": "vicejefatura-de-gobierno-avjg/17",
     "rango": 3,
     "url": "https://buenosaires.gob.ar/perfil_institucional/direccion-general-de-comunicacion",
-    "titulares": []
+    "titulares": [
+     {
+      "cargo": "Autoridad",
+      "nombre": "Kevin Nahuel Lopez"
+     }
+    ]
    },
    {
     "id": "vicejefatura-de-gobierno-avjg/19",
@@ -6553,8 +6553,13 @@
     "nombre": "Dirección General Formación Laboral para Personas con Discapacidad",
     "responde_a": "vicejefatura-de-gobierno-avjg/21",
     "rango": 3,
-    "url": null,
-    "titulares": []
+    "url": "https://buenosaires.gob.ar/perfil_institucional/direccion-general-de-formacion-laboral-para-personas-con-discapacidad",
+    "titulares": [
+     {
+      "cargo": "Autoridad",
+      "nombre": "Mercedes Inés Barbara"
+     }
+    ]
    }
   ]
  }

@@ -1,5 +1,5 @@
 {
- "fecha": "2026-09-18",
+ "fecha": "2026-10-10",
  "fuente": "https://guiajudicial.jusbaires.gob.ar",
  "organismos": [
   {
@@ -1121,7 +1121,7 @@
     {
      "cargo": "Magistrado/a",
      "nombre": "MANDOLESI, María Antonela",
-     "nota": "En uso de licencia · subroga Laura Beatriz De Marinis",
+     "nota": null,
      "titular": true
     },
     {
@@ -1132,8 +1132,8 @@
     },
     {
      "cargo": "Secretario/a",
-     "nombre": "LENZIN, Ludmila (Interina)",
-     "nota": "En uso de licencia · subroga María Agustina Iriarte López",
+     "nombre": "IRIARTE LÓPEZ, María Agustina",
+     "nota": "Interina",
      "titular": false
     }
    ]
@@ -1470,8 +1470,8 @@
     },
     {
      "cargo": "Secretario/a",
-     "nombre": "Secretario/a: Subroga: Dr. NUÑEZ, Juan Manuel",
-     "nota": "del 1/8/26 al 30/9/26 inclusive",
+     "nombre": "Secretario/a: Subroga: Dr. NUÑEZ, Juan Manuel (1/10/26 al 31/10/26 inclusive))",
+     "nota": null,
      "titular": false
     }
    ]
@@ -1891,7 +1891,7 @@
     {
      "cargo": "Magistrado/a",
      "nombre": "MORAMARCO TERRAROSSA, Bárbara",
-     "nota": "En uso de licencia · subroga José Béguelin",
+     "nota": "En uso de licencia · subroga María Mercedes Maiorano",
      "titular": true
     },
     {

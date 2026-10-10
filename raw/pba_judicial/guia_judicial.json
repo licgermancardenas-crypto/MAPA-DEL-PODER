@@ -1,5 +1,5 @@
 {
- "fecha": "2026-09-18",
+ "fecha": "2026-10-10",
  "fuente": "https://www.scba.gov.ar/guia/default.asp",
  "organismos": [
   {
@@ -824,6 +824,12 @@
     {
      "cargo": "Auxiliar Letrada",
      "nombre": "Valeria Romina Mallo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Santiago Benjamín González",
      "nota": null,
      "titular": false
     }
@@ -1704,6 +1710,12 @@
      "nombre": "Juan José Juarez",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Nicolas Mancedo",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -2264,6 +2276,12 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Carolina Victoria Sotelo Tofani",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": "Jesica Aymara Barenghi",
      "nota": null,
      "titular": false
     }
@@ -7588,19 +7606,13 @@
    "integrantes": [
     {
      "cargo": "Presidenta",
-     "nombre": "Elvira Germano",
-     "nota": "- del 27/3/25 al 25/3/26",
+     "nombre": "Silvana González Pardo",
+     "nota": "- del 27/3/26 al 25/3/27",
      "titular": false
     },
     {
      "cargo": "Vicepresidenta",
-     "nombre": "Fernanda Beatriz Zuázaga",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Vocal",
-     "nombre": "Silvana González Pardo",
+     "nombre": "Elvira Germano",
      "nota": null,
      "titular": false
     },
@@ -10760,13 +10772,13 @@
    "integrantes": [
     {
      "cargo": "Presidente",
-     "nombre": "Dr, Jorge Andrés Alvarez",
+     "nombre": "Jorge Andrés Alvarez",
      "nota": null,
      "titular": true
     },
     {
      "cargo": "Vicepresidente",
-     "nombre": "Dr, Mariano Andrés Porto",
+     "nombre": "Mariano Andrés Porto",
      "nota": null,
      "titular": true
     },
@@ -12861,7 +12873,7 @@
     {
      "cargo": "Auxiliar Letrada",
      "nombre": "Daniela Zorrilla",
-     "nota": null,
+     "nota": "- Licencia",
      "titular": false
     },
     {
@@ -12879,6 +12891,12 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Agustín Flavio Busetti",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Nicolás Emanuel Tomei",
      "nota": null,
      "titular": false
     }
@@ -13641,6 +13659,12 @@
     {
      "cargo": "Auxiliar Letrada",
      "nombre": "María Victoria Montanari",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Micaela Belén González",
      "nota": null,
      "titular": false
     }
@@ -14485,6 +14509,12 @@
      "nombre": "Laura Lorena Hail",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": "Ménica Liliana Hafford",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -14899,6 +14929,46 @@
    ]
   },
   {
+   "id": "343",
+   "nombre": "Juzgado en lo Civil y Comercial N° 2 - ALMIRANTE BROWN",
+   "depto": "Junin",
+   "fuero": "Civil y Comercial",
+   "competencia": "Partido de ALMIRANTE BROWN - Dto. de Junín",
+   "mail": "juzciv2-ju@jusbuenosaires.gov.ar",
+   "integrantes": [
+    {
+     "cargo": "Jueza",
+     "nombre": "Daniela Karina Ragazzini",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Secretaria",
+     "nombre": "María Paulina Giecco",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Emanuel Oscar Vilaseca",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": "Guillermina Diéguez",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Federico Ariel Suavet",
+     "nota": null,
+     "titular": false
+    }
+   ]
+  },
+  {
    "id": "342",
    "nombre": "Juzgado en lo Civil y Comercial N° 1 - Junín",
    "depto": "Junin",
@@ -14933,46 +15003,6 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Joaquín Miguel Vilaseca",
-     "nota": null,
-     "titular": false
-    }
-   ]
-  },
-  {
-   "id": "343",
-   "nombre": "Juzgado en lo Civil y Comercial N° 2 - Junín",
-   "depto": "Junin",
-   "fuero": "Civil y Comercial",
-   "competencia": "Departamento Judicial de Junín",
-   "mail": "juzciv2-ju@jusbuenosaires.gov.ar",
-   "integrantes": [
-    {
-     "cargo": "Jueza",
-     "nombre": "Daniela Karina Ragazzini",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Secretaria",
-     "nombre": "María Paulina Giecco",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Auxiliar Letrado",
-     "nombre": "Emanuel Oscar Vilaseca",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Auxiliar Letrada",
-     "nombre": "Guillermina Diéguez",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Auxiliar Letrado",
-     "nombre": "Federico Ariel Suavet",
      "nota": null,
      "titular": false
     }
@@ -15757,6 +15787,12 @@
      "nombre": "María Mercedes Ortiz",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Martina Mendez Cha",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -16251,8 +16287,8 @@
    "mail": "pericial-ju@jusbuenosaires.gov.ar",
    "integrantes": [
     {
-     "cargo": "Jefe",
-     "nombre": "Gustavo Adolfo Villafañe",
+     "cargo": "Jefa",
+     "nombre": "Claudia Mingorance",
      "nota": null,
      "titular": false
     }
@@ -17976,12 +18012,6 @@
    "competencia": "Departamento Judicial de La Matanza",
    "mail": "juzfam9-lm@jusbuenosaires.gov.ar",
    "integrantes": [
-    {
-     "cargo": "Juez",
-     "nombre": "Claudia Fabiana Godino",
-     "nota": null,
-     "titular": true
-    },
     {
      "cargo": "Consejero",
      "nombre": "Luciano Gabriel González",
@@ -21949,7 +21979,7 @@
    "depto": "La Plata",
    "fuero": null,
    "competencia": null,
-   "mail": "dgmandnot@jusbuenosaires.gov.ar",
+   "mail": "dgmn@jusbuenosaires.gov.ar",
    "integrantes": [
     {
      "cargo": "Directora",
@@ -22062,20 +22092,20 @@
      "titular": false
     },
     {
-     "cargo": "Abogada Adscripta",
-     "nombre": "Marcela Alejandra Marusso",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Abogado Adscripto",
+     "cargo": "Abogado Inspector",
      "nombre": "Martín Humberto Comunelli",
      "nota": null,
      "titular": false
     },
     {
-     "cargo": "Abogado Adscripto",
-     "nombre": "Gonzalo Finocchiaro",
+     "cargo": "Abogado Adscripta",
+     "nombre": "Marcela Alejandra Marusso",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Abogada Adscripta",
+     "nombre": "Gabriela Elizabeth Soria",
      "nota": null,
      "titular": false
     },
@@ -23420,6 +23450,12 @@
     {
      "cargo": "Auxiliar Letrada",
      "nombre": "Maria Fernanda Pelusso",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Emiliano Sergio De Armas",
      "nota": null,
      "titular": false
     }
@@ -26229,12 +26265,6 @@
     },
     {
      "cargo": "Auxiliar Letrada",
-     "nombre": "Maite Bentancourt",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Auxiliar Letrada",
      "nombre": "María Laura Trotta",
      "nota": null,
      "titular": false
@@ -26298,6 +26328,12 @@
      "titular": false
     },
     {
+     "cargo": "Secretario",
+     "nombre": "Bruno Pietro",
+     "nota": null,
+     "titular": false
+    },
+    {
      "cargo": "Secretaria",
      "nombre": "María Virginia del Rio",
      "nota": "- Interina",
@@ -26312,12 +26348,12 @@
     {
      "cargo": "Auxiliar Letrada",
      "nombre": "Julieta Aldana Azzio",
-     "nota": "- Interina",
+     "nota": null,
      "titular": false
     },
     {
      "cargo": "Auxiliar Letrada",
-     "nombre": "Julieta Aldana Azzio",
+     "nombre": "Maite Beamtancourt",
      "nota": null,
      "titular": false
     }
@@ -26420,7 +26456,7 @@
      "titular": false
     },
     {
-     "cargo": "Secretaria",
+     "cargo": "Consejera",
      "nombre": "Fabia Carolina Martini Capobianco",
      "nota": null,
      "titular": false
@@ -27078,6 +27114,12 @@
      "nombre": "Cecilia Andrea Garmendia",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Federico Germán Andorno",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -27170,7 +27212,7 @@
     {
      "cargo": "Auxiliar Letrada",
      "nombre": "Valentina Castillo",
-     "nota": "- Interina",
+     "nota": null,
      "titular": false
     },
     {
@@ -27466,7 +27508,13 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Gonzalo López Seco",
-     "nota": null,
+     "nota": "- Licencia",
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": "Romina Mariela Gómez",
+     "nota": "- Interina",
      "titular": false
     }
    ]
@@ -28404,12 +28452,6 @@
      "titular": false
     },
     {
-     "cargo": "Auxiliar Letrado",
-     "nombre": "Manuel Maldonado",
-     "nota": null,
-     "titular": false
-    },
-    {
      "cargo": "Auxiliar Letrada",
      "nombre": "Claribel Cascella",
      "nota": null,
@@ -29145,22 +29187,6 @@
    ]
   },
   {
-   "id": "1380",
-   "nombre": "Programa de Relevamiento Organización y Destrucción de Expedientes (PRODE) - La Plata",
-   "depto": "La Plata",
-   "fuero": null,
-   "competencia": "Departamento Judicial de La Plata",
-   "mail": null,
-   "integrantes": [
-    {
-     "cargo": "Titular",
-     "nombre": "Marcela Adriana De Luca",
-     "nota": "- Área Civil",
-     "titular": false
-    }
-   ]
-  },
-  {
    "id": "1381",
    "nombre": "Programa de Relevamiento Organización y Destrucción de Expedientes (PRODE) - La Plata",
    "depto": "La Plata",
@@ -29172,6 +29198,22 @@
      "cargo": "Titular",
      "nombre": "Marcela De Luca",
      "nota": "- Área Penal",
+     "titular": false
+    }
+   ]
+  },
+  {
+   "id": "1380",
+   "nombre": "Programa de Relevamiento Organización y Destrucción de Expedientes (PRODE) - La Plata",
+   "depto": "La Plata",
+   "fuero": null,
+   "competencia": "Departamento Judicial de La Plata",
+   "mail": null,
+   "integrantes": [
+    {
+     "cargo": "Titular",
+     "nombre": "Marcela Adriana De Luca",
+     "nota": "- Área Civil",
      "titular": false
     }
    ]
@@ -30131,6 +30173,12 @@
      "titular": false
     },
     {
+     "cargo": "Secretaria",
+     "nombre": "Mariana Marisa Fignoni",
+     "nota": null,
+     "titular": false
+    },
+    {
      "cargo": "Auxiliar Letrado",
      "nombre": "Ricardo Rodolfo Fabio Romero",
      "nota": null,
@@ -30145,12 +30193,6 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Edgardo Pandini",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Auxiliar Letrada",
-     "nombre": "Mariana Marisa Fignoni",
      "nota": null,
      "titular": false
     }
@@ -30523,8 +30565,8 @@
      "titular": false
     },
     {
-     "cargo": "Auxiliar Letrada",
-     "nombre": "Elvira Berta Rivas",
+     "cargo": "Secretaria",
+     "nombre": "Andrea Valeria Guerrero",
      "nota": null,
      "titular": false
     },
@@ -30536,7 +30578,7 @@
     },
     {
      "cargo": "Auxiliar Letrada",
-     "nombre": "Andrea Valeria Guerrero",
+     "nombre": "Elvira Berta Rivas",
      "nota": null,
      "titular": false
     },
@@ -30555,6 +30597,12 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Sebastián Alberto Pizzo",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Luis José Minutillo",
      "nota": null,
      "titular": false
     }
@@ -31305,6 +31353,12 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Rodrigo Ezequiel Herrera",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": "Karen Anabei Díaz",
      "nota": null,
      "titular": false
     }
@@ -32302,12 +32356,6 @@
     },
     {
      "cargo": "Auxiliar Letrada",
-     "nombre": "Cecilia Inés De Beruti",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Auxiliar Letrada",
      "nombre": "Julieta Mabel Barbeito Fullone",
      "nota": null,
      "titular": false
@@ -32315,12 +32363,6 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Matías Marcelo Vanzini",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Auxiliar Letrado",
-     "nombre": "Joaquín Nessi",
      "nota": null,
      "titular": false
     },
@@ -32345,6 +32387,12 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Valentín Eugenio Lopez de Armentla",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Mateo Agustín Sió",
      "nota": null,
      "titular": false
     }
@@ -32549,6 +32597,12 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Natalia Ayelén Fernandez",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Cecilia Inés De Beruti",
      "nota": null,
      "titular": false
     }
@@ -33251,6 +33305,12 @@
      "nombre": "Matías Delgado",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Nicolás Occhipinti",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -33565,7 +33625,7 @@
     {
      "cargo": "Presidenta",
      "nombre": "María Eugenia Larequi",
-     "nota": "- 21/08/26 al 21/08/27",
+     "nota": "- 22/08/26 al 22/02/27",
      "titular": false
     },
     {
@@ -38647,6 +38707,18 @@
      "nombre": "Gastón Ariel Lasala",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": "Claudia Miriam Giuliano",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Cnstian Gabriel Sanchez",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -40357,6 +40429,12 @@
     {
      "cargo": "Auxiliar Letrada",
      "nombre": "Micaela Bria",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": "María Julieta Etchepareborde",
      "nota": null,
      "titular": false
     }
@@ -46402,20 +46480,20 @@
    "mail": "camciv-ne@jusbuenosaires.gov.ar",
    "integrantes": [
     {
-     "cargo": "Presidenta",
-     "nombre": "Ana Clara Issin",
-     "nota": "- del 20/9/25 al 26/9/26",
-     "titular": false
-    },
-    {
-     "cargo": "Vicepresidente",
+     "cargo": "Presidente",
      "nombre": "Fabián Marcelo Loiza",
-     "nota": null,
+     "nota": "- del 20/9/26 al 26/9/27",
      "titular": true
     },
     {
-     "cargo": "Vocal",
+     "cargo": "Vicepresidenta",
      "nombre": "Laura Alicia Bulesevich",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Vocal",
+     "nombre": "Ana Clara Issin",
      "nota": null,
      "titular": false
     },
@@ -46461,19 +46539,19 @@
    "integrantes": [
     {
      "cargo": "Presidente",
-     "nombre": "Alfredo Pablo Noel",
-     "nota": "- del 25/9/2025 al 26/09/2026",
+     "nombre": "Marcela Fabiana Almeida",
+     "nota": "- del 25/9/2026 al 26/09/2027",
      "titular": true
     },
     {
      "cargo": "Vicepresidenta",
-     "nombre": "Marcela Fabiana Almeida",
+     "nombre": "Daniel Oscar Surgen",
      "nota": null,
      "titular": false
     },
     {
      "cargo": "Vocal",
-     "nombre": "Daniel Oscar Surgen",
+     "nombre": "Alfredo Pablo Noel",
      "nota": null,
      "titular": false
     },
@@ -47141,20 +47219,14 @@
    "integrantes": [
     {
      "cargo": "Presidenta",
-     "nombre": "Mariana Giménez",
-     "nota": "- del 22/09/25 al 23/09/26",
-     "titular": false
-    },
-    {
-     "cargo": "Vicepresidenta",
      "nombre": "Luciana Irigoyen Testa",
-     "nota": null,
+     "nota": "- del 22/09/26 al 23/09/27",
      "titular": false
     },
     {
      "cargo": "Vocal",
-     "nombre": "Ernesto Francisco Juliano",
-     "nota": null,
+     "nombre": "Mariana Giménez",
+     "nota": "- Licencia",
      "titular": false
     },
     {
@@ -47639,7 +47711,7 @@
      "titular": false
     },
     {
-     "cargo": "Auxiliar Letrada",
+     "cargo": "Secretaria",
      "nombre": "María Agustina Rubio",
      "nota": null,
      "titular": false
@@ -48108,19 +48180,19 @@
    "integrantes": [
     {
      "cargo": "Presidenta",
-     "nombre": "Denise Scaglia",
-     "nota": "- del 18-9-25 al 17-9-26",
+     "nombre": "María Alicia Luppi Barbella",
+     "nota": "- del 18-9-26 al 17-9-27",
      "titular": false
     },
     {
-     "cargo": "Vicepresidenta",
-     "nombre": "María Alicia Luppi Barbella",
+     "cargo": "Vicepresidente",
+     "nombre": "Leonardo Miguel Villanueva",
      "nota": null,
-     "titular": false
+     "titular": true
     },
     {
      "cargo": "Vocal",
-     "nombre": "Leonardo Miguel Villanueva",
+     "nombre": "Denise Scaglia",
      "nota": null,
      "titular": false
     },
@@ -48456,13 +48528,13 @@
    "integrantes": [
     {
      "cargo": "Presidente",
-     "nombre": "Griselda Nora Pastorino",
-     "nota": "- del 1/10/25 al 30/9/26",
+     "nombre": "Gonzalo Alfredo López Cardoso",
+     "nota": "- del 1/10/26 al 30/9/27",
      "titular": true
     },
     {
      "cargo": "Vicepresidente",
-     "nombre": "Gonzalo Alfredo López Cardoso",
+     "nombre": "Gabriel Pablo Zapa",
      "nota": null,
      "titular": true
     },
@@ -51298,12 +51370,6 @@
      "nombre": "María Celina Carolini",
      "nota": null,
      "titular": false
-    },
-    {
-     "cargo": "Auxiliar Letrado",
-     "nombre": "Gustavo Daniel Bonacich Kresich",
-     "nota": null,
-     "titular": false
     }
    ]
   },
@@ -51603,7 +51669,7 @@
     },
     {
      "cargo": "Auxiliar Letrado",
-     "nombre": "Santiago Benito",
+     "nombre": "Santiago Beneito",
      "nota": "- Interino",
      "titular": false
     }
@@ -54767,6 +54833,12 @@
      "nombre": "Nicolás Guillermo De Santis",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Nicolás Enrique Turano",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -55615,6 +55687,12 @@
      "nombre": "Valería Antonella Baratti",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": ". Wanda Conde",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -56393,20 +56471,20 @@
    "mail": "tribtrab7-pi@jusbuenosaires.gov.ar",
    "integrantes": [
     {
-     "cargo": "Presidenta",
-     "nombre": "Diana Dubra",
-     "nota": null,
-     "titular": false
-    },
-    {
-     "cargo": "Vicepresidente",
+     "cargo": "Presidente",
      "nombre": "Luis Daniel José De Urquiza",
      "nota": null,
      "titular": true
     },
     {
-     "cargo": "Vocal",
+     "cargo": "Vicepresidenta",
      "nombre": "Susana Graciela Mendivil",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Vocal",
+     "nombre": "Diana Dubra",
      "nota": null,
      "titular": false
     },
@@ -58841,6 +58919,12 @@
      "nombre": "Emiliano Ignacio Luciano",
      "nota": null,
      "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrada",
+     "nombre": "Mariana Arias",
+     "nota": null,
+     "titular": false
     }
    ]
   },
@@ -59669,7 +59753,7 @@
      "titular": true
     },
     {
-     "cargo": "Secretaria",
+     "cargo": "Secretaria adscripta",
      "nombre": "Elsa Marcela Cohen",
      "nota": null,
      "titular": false
@@ -59681,8 +59765,8 @@
      "titular": false
     },
     {
-     "cargo": "Auxiliar Letrada",
-     "nombre": "Silvia Beatriz Berengan",
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Juan Eduardo Sartirana",
      "nota": null,
      "titular": false
     },
@@ -60664,15 +60748,21 @@
    "integrantes": [
     {
      "cargo": "Presidente",
-     "nombre": "Facundo Rodrigo Galanes",
+     "nombre": "Horacio Marcelo Centeno",
      "nota": null,
      "titular": true
     },
     {
      "cargo": "Vicepresidente",
-     "nombre": "Horacio Marcelo Centeno",
+     "nombre": "Guillermo Hernan Pueblas",
      "nota": null,
      "titular": true
+    },
+    {
+     "cargo": "Vocal",
+     "nombre": "Facundo Rodrigo Galanes",
+     "nota": null,
+     "titular": false
     },
     {
      "cargo": "Secretario",
@@ -62041,6 +62131,12 @@
     {
      "cargo": "Auxiliar Letrado",
      "nombre": "Julieta Mila",
+     "nota": null,
+     "titular": false
+    },
+    {
+     "cargo": "Auxiliar Letrado",
+     "nombre": "Ariel Horacio Olivero",
      "nota": null,
      "titular": false
     }
