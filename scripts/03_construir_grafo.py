@@ -198,13 +198,29 @@ for cam, nom, fuente, lista in [("diputados_prov", "Cámara de Diputados", "Cám
 intend = json.loads((PREV / "intendentes.json").read_text())
 secre = json.loads((PREV / "secretarios.json").read_text())
 conce = json.loads((PREV / "concejales_flat.json").read_text())
+# Cambios posteriores a intendentes.json (que sale de un Excel de 2023), cada uno con su fuente.
+CAMBIOS_INTENDENTES = {
+    "Bolívar": dict(intendente="Eduardo Bucca", desde="2025-12-10",
+                    nota="Asumió por la renuncia de Marcos Pisano, electo senador provincial",
+                    norma="Letra P, 21/11/2025",
+                    norma_url="https://www.letrap.com.ar/conurbano/siete-intendentes-peronistas-llegan-la-legislatura-bonaerense-seis-licencias-y-una-renuncia-n5420297"),
+    "Lezama": dict(intendente="Myriam Carina Mongay", desde="2026-03-02",
+                   nota="Asumió por la renuncia de Arnaldo Harispe (jubilación); completa el mandato hasta 2027",
+                   norma="Infozona", norma_url="https://www.infozona.com.ar/?p=387940"),
+    "Daireaux": dict(intendente="María Alejandra Serra", rol="Intendente/a a cargo", desde="2025-12-10",
+                     nota="A cargo durante la licencia de Esteban Alejandro Acerbo (diputado provincial) hasta el 10/12/2027",
+                     norma="Decreto 1441/2025 (Boletín Oficial de Daireaux)",
+                     norma_url="https://sibom.slyt.gba.gob.ar/bulletins/14871/contents/2380676"),
+}
 for m in intend:
     mid = unidad(f"pba:muni:{slug(m['municipio'])}", m["municipio"], "municipio", "pba:municipios",
                  seccion=m.get("seccion"), padron=m.get("padron"))
     dem = unidad(f"{mid}:ejecutivo", f"Departamento Ejecutivo · {m['municipio']}", "ejecutivo_municipal", mid)
     unidad(f"{mid}:hcd", f"Concejo Deliberante · {m['municipio']}", "concejo", mid)
-    cargo(m["intendente"], dem, "Intendente/a", "Datos previos (intendentes.json)",
-          partido=m.get("partido"))
+    cambio = dict(CAMBIOS_INTENDENTES.get(m["municipio"], {}))
+    cargo(cambio.pop("intendente", m["intendente"]), dem, cambio.pop("rol", "Intendente/a"),
+          "Datos previos (intendentes.json)" + (" + corrección" if cambio else ""),
+          partido=m.get("partido"), **cambio)
 for muni, lista in secre.items():
     mid = f"pba:muni:{slug(muni)}"
     if mid not in unidades:
