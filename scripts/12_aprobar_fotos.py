@@ -14,6 +14,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urlparse
 
 RAIZ = Path(__file__).resolve().parents[1]
 CAND = json.loads((RAIZ / "raw/candidatas_intendentes.json").read_text())
@@ -52,6 +53,19 @@ def planilla():
     print(f"{out} · {len(filas)} municipios para revisar")
 
 
+def fuente(r, pagina):
+    """Las candidatas salen del sitio del municipio, de gba.gob.ar, de Commons o de diarios."""
+    host = urlparse(pagina).netloc.removeprefix("www.")
+    propio = r["web"] and host == urlparse("//" + re.sub(r"^https?://", "", r["web"])).netloc.removeprefix("www.")
+    if host.endswith("gba.gob.ar"):
+        return "Gobierno de la Provincia de Buenos Aires (aprobada a mano)"
+    if propio or re.search(r"\.go[bv]\.ar$|^pergamino\.ar$", host):
+        return f"Sitio oficial de {r['municipio']} (aprobada a mano)"
+    if host == "commons.wikimedia.org":
+        return "Wikimedia Commons (aprobada a mano)"
+    return f"{host} (aprobada a mano)"
+
+
 def aplicar(codigo):
     sel = dict(re.findall(r"([a-z0-9-]+)=(\d)", codigo))
     por_clave = {clave_muni(r): r for r in CAND if r["id_municipio"]}
@@ -63,7 +77,7 @@ def aplicar(codigo):
             print(f"  ignorado: {k}={i}")
             continue
         c = r["candidatas"][int(i) - 1]
-        FOTOS[pid] = {"src": c["src"], "fuente": f"Sitio oficial de {r['municipio']} (aprobada a mano)", "url": c["pagina"]}
+        FOTOS[pid] = {"src": c["src"], "fuente": fuente(r, c["pagina"]), "url": c["pagina"]}
         n += 1
     FOTOS_F.write_text(json.dumps(FOTOS, ensure_ascii=False), encoding="utf-8")
     with open(RAIZ / "raw/aprobadas_intendentes.txt", "a", encoding="utf-8") as f:
