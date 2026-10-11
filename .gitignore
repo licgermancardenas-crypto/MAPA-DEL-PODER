@@ -9,3 +9,4 @@ __pycache__/
 # Planilla de revisión y candidatas: incluyen fotos no aprobadas (se regeneran con 11 y 12)
 raw/candidatas_intendentes.json
 web/revision_intendentes.html
+raw/hoja_secretarios.png

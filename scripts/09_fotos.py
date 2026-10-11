@@ -243,6 +243,9 @@ for pid, nombre in candidatos.items():
             n += 1
 print(f"   {n} fotos")
 
+# La misma imagen para dos o más personas es una silueta genérica ("sin foto") del sitio de origen.
+repetidas = {src for src, k in __import__("collections").Counter(f["src"] for f in fotos.values()).items() if k > 1}
+fotos = {pid: f for pid, f in fotos.items() if f["src"] not in repetidas}
 OUT.write_text(json.dumps(fotos, ensure_ascii=False), encoding="utf-8")
 por_fuente = {}
 for f in fotos.values():
