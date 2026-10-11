@@ -2,6 +2,7 @@
 
 Prueba, para cada municipio pendiente:
   · variantes del dominio (http/https, con y sin www) para los sitios que no respondieron;
+  · los enlaces del menú de la portada que hablan del intendente, las autoridades o el gabinete;
   · rutas típicas: /intendente, /intendencia, /autoridades, /gabinete, /institucional…;
   · el buscador del sitio (?s=apellido) y, en los WordPress, su API: /wp-json/wp/v2/media?search=
     y /wp-json/wp/v2/search?search=;
@@ -117,7 +118,17 @@ def buscar(r):
     if not base_ok:
         return r, "sitio caído"
 
-    for ruta in RUTAS[1:]:
+    # Enlaces del menú de la portada que llevan al intendente (cada sitio usa su ruta:
+    # /?q=intendente-municipal, /municipio/intendente, /municipio/autoridades/…)
+    host = urlparse(home.url).netloc
+    enlaces = []
+    for m in re.finditer(r'<a\b[^>]*href="([^"#]+)"[^>]*>(.*?)</a>', home.text, re.I | re.S):
+        url = urljoin(home.url, m.group(1))
+        if urlparse(url).netloc == host and re.search(rf"intend|autoridad|gabinete|{ap}", slug(m.group(1) + " " + texto(m.group(2)))):
+            if url not in enlaces:
+                enlaces.append(url)
+
+    for ruta in enlaces[:10] + RUTAS[1:]:
         resp = get(urljoin(base_ok, ruta))
         if resp is not None and resp.status_code < 400 and "html" in resp.headers.get("content-type", ""):
             mirar_html(resp.url, resp.text)

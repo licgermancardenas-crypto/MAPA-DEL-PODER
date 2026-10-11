@@ -112,19 +112,26 @@ org = json.loads((RAIZ / "raw/caba_organigrama/organigrama.json").read_text())["
 n = 0
 for nodos in org.values():
     for nd in nodos:
-        if not nd.get("url") or "/perfil_institucional/" not in nd["url"] or len(nd["titulares"]) != 1:
+        if not nd.get("url") or len(nd["titulares"]) != 1:
             continue
+        url = nd["url"]
+        if "/perfil_institucional/" not in url:
+            # Ministerios y secretarías de primer nivel: el organigrama no enlaza la ficha, pero
+            # existe en /perfil_institucional/<nombre sin la sigla> ("ministerio-de-salud").
+            if nd.get("responde_a"):
+                continue
+            url = "https://buenosaires.gob.ar/perfil_institucional/" + slug(re.sub(r"\s*\([^)]*\)\s*$", "", nd["nombre"]))
         pid = clave(nd["titulares"][0]["nombre"])
         if pid in fotos:
             continue
         try:
-            t = s.get(nd["url"], timeout=40).text
+            t = s.get(url, timeout=40).text
         except requests.RequestException:
             continue
         # alt varía: "Foto del funcionario", "Foto de funcionario", "Imagen del funcionario X"
         m = re.search(r'<img src="([^"]+)" alt="[^"]*funcionari[^"]*"', t, re.I)
         if m and asignar(nd["titulares"][0]["nombre"], "https://buenosaires.gob.ar" + m.group(1)
-                         if m.group(1).startswith("/") else m.group(1), "Organigrama GCBA", nd["url"]):
+                         if m.group(1).startswith("/") else m.group(1), "Organigrama GCBA", url):
             n += 1
         time.sleep(0.25)
 print(f"   {n} fotos")
@@ -158,13 +165,15 @@ print(f"   {n} fotos")
 paso("Wikidata")
 U = {u["id"]: u for u in grafo["unidades"]}
 # Sin concejales ni direcciones: un homónimo notable les pondría la foto de otra persona.
-PRIMERA = {"gobernacion", "ministerio", "corte", "ministerio_publico"}
+PRIMERA = {"gobernacion", "ministerio", "secretaria", "subsecretaria", "corte", "ministerio_publico"}
 OFICIOS = {"Q82955", "Q40348", "Q16533", "Q188094", "Q212238", "Q1930187", "Q1622272"}  # político, abogado, juez, economista, funcionario, periodista, profesor univ.
 PERFIL = re.compile(r"pol[ií]tic|abogad|jue[zc]|ministr|funcionari|intendent|diputad|senador|economista|legislador|politician|lawyer|judge", re.I)
 
 
 def es_primera_linea(c):
     u = U[c["unidad"]]
+    if ":muni:" in u["id"]:  # secretarías municipales: demasiados homónimos
+        return False
     if u["tipo"] in PRIMERA or c["rol"].startswith(("Intendente", "Juez/a del TSJ")):
         return True
     padre = U.get(u["padre"] or "", {})
@@ -222,7 +231,8 @@ for pid, nombre in candidatos.items():
         img = cl.get("P18", [{}])[0].get("mainsnak", {}).get("datavalue", {}).get("value")
         oficio = any(x["mainsnak"].get("datavalue", {}).get("value", {}).get("id") in OFICIOS for x in cl.get("P106", [])) \
             or PERFIL.search(json.dumps(e.get("descriptions", {}), ensure_ascii=False))
-        if humano and argentino and coincide and oficio and img:
+        vivo = "P570" not in cl  # sin fecha de muerte: descarta próceres homónimos (Carlos Pellegrini)
+        if humano and vivo and argentino and coincide and oficio and img:
             ok.append((e["id"], img))
     if len(ok) == 1:
         qid, img = ok[0]
