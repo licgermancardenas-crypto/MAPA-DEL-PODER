@@ -77,8 +77,14 @@ def es_icono(src):
     return en_color and len(set(px)) < 1500
 
 
-def buscar(muni, web, secretarios):
-    """→ {persona_id: (img, pagina)} para un municipio."""
+def apellido(nombre):
+    return [w for w in slug(nombre).split("-") if len(w) > 2][-1:]
+
+
+def buscar(muni, web, secretarios, menu=MENU, rutas=RUTAS, nombra=nombra, apellido=apellido):
+    """→ {persona_id: (img, pagina)} para un municipio. `secretarios` son todas las personas
+    del municipio contra las que se compara ({persona_id: nombre}); `apellido(nombre)` da las
+    palabras con las que buscar a cada una en el banco de imágenes de WordPress."""
     home = None
     for esq in ("https://", "http://"):
         host = re.sub(r"^https?://", "", web).strip("/")
@@ -93,10 +99,10 @@ def buscar(muni, web, secretarios):
         url = urljoin(home.url, m.group(1))
         etiqueta = texto(m.group(2))
         # textos largos en el menú suelen ser títulos de noticias, no secciones
-        if urlparse(url).netloc == hostname and len(etiqueta) <= 40 and MENU.search(m.group(1) + " " + etiqueta) \
+        if urlparse(url).netloc == hostname and len(etiqueta) <= 40 and menu.search(m.group(1) + " " + etiqueta) \
                 and url not in paginas:
             paginas.append(url)
-    paginas = paginas[:12] + [urljoin(home.url.rstrip("/") + "/", r) for r in RUTAS]
+    paginas = paginas[:12] + [urljoin(home.url.rstrip("/") + "/", r) for r in rutas]
 
     hallado = {}   # persona → (img, pagina)
     dudosas = set()
@@ -125,25 +131,25 @@ def buscar(muni, web, secretarios):
                 hallado.setdefault(pid, (img, r.url))
     # WordPress: banco de imágenes del propio sitio, buscando por apellido
     base = home.url.rstrip("/") + "/"
+    es_wp = True
     for pid, nombre in secretarios.items():
-        if pid in hallado:
-            continue
-        apellido = [w for w in slug(nombre).split("-") if len(w) > 2][-1:]
-        if not apellido:
-            continue
-        try:
-            items = requests.get(urljoin(base, "wp-json/wp/v2/media"), headers=UA, timeout=15, verify=False,
-                                 params={"search": apellido[0], "per_page": 20, "_fields": "source_url,title,alt_text,link"}).json()
-        except (requests.RequestException, ValueError):
-            break   # no es WordPress (o no deja consultar): no insistir con los demás
-        if not isinstance(items, list):
-            break
-        for it in items:
-            img = it.get("source_url", "")
-            t = slug(json.dumps(it.get("title", ""), ensure_ascii=False) + " " + it.get("alt_text", "") + " " + img.rsplit("/", 1)[-1])
-            if img and not BASURA.search(img) and [p for p, n in secretarios.items() if nombra(t, n)] == [pid]:
-                hallado[pid] = (img, it.get("link") or base)
+        for palabra in apellido(nombre):
+            if pid in hallado or not es_wp:
                 break
+            try:
+                items = requests.get(urljoin(base, "wp-json/wp/v2/media"), headers=UA, timeout=15, verify=False,
+                                     params={"search": palabra, "per_page": 20, "_fields": "source_url,title,alt_text,link"}).json()
+            except (requests.RequestException, ValueError):
+                items = None
+            if not isinstance(items, list):
+                es_wp = False   # no es WordPress (o no deja consultar): no insistir con los demás
+                break
+            for it in items:
+                img = it.get("source_url", "")
+                t = slug(json.dumps(it.get("title", ""), ensure_ascii=False) + " " + it.get("alt_text", "") + " " + img.rsplit("/", 1)[-1])
+                if img and not BASURA.search(img) and [p for p, n in secretarios.items() if nombra(t, n)] == [pid]:
+                    hallado[pid] = (img, it.get("link") or base)
+                    break
     return {pid: v for pid, v in hallado.items() if pid not in dudosas}
 
 
